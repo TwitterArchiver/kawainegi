@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2077052625502220554",
+    "created_at": "2026-07-14T16:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077066263592067114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "IchinichiNagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077066263592067114",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077052625502220554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IchinichiNagi 還以為只有二次元界隈的人才會廣泛的用「老師」來代稱欸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077052609312264193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMsV-3bEAEE10x.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2077052625502220554",
+        "created_at": "2026-07-14T16:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077066263592067114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "IchinichiNagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077066263592067114",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077052625502220554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IchinichiNagi 還以為只有二次元界隈的人才會廣泛的用「老師」來代稱欸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077052609312264193"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "conversation_id": "2077052625502220554",
+        "created_at": "2026-07-14T15:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077052625502220554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MUcahpzifX",
+              "end": 94,
+              "expanded_url": "https://x.com/IchinichiNagi/status/2077052625502220554/photo/1",
+              "media_key": "3_2077052609312264193",
+              "start": 71,
+              "url": "https://t.co/MUcahpzifX"
+            },
+            {
+              "display_url": "x.com/ichinichinagi/…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/ichinichinagi/status/2077049969065013488",
+              "start": 95,
+              "url": "https://t.co/DHty0qqRyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077052625502220554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 309,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077049969065013488",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "济南好感度+12\n酒店前台全程称呼杨老师\n我草我才意识到原来真的可以有这种无性别的称呼\n这tm不比先生女士好多了\n我草平等的羡慕每一个山东人 https://t.co/MUcahpzifX https://t.co/DHty0qqRyX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "是一隻不可愛的小跨妹",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 156,
+          "like_count": 6570,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1326
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "对于Nagi来说\n他们是一日男友\n\n那对于他们来说\n我是不是一日Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhT3S6"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "Stansted Airport",
+        "name": "这是一日Nagi吗？",
+        "pinned_tweet_id": "2076159056612585652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076291088625885184/U0VEOAw9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5991,
+          "following_count": 2385,
+          "like_count": 30705,
+          "listed_count": 8,
+          "media_count": 2821,
+          "tweet_count": 26598
+        },
+        "url": "https://t.co/nRq8LhT3S6",
+        "username": "IchinichiNagi",
+        "verified": false
+      }
+    ]
+  }
+}

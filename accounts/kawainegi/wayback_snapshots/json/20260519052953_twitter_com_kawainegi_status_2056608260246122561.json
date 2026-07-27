@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2056366504527208663",
+    "created_at": "2026-05-19T05:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T06:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056608260246122561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1594297311836143616",
+          "start": 0,
+          "username": "xiwu0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056608260246122561",
+    "in_reply_to_user_id": "1594297311836143616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056366504527208663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiwu0721 我希望我會這樣結束"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2056366504527208663",
+        "created_at": "2026-05-19T05:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056608260246122561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1594297311836143616",
+              "start": 0,
+              "username": "xiwu0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056608260246122561",
+        "in_reply_to_user_id": "1594297311836143616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056366504527208663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiwu0721 我希望我會這樣結束"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594297311836143616",
+        "conversation_id": "2056366504527208663",
+        "created_at": "2026-05-18T13:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056366504527208663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056366504527208663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 693,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果有一天我死了，大概率会没有讣告的，被世界彻底遗忘。\n不想建立联系，因为我害怕因为死亡，给对方留下遗憾，也希望一切关于我的记忆就此消失，彻底从这个世界死去，像从未存在过一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 146,
+          "like_count": 4968,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 962
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T11:51:36.000Z",
+        "description": "MtF🏳️‍⚧️|HRT 2026.3.12🍥|170cm 54kg|INFP|双相休学中|zc不od|同类互fo 贴贴喵🥺|疑似不管党？|已被赶出门暂居武汉|喜欢可爱的事物想要很多朋友|永远活在16岁",
+        "id": "1594297311836143616",
+        "location": "武汉市",
+        "name": "夕雾🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040815765197316096/KCGQMePy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 256,
+          "like_count": 340,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 147
+        },
+        "username": "xiwu0721",
+        "verified": false
+      }
+    ]
+  }
+}

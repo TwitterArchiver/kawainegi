@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2059513783857635405",
+    "created_at": "2026-05-27T05:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059513783857635405"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059513783857635405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "從小學開始就一直想死，經常搜尋自殺方法之類的，可能會因為OD 而死亡的藥物會被管制，安樂死好像也不會合法化\n\n明明想死，卻沒有成功的自殺，死亡越來越遠，我無法忍受不得不這樣持續幾十年的恐懼，依然最低能量的每天漂浮在生活的最底邊\n\n對社會越來越不適合性，慢慢的失去社會機能，成為廢人等死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2059513783857635405",
+        "created_at": "2026-05-27T05:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059513783857635405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059513783857635405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "從小學開始就一直想死，經常搜尋自殺方法之類的，可能會因為OD 而死亡的藥物會被管制，安樂死好像也不會合法化\n\n明明想死，卻沒有成功的自殺，死亡越來越遠，我無法忍受不得不這樣持續幾十年的恐懼，依然最低能量的每天漂浮在生活的最底邊\n\n對社會越來越不適合性，慢慢的失去社會機能，成為廢人等死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 154,
+          "like_count": 5689,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1140
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

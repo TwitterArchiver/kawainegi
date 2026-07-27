@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2054782302287515690",
+    "created_at": "2026-05-14T05:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T06:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054799716572103110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "4rulq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054799716572103110",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054782302287515690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rulq 13吋⋯好想買來繪圖嗚嗚"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43161,
+        "height": 720,
+        "media_key": "13_2054782139804389378",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054782139804389378/img/81fr6uthmq0Tbqo2.jpg",
+        "public_metrics": {
+          "view_count": 19
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054782139804389378/vid/avc1/480x270/jyqNTGC5tkC4w_Uq.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054782139804389378/vid/avc1/640x360/75_0BkOthjoTU4RJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054782139804389378/vid/avc1/1280x720/lpZ0fQNUPMOo5nVX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054782139804389378/pl/f8eqDBVoM2NMPz8A.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2054782139833671680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQNeC-aYAApWwR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2054782139795910657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQNeC1aMAEn-Sx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2054782139795959808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQNeC1a8AAmTCN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2054782302287515690",
+        "created_at": "2026-05-14T05:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054799716572103110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "4rulq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054799716572103110",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054782302287515690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rulq 13吋⋯好想買來繪圖嗚嗚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054782139804389378",
+            "3_2054782139833671680",
+            "3_2054782139795910657",
+            "3_2054782139795959808"
+          ]
+        },
+        "author_id": "2035668415231492096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2054782302287515690",
+        "created_at": "2026-05-14T04:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054782302287515690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FxpBRInJm8",
+              "end": 50,
+              "expanded_url": "https://x.com/4rulq/status/2054782302287515690/video/1",
+              "media_key": "13_2054782139804389378",
+              "start": 27,
+              "url": "https://t.co/FxpBRInJm8"
+            },
+            {
+              "display_url": "pic.x.com/FxpBRInJm8",
+              "end": 50,
+              "expanded_url": "https://x.com/4rulq/status/2054782302287515690/video/1",
+              "media_key": "3_2054782139833671680",
+              "start": 27,
+              "url": "https://t.co/FxpBRInJm8"
+            },
+            {
+              "display_url": "pic.x.com/FxpBRInJm8",
+              "end": 50,
+              "expanded_url": "https://x.com/4rulq/status/2054782302287515690/video/1",
+              "media_key": "3_2054782139795910657",
+              "start": 27,
+              "url": "https://t.co/FxpBRInJm8"
+            },
+            {
+              "display_url": "pic.x.com/FxpBRInJm8",
+              "end": 50,
+              "expanded_url": "https://x.com/4rulq/status/2054782302287515690/video/1",
+              "media_key": "3_2054782139795959808",
+              "start": 27,
+              "url": "https://t.co/FxpBRInJm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054782302287515690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "iPad Pro 13英吋 官方智能雙面夾拿下喵🥰～ https://t.co/FxpBRInJm8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 136,
+          "like_count": 4556,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 846
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "這裡是いいちゃん/貓貓貓～\n讓我們重新認識下喵～～～～",
+        "id": "2035668415231492096",
+        "name": "いいちゃん",
+        "pinned_tweet_id": "2040388638589280321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054545341308088320/VK-BXNx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 571,
+          "like_count": 2126,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 2110
+        },
+        "username": "4rulq",
+        "verified": false
+      }
+    ]
+  }
+}

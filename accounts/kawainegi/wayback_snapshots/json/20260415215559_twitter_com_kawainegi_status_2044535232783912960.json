@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2044360080754200992",
+    "created_at": "2026-04-15T21:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T22:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044535232783912960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044535232783912960",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044360080754200992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 有過自殺被報警/求援，會被歸類於精神病人嗎？還是有去醫院確診就會被算"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83336,
+        "height": 1920,
+        "media_key": "13_2044353868340035584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044353868340035584/img/ctnBJdnscIxQg1Sa.jpg",
+        "public_metrics": {
+          "view_count": 106686
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044353868340035584/vid/avc1/320x568/G_fykVCzM00UgWgn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044353868340035584/vid/avc1/480x852/aXL6lidBpv_pcoOq.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044353868340035584/vid/avc1/1080x1920/N8yT5AeELuiagSYD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044353868340035584/vid/avc1/720x1280/xiExp8W9bG6qbDKF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044353868340035584/pl/YicWmC-ug5CsGsd-.m3u8?v=1cc"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2044354118773510144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8BPVSaEAA14ef.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2711,
+        "media_key": "3_2044354154764873728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8BRbXasAA4Rtw.jpg",
+        "width": 2160
+      },
+      {
+        "height": 823,
+        "media_key": "3_2044354253050028032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8BXJgbIAAzGQi.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2044360080754200992",
+        "created_at": "2026-04-15T21:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T22:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044535232783912960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044535232783912960",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044360080754200992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 有過自殺被報警/求援，會被歸類於精神病人嗎？還是有去醫院確診就會被算"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044353868340035584",
+            "3_2044354118773510144",
+            "3_2044354154764873728",
+            "3_2044354253050028032"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2044360080754200992",
+        "created_at": "2026-04-15T10:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044360080754200992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4kf70Ve5z5",
+              "end": 110,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2044360080754200992/video/1",
+              "media_key": "13_2044353868340035584",
+              "start": 87,
+              "url": "https://t.co/4kf70Ve5z5"
+            },
+            {
+              "display_url": "pic.x.com/4kf70Ve5z5",
+              "end": 110,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2044360080754200992/video/1",
+              "media_key": "3_2044354118773510144",
+              "start": 87,
+              "url": "https://t.co/4kf70Ve5z5"
+            },
+            {
+              "display_url": "pic.x.com/4kf70Ve5z5",
+              "end": 110,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2044360080754200992/video/1",
+              "media_key": "3_2044354154764873728",
+              "start": 87,
+              "url": "https://t.co/4kf70Ve5z5"
+            },
+            {
+              "display_url": "pic.x.com/4kf70Ve5z5",
+              "end": 110,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2044360080754200992/video/1",
+              "media_key": "3_2044354253050028032",
+              "start": 87,
+              "url": "https://t.co/4kf70Ve5z5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044360080754200992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "4月14日，北京陈秀云律师说：在中国这7类人会被录入公安机关内网，进行动态管控。他们是“涉恐人员、涉维稳人员、重大刑事犯罪前科人员、涉毒人员、在逃人员、精神病人、上访人员”\n\n被纳入这个名单后，出行住宿，只要进行身份核验，都会触发公安预警。公安还可以通过天网、警务通，动态掌握你的居住地地址，出行路线、社交关系等个人信息。社区民警、网格员会定期走访谈话。\n\n并且只要你上了名单，基本上就下不来了，因为这是行政机关的内部行为，对外不产生法律效力，也就是说你连告的机会都没有，上了这个名单比留案底的影响还要大。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 394,
+          "impression_count": 214359,
+          "like_count": 776,
+          "quote_count": 11,
+          "reply_count": 104,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "4月14日，北京陈秀云律师说：在中国这7类人会被录入公安机关内网，进行动态管控。他们是“涉恐人员、涉维稳人员、重大刑事犯罪前科人员、涉毒人员、在逃人员、精神病人、上访人员” https://t.co/4kf70Ve5z5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 75,
+          "like_count": 1835,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 272
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193940,
+          "following_count": 1029,
+          "like_count": 9407,
+          "listed_count": 8618,
+          "media_count": 45318,
+          "tweet_count": 52400
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

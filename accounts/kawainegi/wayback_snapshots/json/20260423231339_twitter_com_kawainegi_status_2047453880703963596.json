@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047453871283507200"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047216817639415833",
+    "created_at": "2026-04-23T23:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T00:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047453880703963596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2044319134326964224",
+          "start": 0,
+          "username": "Allenium114"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AsHM4p0c4H",
+          "end": 42,
+          "expanded_url": "https://x.com/kawainegi/status/2047453880703963596/photo/1",
+          "media_key": "3_2047453871283507200",
+          "start": 19,
+          "url": "https://t.co/AsHM4p0c4H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047453880703963596",
+    "in_reply_to_user_id": "2044319134326964224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047216817639415833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allenium114 明明超帥欸 https://t.co/AsHM4p0c4H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2047453871283507200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoEcrPaEAAj5jL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047453871283507200"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047216817639415833",
+        "created_at": "2026-04-23T23:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T00:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047453880703963596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2044319134326964224",
+              "start": 0,
+              "username": "Allenium114"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AsHM4p0c4H",
+              "end": 42,
+              "expanded_url": "https://x.com/kawainegi/status/2047453880703963596/photo/1",
+              "media_key": "3_2047453871283507200",
+              "start": 19,
+              "url": "https://t.co/AsHM4p0c4H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047453880703963596",
+        "in_reply_to_user_id": "2044319134326964224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047216817639415833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allenium114 明明超帥欸 https://t.co/AsHM4p0c4H"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044319134326964224",
+        "conversation_id": "2047216817639415833",
+        "created_at": "2026-04-23T07:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047216817639415833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047216817639415833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "臥槽賴清德長得好像薄熙來。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 107,
+          "like_count": 2373,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 416
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T07:37:25.000Z",
+        "description": "西南梦游山tv之翎早上因为熬夜而半梦半醒的起来上早八看见 x大号@xldmtx又被封了无助的爬起打开apex被顶猎一脚踢死想打六目标发现才 8w分被自己区的满地都是无助的爬回床上结果镜子照出巨人般的骨架不禁悲从中来打开前摄被长发男蛆一样的外观丑晕奇异搞笑的盖上被子割完手接着等死又被家长发现割手一顿批判顿觉这辈子有了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 32,
+                "username": "xldmtx"
+              }
+            ]
+          }
+        },
+        "id": "2044319134326964224",
+        "location": "棍母所栖之处",
+        "name": "🍁🍥iLYA🍥🍁",
+        "pinned_tweet_id": "2047174700795883807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044319211884032000/COXjezdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 193,
+          "like_count": 2208,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 554
+        },
+        "username": "Allenium114",
+        "verified": false
+      }
+    ]
+  }
+}

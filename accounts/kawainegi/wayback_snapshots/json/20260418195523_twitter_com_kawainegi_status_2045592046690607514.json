@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045082830729023488"
+      ],
+      "media_source_tweet_id": [
+        "2045084216753561947"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2045592046690607514",
+    "created_at": "2026-04-18T19:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T20:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045592046690607514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "857173942586441729",
+          "start": 3,
+          "username": "kieed23232"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gGaYC1CMDv",
+          "end": 41,
+          "expanded_url": "https://x.com/kieed23232/status/2045084216753561947/photo/1",
+          "media_key": "3_2045082830729023488",
+          "start": 18,
+          "url": "https://t.co/gGaYC1CMDv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045592046690607514",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4889
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045084216753561947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kieed23232: 🍏 https://t.co/gGaYC1CMDv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1330,
+        "media_key": "3_2045082830729023488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGX_83akAAPuoV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045082830729023488"
+          ],
+          "media_source_tweet_id": [
+            "2045084216753561947"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2045592046690607514",
+        "created_at": "2026-04-18T19:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T20:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045592046690607514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "857173942586441729",
+              "start": 3,
+              "username": "kieed23232"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGaYC1CMDv",
+              "end": 41,
+              "expanded_url": "https://x.com/kieed23232/status/2045084216753561947/photo/1",
+              "media_key": "3_2045082830729023488",
+              "start": 18,
+              "url": "https://t.co/gGaYC1CMDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045592046690607514",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4889
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045084216753561947",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kieed23232: 🍏 https://t.co/gGaYC1CMDv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045082830729023488"
+          ]
+        },
+        "author_id": "857173942586441729",
+        "conversation_id": "2045084216753561947",
+        "created_at": "2026-04-17T10:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T11:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045084216753561947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGaYC1CMDv",
+              "end": 25,
+              "expanded_url": "https://x.com/kieed23232/status/2045084216753561947/photo/1",
+              "media_key": "3_2045082830729023488",
+              "start": 2,
+              "url": "https://t.co/gGaYC1CMDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045084216753561947",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3200,
+          "impression_count": 373183,
+          "like_count": 54072,
+          "quote_count": 7,
+          "reply_count": 42,
+          "retweet_count": 4889
+        },
+        "reply_settings": "everyone",
+        "text": "🍏 https://t.co/gGaYC1CMDv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 83,
+          "like_count": 2002,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 314
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-26T10:06:08.000Z",
+        "description": "Illustrator，Hatsune Miku ♥/ Kasane Teto ♥\nNO AI🚫 didn`t use AI \nPainting Live Streaming &screen recording 作画生放送/作画録画→https://t.co/wLGByCrKGP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/25589919",
+                "end": 140,
+                "expanded_url": "https://space.bilibili.com/25589919",
+                "start": 117,
+                "url": "https://t.co/wLGByCrKGP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/11525066",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/11525066",
+                "start": 0,
+                "url": "https://t.co/iHBM2GcLZQ"
+              }
+            ]
+          }
+        },
+        "id": "857173942586441729",
+        "name": "kieed",
+        "pinned_tweet_id": "1829852267304140916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/908705750075060224/ciddanZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340758,
+          "following_count": 590,
+          "like_count": 1311,
+          "listed_count": 2101,
+          "media_count": 244,
+          "tweet_count": 395
+        },
+        "url": "https://t.co/iHBM2GcLZQ",
+        "username": "kieed23232",
+        "verified": false
+      }
+    ]
+  }
+}

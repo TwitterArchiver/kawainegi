@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2033450635895669001",
+    "created_at": "2026-03-16T14:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T15:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033556831436738813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933907040835104768",
+          "start": 0,
+          "username": "kyo_mu6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033556831436738813",
+    "in_reply_to_user_id": "1933907040835104768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033450635895669001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyo_mu6666 男の娘になれば面白いね"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033450633211297792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhEk8TaQAAuB16.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2033450635895669001",
+        "created_at": "2026-03-16T14:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033556831436738813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933907040835104768",
+              "start": 0,
+              "username": "kyo_mu6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033556831436738813",
+        "in_reply_to_user_id": "1933907040835104768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033450635895669001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyo_mu6666 男の娘になれば面白いね"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033450633211297792"
+          ]
+        },
+        "author_id": "1933907040835104768",
+        "conversation_id": "2033450635895669001",
+        "created_at": "2026-03-16T07:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T08:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033450635895669001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5cdSwokicN",
+              "end": 43,
+              "expanded_url": "https://x.com/kyo_mu6666/status/2033450635895669001/photo/1",
+              "media_key": "3_2033450633211297792",
+              "start": 20,
+              "url": "https://t.co/5cdSwokicN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033450635895669001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 352,
+          "impression_count": 733732,
+          "like_count": 2710,
+          "quote_count": 147,
+          "reply_count": 450,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "夜自殺する\nほんとに人生おもしろくない https://t.co/5cdSwokicN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "システム終了",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 31,
+          "like_count": 665,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 71
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-14T15:19:27.000Z",
+        "description": "本垢凍結されたのでこっち使う\n17歳、うつ病 オランザピンのみ服薬中\nアイコン描いたの@gogatsu_yuki5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "gogatsu_yuki5"
+              }
+            ]
+          }
+        },
+        "id": "1933907040835104768",
+        "location": "熊本熊本市",
+        "name": "あざらし(テクノブレイ区民)",
+        "pinned_tweet_id": "2032196779207512168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030931027003371520/_jOZKRMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 361,
+          "like_count": 12971,
+          "listed_count": 5,
+          "media_count": 21,
+          "tweet_count": 2288
+        },
+        "username": "kyo_mu6666",
+        "verified": false
+      }
+    ]
+  }
+}

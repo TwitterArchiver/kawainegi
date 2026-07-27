@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2046528230958776636",
+    "created_at": "2026-04-21T18:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T19:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046651518028591235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2044319134326964224",
+          "start": 0,
+          "username": "XldFxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046651518028591235",
+    "in_reply_to_user_id": "2044319134326964224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046528230958776636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XldFxA 謝謝www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2046528230958776636",
+        "created_at": "2026-04-21T18:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T19:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046651518028591235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2044319134326964224",
+              "start": 0,
+              "username": "XldFxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046651518028591235",
+        "in_reply_to_user_id": "2044319134326964224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046528230958776636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XldFxA 謝謝www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044319134326964224",
+        "conversation_id": "2046528230958776636",
+        "created_at": "2026-04-21T09:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046528230958776636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2046484766866972958",
+              "start": 6,
+              "url": "https://t.co/qAUnSHfXHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046528230958776636",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046484766866972958",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "手也好好看 https://t.co/qAUnSHfXHI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 104,
+          "like_count": 2208,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 355
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T07:37:25.000Z",
+        "description": "西南梦游山@xldmtx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "xldmtx"
+              }
+            ]
+          }
+        },
+        "id": "2044319134326964224",
+        "location": "kovaak",
+        "name": "🍁🍥iLYA🍥🍁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044319211884032000/COXjezdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 171,
+          "like_count": 1408,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 355
+        },
+        "username": "XldFxA",
+        "verified": false
+      }
+    ]
+  }
+}

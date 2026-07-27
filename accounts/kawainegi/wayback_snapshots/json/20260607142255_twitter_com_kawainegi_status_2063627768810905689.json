@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2063563014910169327",
+    "created_at": "2026-06-07T14:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063627768810905689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025449560580259844",
+          "start": 0,
+          "username": "AlimataOue45353"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063627768810905689",
+    "in_reply_to_user_id": "2025449560580259844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063563014910169327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlimataOue45353 入院還要管頭髮\n離譜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063563003547832320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKM_nlYbUAA2dzn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2063563014910169327",
+        "created_at": "2026-06-07T14:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063627768810905689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025449560580259844",
+              "start": 0,
+              "username": "AlimataOue45353"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063627768810905689",
+        "in_reply_to_user_id": "2025449560580259844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063563014910169327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlimataOue45353 入院還要管頭髮\n離譜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063563003547832320"
+          ]
+        },
+        "author_id": "2025449560580259844",
+        "conversation_id": "2063563014910169327",
+        "created_at": "2026-06-07T10:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063563014910169327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d6mvOlpMM2",
+              "end": 46,
+              "expanded_url": "https://x.com/AlimataOue45353/status/2063563014910169327/photo/1",
+              "media_key": "3_2063563003547832320",
+              "start": 23,
+              "url": "https://t.co/d6mvOlpMM2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063563014910169327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头发被精卫剪了气死我了，所以这个是戴假发拍的 https://t.co/d6mvOlpMM2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 158,
+          "like_count": 6404,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1259
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T05:56:52.000Z",
+        "description": "xyn🍥坐标上海，17，162，2009.3.11，石榴@X16_46280721,hrt🍥2026.6.6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "X16_46280721"
+              }
+            ]
+          }
+        },
+        "id": "2025449560580259844",
+        "name": "🍥鎮命🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062061356229206016/eCuB-Jdz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 366,
+          "like_count": 2447,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 87
+        },
+        "username": "AlimataOue45353",
+        "verified": false
+      }
+    ]
+  }
+}

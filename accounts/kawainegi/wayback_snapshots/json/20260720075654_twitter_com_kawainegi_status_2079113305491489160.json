@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2078506505884537088",
+    "created_at": "2026-07-20T07:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T08:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079113305491489160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900394907459850240",
+          "start": 0,
+          "username": "TouhouSeigen_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079113305491489160",
+    "in_reply_to_user_id": "1900394907459850240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079017381528297710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TouhouSeigen_ 都這樣了還敢說喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2078506505884537088",
+        "created_at": "2026-07-20T07:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079113305491489160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900394907459850240",
+              "start": 0,
+              "username": "TouhouSeigen_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079113305491489160",
+        "in_reply_to_user_id": "1900394907459850240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079017381528297710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TouhouSeigen_ 都這樣了還敢說喔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900394907459850240",
+        "conversation_id": "2078506505884537088",
+        "created_at": "2026-07-20T01:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079017381528297710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2006749860863815682",
+              "start": 0,
+              "username": "kawainegi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079017381528297710",
+        "in_reply_to_user_id": "2006749860863815682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079005689108975620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawainegi 被发现了会被说😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "是一隻不可愛的小跨妹",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 164,
+          "like_count": 6715,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1367
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T03:54:01.000Z",
+        "description": "海豹萬歲萬萬歲丨自殘內容注意 丨 简中 繁中混用丨賽博八字ISTP-T丨2011.7.26丨一般路過ftm丨泛性恋丨無證hrt丨hrt 2025.10.9丨可以叫我東方逝元（Tōhō Seigen）或上條鷹介（Kamijō Yōsuke）丨我衹是一隻海豹丨多意識體（混合系統）丨備用賬號@Dong42620",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 143,
+                "username": "Dong42620"
+              }
+            ]
+          }
+        },
+        "id": "1900394907459850240",
+        "location": "地球",
+        "name": "Seigen🦭🏳‍⚧",
+        "pinned_tweet_id": "2051692185821806828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032688213819797507/AhFJyVZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 273,
+          "like_count": 12417,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 724
+        },
+        "url": "",
+        "username": "TouhouSeigen_",
+        "verified": false
+      }
+    ]
+  }
+}

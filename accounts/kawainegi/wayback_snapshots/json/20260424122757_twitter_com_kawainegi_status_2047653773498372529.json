@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2047653773498372529",
+    "created_at": "2026-04-24T12:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T13:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047653773498372529"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kawainegi/stat…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/kawainegi/status/2047649079241720002",
+          "start": 73,
+          "url": "https://t.co/MFRCoTCTW6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047653773498372529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047649079241720002",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ボクを支え、見守ってくださったキミへ心からの感謝を\n\nもうボクは独りじゃない…\n大丈夫だよ\nいつもここに\n\n2024/3/14～2024/7/2 https://t.co/MFRCoTCTW6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 479,
+        "media_key": "3_2047649058723180544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGq1-FHbsAAcz_Y.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2047653773498372529",
+        "created_at": "2026-04-24T12:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047653773498372529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawainegi/stat…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/kawainegi/status/2047649079241720002",
+              "start": 73,
+              "url": "https://t.co/MFRCoTCTW6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047653773498372529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047649079241720002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ボクを支え、見守ってくださったキミへ心からの感謝を\n\nもうボクは独りじゃない…\n大丈夫だよ\nいつもここに\n\n2024/3/14～2024/7/2 https://t.co/MFRCoTCTW6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047649058723180544"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2047649079241720002",
+        "created_at": "2026-04-24T12:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047649079241720002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeFxETVrf6",
+              "end": 47,
+              "expanded_url": "https://x.com/kawainegi/status/2047649079241720002/photo/1",
+              "media_key": "3_2047649058723180544",
+              "start": 24,
+              "url": "https://t.co/YeFxETVrf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047649079241720002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "それは最後の別れと知らずに\nキミに笑いかけてた https://t.co/YeFxETVrf6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 111,
+          "like_count": 2460,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 450
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

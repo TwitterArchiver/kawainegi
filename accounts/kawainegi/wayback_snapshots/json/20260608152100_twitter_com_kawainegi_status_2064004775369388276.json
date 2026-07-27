@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064004750958526464"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2064004775369388276",
+    "created_at": "2026-06-08T15:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064004775369388276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6ttDzN2EoX",
+          "end": 31,
+          "expanded_url": "https://x.com/kawainegi/status/2064004775369388276/photo/1",
+          "media_key": "3_2064004750958526464",
+          "start": 8,
+          "url": "https://t.co/6ttDzN2EoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064004775369388276",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ふわぷち万華鏡 https://t.co/6ttDzN2EoX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2064004750958526464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTRYquaAAAqijw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064004750958526464"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2064004775369388276",
+        "created_at": "2026-06-08T15:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064004775369388276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ttDzN2EoX",
+              "end": 31,
+              "expanded_url": "https://x.com/kawainegi/status/2064004775369388276/photo/1",
+              "media_key": "3_2064004750958526464",
+              "start": 8,
+              "url": "https://t.co/6ttDzN2EoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064004775369388276",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ふわぷち万華鏡 https://t.co/6ttDzN2EoX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 158,
+          "like_count": 6499,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1274
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

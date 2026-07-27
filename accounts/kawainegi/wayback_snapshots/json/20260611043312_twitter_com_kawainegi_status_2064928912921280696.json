@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2063199005522428037",
+    "created_at": "2026-06-11T04:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064928912921280696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1437785792211034114",
+          "start": 0,
+          "username": "Xerenceu"
+        },
+        {
+          "end": 20,
+          "id": "1721736749926567936",
+          "start": 10,
+          "username": "Dr0gsneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064928912921280696",
+    "in_reply_to_user_id": "1437785792211034114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063199005522428037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xerenceu @Dr0gsneko 這還能送中國嗎（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063198974413340672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKH0iTLbgAABy8N.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063198974404956160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKH0iTJbkAA1Hgv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063198974417448960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKH0iTMaMAAH0W1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063198974417547264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKH0iTMbsAA93cV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2063199005522428037",
+        "created_at": "2026-06-11T04:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064928912921280696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1437785792211034114",
+              "start": 0,
+              "username": "Xerenceu"
+            },
+            {
+              "end": 20,
+              "id": "1721736749926567936",
+              "start": 10,
+              "username": "Dr0gsneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064928912921280696",
+        "in_reply_to_user_id": "1437785792211034114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063199005522428037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xerenceu @Dr0gsneko 這還能送中國嗎（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063198974413340672",
+            "3_2063198974404956160",
+            "3_2063198974417448960",
+            "3_2063198974417547264"
+          ]
+        },
+        "author_id": "1437785792211034114",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063199005522428037",
+        "created_at": "2026-06-06T09:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063199005522428037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1721736749926567936",
+              "start": 20,
+              "username": "Dr0gsneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qxPmGykWwO",
+              "end": 54,
+              "expanded_url": "https://x.com/Xerenceu/status/2063199005522428037/photo/1",
+              "media_key": "3_2063198974413340672",
+              "start": 31,
+              "url": "https://t.co/qxPmGykWwO"
+            },
+            {
+              "display_url": "pic.x.com/qxPmGykWwO",
+              "end": 54,
+              "expanded_url": "https://x.com/Xerenceu/status/2063199005522428037/photo/1",
+              "media_key": "3_2063198974404956160",
+              "start": 31,
+              "url": "https://t.co/qxPmGykWwO"
+            },
+            {
+              "display_url": "pic.x.com/qxPmGykWwO",
+              "end": 54,
+              "expanded_url": "https://x.com/Xerenceu/status/2063199005522428037/photo/1",
+              "media_key": "3_2063198974417448960",
+              "start": 31,
+              "url": "https://t.co/qxPmGykWwO"
+            },
+            {
+              "display_url": "pic.x.com/qxPmGykWwO",
+              "end": 54,
+              "expanded_url": "https://x.com/Xerenceu/status/2063199005522428037/photo/1",
+              "media_key": "3_2063198974417547264",
+              "start": 31,
+              "url": "https://t.co/qxPmGykWwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063199005522428037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 191,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "棉花娃娃到了，是小陈❤️\n爱来自中国 \n@Dr0gsneko https://t.co/qxPmGykWwO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 158,
+          "like_count": 6495,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1291
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-14T14:30:34.000Z",
+        "description": "“烷胺不是晚安”\n🚪88",
+        "id": "1437785792211034114",
+        "name": "CYP2D6💊💛🤍💜🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940282173522644993/fx-De2ym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 470,
+          "like_count": 1201,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 155
+        },
+        "username": "Xerenceu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-07T03:50:27.000Z",
+        "description": "FA #麻薬ねこ #drugsneko / @Drugsneko18 https://t.co/J0gbt2EyOF",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 3,
+                "tag": "麻薬ねこ"
+              },
+              {
+                "end": 19,
+                "start": 9,
+                "tag": "drugsneko"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "Drugsneko18"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "craftifyx.com/ko/products/so…",
+                "end": 58,
+                "expanded_url": "https://craftifyx.com/ko/products/society-ruiner-chan",
+                "start": 35,
+                "url": "https://t.co/J0gbt2EyOF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ko/Hawawa",
+                "end": 23,
+                "expanded_url": "https://lit.link/ko/Hawawa",
+                "start": 0,
+                "url": "https://t.co/IGBmkEVwIJ"
+              }
+            ]
+          }
+        },
+        "id": "1721736749926567936",
+        "location": "CM closed",
+        "name": "Drugsneko",
+        "pinned_tweet_id": "1903135371996864546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940053685289074688/QrzvgZGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68199,
+          "following_count": 74,
+          "like_count": 15016,
+          "listed_count": 102,
+          "media_count": 244,
+          "tweet_count": 2017
+        },
+        "url": "https://t.co/IGBmkEVwIJ",
+        "username": "Dr0gsneko",
+        "verified": true
+      }
+    ]
+  }
+}

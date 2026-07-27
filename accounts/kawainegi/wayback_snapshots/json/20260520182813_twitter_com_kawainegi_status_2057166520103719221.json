@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2057132898860634253",
+    "created_at": "2026-05-20T18:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T19:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057166520103719221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1858038510290427904",
+          "start": 0,
+          "username": "die_Wehmut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057166520103719221",
+    "in_reply_to_user_id": "1858038510290427904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057132898860634253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@die_Wehmut 大丈夫、ボクがいるから"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2057132898860634253",
+        "created_at": "2026-05-20T18:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T19:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057166520103719221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1858038510290427904",
+              "start": 0,
+              "username": "die_Wehmut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057166520103719221",
+        "in_reply_to_user_id": "1858038510290427904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057132898860634253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@die_Wehmut 大丈夫、ボクがいるから"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858038510290427904",
+        "conversation_id": "2057132898860634253",
+        "created_at": "2026-05-20T16:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057132898860634253"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057132898860634253",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "どうしてこんなに簡単に死のことを考えてしまうんだろう…心が痛い…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 146,
+          "like_count": 5081,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 993
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T06:44:47.000Z",
+        "description": "蒂薇沐 · dieWehmut · she/her | 2006.8.8出厂  | 170cm/55kg | 生信 | 日本語を勉強中です | Proxmox VE User · Debian LXC Purist | diesw desuwa!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/dieWehmut",
+                "end": 23,
+                "expanded_url": "https://github.com/dieWehmut",
+                "start": 0,
+                "url": "https://t.co/JCIwSTaGMG"
+              }
+            ]
+          }
+        },
+        "id": "1858038510290427904",
+        "name": "diesw · desuwa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056208496086192128/gm0yMNBP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 85,
+          "like_count": 40,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/JCIwSTaGMG",
+        "username": "die_Wehmut",
+        "verified": false
+      }
+    ]
+  }
+}

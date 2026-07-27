@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2047311356320424238",
+    "created_at": "2026-04-23T13:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047311356320424238"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047311356320424238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "對不起我有什麼不好的地方可以直接來罵我叫我去死也沒問題我會乖乖消失但請不要退追好嗎明明都已經回追了好好的為什麼要退追為什麼要退追為什麼要退追為什麼退追為什麼要退追為什麼不愛我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2047311356320424238",
+        "created_at": "2026-04-23T13:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047311356320424238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047311356320424238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "對不起我有什麼不好的地方可以直接來罵我叫我去死也沒問題我會乖乖消失但請不要退追好嗎明明都已經回追了好好的為什麼要退追為什麼要退追為什麼要退追為什麼退追為什麼要退追為什麼不愛我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 107,
+          "like_count": 2348,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 413
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

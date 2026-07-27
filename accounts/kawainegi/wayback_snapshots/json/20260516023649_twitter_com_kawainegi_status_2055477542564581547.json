@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055477525242089472"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2055477542564581547",
+    "created_at": "2026-05-16T02:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T03:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055477542564581547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KdlBuDpdSZ",
+          "end": 36,
+          "expanded_url": "https://x.com/kawainegi/status/2055477542564581547/photo/1",
+          "media_key": "3_2055477525242089472",
+          "start": 13,
+          "url": "https://t.co/KdlBuDpdSZ"
+        },
+        {
+          "display_url": "x.com/kawainegi/stat…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/kawainegi/status/2055370985713565898",
+          "start": 37,
+          "url": "https://t.co/Vixf0IwmA9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055477542564581547",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055370985713565898",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再掲\nれす太ﾓﾝさんです https://t.co/KdlBuDpdSZ https://t.co/Vixf0IwmA9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2420,
+        "media_key": "3_2055477525242089472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaF6zfakAAMXpP.jpg",
+        "width": 1668
+      },
+      {
+        "height": 1668,
+        "media_key": "3_2055370969435545601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYlAcLbIAESxJx.jpg",
+        "width": 2420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055477525242089472"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2055477542564581547",
+        "created_at": "2026-05-16T02:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055477542564581547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KdlBuDpdSZ",
+              "end": 36,
+              "expanded_url": "https://x.com/kawainegi/status/2055477542564581547/photo/1",
+              "media_key": "3_2055477525242089472",
+              "start": 13,
+              "url": "https://t.co/KdlBuDpdSZ"
+            },
+            {
+              "display_url": "x.com/kawainegi/stat…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/kawainegi/status/2055370985713565898",
+              "start": 37,
+              "url": "https://t.co/Vixf0IwmA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055477542564581547",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055370985713565898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再掲\nれす太ﾓﾝさんです https://t.co/KdlBuDpdSZ https://t.co/Vixf0IwmA9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055370969435545601"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2055370985713565898",
+        "created_at": "2026-05-15T19:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T20:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055370985713565898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pw9e8HlPRO",
+              "end": 49,
+              "expanded_url": "https://x.com/kawainegi/status/2055370985713565898/photo/1",
+              "media_key": "3_2055370969435545601",
+              "start": 26,
+              "url": "https://t.co/Pw9e8HlPRO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055370985713565898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "タバコはほどほどにしないと\nチンコが縮むかもしれん https://t.co/Pw9e8HlPRO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 144,
+          "like_count": 4740,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 900
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

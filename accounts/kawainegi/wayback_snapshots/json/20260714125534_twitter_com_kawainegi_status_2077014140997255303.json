@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2076344934937034836",
+    "created_at": "2026-07-14T12:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077014140997255303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675484395560648705",
+          "start": 0,
+          "username": "Bakaneko_Nya_39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077014140997255303",
+    "in_reply_to_user_id": "1675484395560648705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076344934937034836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bakaneko_Nya_39 有阿 推友們的家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2076344934937034836",
+        "created_at": "2026-07-14T12:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077014140997255303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675484395560648705",
+              "start": 0,
+              "username": "Bakaneko_Nya_39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077014140997255303",
+        "in_reply_to_user_id": "1675484395560648705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076344934937034836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bakaneko_Nya_39 有阿 推友們的家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675484395560648705",
+        "conversation_id": "2076344934937034836",
+        "created_at": "2026-07-12T16:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076344934937034836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076344934937034836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有沒有廣東的推友告訴我深圳，東莞和廣州有哪些好玩的地方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "是一隻不可愛的小跨妹",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 156,
+          "like_count": 6540,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1316
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T12:40:09.000Z",
+        "description": "這裡是貓貓｜🇹🇼 台灣高雄 ｜素一隻可愛小南梁 ｜喜歡女裝、ボカロ等等｜日檢N1合格證書持有者｜貓貓最好的朋友❤️(*≧▽≦)：@WYH_origin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "WYH_origin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bakaneko1105_n…",
+                "end": 23,
+                "expanded_url": "http://t.me/bakaneko1105_nya",
+                "start": 0,
+                "url": "https://t.co/Kp8aQxUfDX"
+              }
+            ]
+          }
+        },
+        "id": "1675484395560648705",
+        "location": "Taiwan",
+        "name": "笨貓愛吃小魚乾",
+        "pinned_tweet_id": "1909251522396909612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051007785849249792/xPLXfMBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 1028,
+          "like_count": 27459,
+          "listed_count": 1,
+          "media_count": 477,
+          "tweet_count": 7560
+        },
+        "url": "https://t.co/Kp8aQxUfDX",
+        "username": "Bakaneko_Nya_39",
+        "verified": false
+      }
+    ]
+  }
+}

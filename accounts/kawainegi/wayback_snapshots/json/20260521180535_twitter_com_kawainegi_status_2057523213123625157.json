@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2057493525185638681",
+    "created_at": "2026-05-21T18:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T19:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057523213123625157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1826687223812816901",
+          "start": 0,
+          "username": "syd_ether"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057523213123625157",
+    "in_reply_to_user_id": "1826687223812816901",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057522036319351179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syd_ether いいよ、よろしく頼む"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2057493525185638681",
+        "created_at": "2026-05-21T18:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057523213123625157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1826687223812816901",
+              "start": 0,
+              "username": "syd_ether"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057523213123625157",
+        "in_reply_to_user_id": "1826687223812816901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057522036319351179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syd_ether いいよ、よろしく頼む"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826687223812816901",
+        "conversation_id": "2057493525185638681",
+        "created_at": "2026-05-21T18:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057522036319351179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2006749860863815682",
+              "start": 0,
+              "username": "kawainegi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057522036319351179",
+        "in_reply_to_user_id": "2006749860863815682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057521103858549073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawainegi 君、我、友達、 了。\nyappppyyyy ネギくん？って呼べばいいかな"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 147,
+          "like_count": 5189,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1025
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T18:26:01.000Z",
+        "description": "@blyatifull_drug←art こんにちは！こんにちは！こんにちは！こんにちは！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "blyatifull_drug"
+              }
+            ]
+          }
+        },
+        "id": "1826687223812816901",
+        "location": "恥 注意",
+        "name": "放火魔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980328055613661184/Ix_H_THe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 97,
+          "like_count": 10781,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1478
+        },
+        "username": "syd_ether",
+        "verified": false
+      }
+    ]
+  }
+}

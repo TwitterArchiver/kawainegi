@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763147741126090753",
+    "conversation_id": "1993243267178414374",
+    "created_at": "2025-11-25T16:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T17:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993357761992966450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "BI3BXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993357761992966450",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993243267178414374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BI3BXI 從頭再來我也會以別的方式毀掉自己的人生吧www"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1992846275365183488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6gDIP8aIAA1dky.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763147741126090753",
+        "conversation_id": "1993243267178414374",
+        "created_at": "2025-11-25T16:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T17:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993357761992966450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993357761992966450",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993243267178414374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI 從頭再來我也會以別的方式毀掉自己的人生吧www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992846275365183488"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "1993243267178414374",
+        "created_at": "2025-11-25T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993243267178414374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QvrbcKXjyn",
+              "end": 49,
+              "expanded_url": "https://x.com/BI3BXI/status/1993243267178414374/photo/1",
+              "media_key": "3_1992846275365183488",
+              "start": 26,
+              "url": "https://t.co/QvrbcKXjyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993243267178414374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1403,
+          "like_count": 49,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很早有科普过 老树已经死了\n这上面的是别的树的种子 https://t.co/QvrbcKXjyn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-29T10:23:01.000Z",
+        "description": "",
+        "id": "1763147741126090753",
+        "name": "ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989506570494119936/yUfvq273_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 24,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "Kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Student at law｜Inherited from @ryq59｜🏳️‍⚧️Enby.（非二元）🏳️‍🌈｜#Worlds2025｜我是活人@TabeWang｜sister @A5Tr41 @Tonghua245｜Administrator @mhtqwq",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 57,
+                "tag": "Worlds2025"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 36,
+                "start": 30,
+                "username": "ryq59"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "TabeWang"
+              },
+              {
+                "end": 97,
+                "start": 90,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "Tonghua245"
+              },
+              {
+                "end": 131,
+                "start": 124,
+                "username": "mhtqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "你是要气死铨酱么🍥（互fo寻回中）",
+        "pinned_tweet_id": "1928106968264110539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958486481359745024/uwWD92j4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3833,
+          "following_count": 2797,
+          "like_count": 26650,
+          "listed_count": 14,
+          "media_count": 755,
+          "tweet_count": 4355
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "BI3BXI",
+        "verified": false
+      }
+    ]
+  }
+}

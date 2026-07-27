@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2042977010809803040",
+    "created_at": "2026-04-11T14:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T15:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042977010809803040"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042977010809803040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "夜を重ねるたび増えてく傷なんてもう、とうに馴れちゃった"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2042977010809803040",
+        "created_at": "2026-04-11T14:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042977010809803040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042977010809803040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夜を重ねるたび増えてく傷なんてもう、とうに馴れちゃった"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "メンヘラって呼ばないで…",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 51,
+          "like_count": 1404,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 199
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

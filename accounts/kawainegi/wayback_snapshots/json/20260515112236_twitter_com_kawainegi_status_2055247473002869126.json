@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2055205630693224565",
+    "created_at": "2026-05-15T11:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T12:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055247473002869126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1085832074622169088",
+          "start": 0,
+          "username": "PicoMaryH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055247473002869126",
+    "in_reply_to_user_id": "1085832074622169088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055205630693224565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PicoMaryH 皮衣好酷 有連結嗎（！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055205499201900545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWOgzhb0AEsVZf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2055205630693224565",
+        "created_at": "2026-05-15T11:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055247473002869126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1085832074622169088",
+              "start": 0,
+              "username": "PicoMaryH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055247473002869126",
+        "in_reply_to_user_id": "1085832074622169088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055205630693224565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PicoMaryH 皮衣好酷 有連結嗎（！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055205499201900545"
+          ]
+        },
+        "author_id": "1085832074622169088",
+        "conversation_id": "2055205630693224565",
+        "created_at": "2026-05-15T08:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055205630693224565"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "ヰ世界情緒美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FqK62mOUCr",
+              "end": 40,
+              "expanded_url": "https://x.com/PicoMaryH/status/2055205630693224565/photo/1",
+              "media_key": "3_2055205499201900545",
+              "start": 17,
+              "url": "https://t.co/FqK62mOUCr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055205630693224565",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 2550,
+          "like_count": 335,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "#ヰ世界情緒美術部\n\n暗黒系歌姫 https://t.co/FqK62mOUCr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 143,
+          "like_count": 4703,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 886
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-17T09:31:55.000Z",
+        "description": "りりしい-一応コスプレをやる人、インターネットに現る魔女っ子🤍神椿箱推し ヰ世界情緒ちゃんとAlbemuthが大好き 日本語を勉強するため変な日本語喋ってる 🇨🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/picomaryl?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/picomaryl?igsh=MW16Y3VqN2JvM3U0eQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/osHjZZqyKO"
+              }
+            ]
+          }
+        },
+        "id": "1085832074622169088",
+        "location": "海月病院",
+        "name": "🪼探偵ちゃんのリリシン🪼",
+        "pinned_tweet_id": "1820095429885002088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048451517527752704/EnYqqmPT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35921,
+          "following_count": 659,
+          "like_count": 2712,
+          "listed_count": 181,
+          "media_count": 713,
+          "tweet_count": 2305
+        },
+        "url": "https://t.co/osHjZZqyKO",
+        "username": "PicoMaryH",
+        "verified": false
+      }
+    ]
+  }
+}

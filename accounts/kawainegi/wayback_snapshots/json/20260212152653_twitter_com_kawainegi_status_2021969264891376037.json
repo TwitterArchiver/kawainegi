@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2021903288787251384",
+    "created_at": "2026-02-12T15:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T16:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021969264891376037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1794349365093662720",
+          "start": 0,
+          "username": "geibideo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021969264891376037",
+    "in_reply_to_user_id": "1794349365093662720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021903288787251384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geibideo2 見切りましたね"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 659,
+        "media_key": "3_2021903284030910467",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8-UwbbsAMZbkq.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2021903288787251384",
+        "created_at": "2026-02-12T15:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021969264891376037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1794349365093662720",
+              "start": 0,
+              "username": "geibideo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021969264891376037",
+        "in_reply_to_user_id": "1794349365093662720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021903288787251384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geibideo2 見切りましたね"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021903284030910467"
+          ]
+        },
+        "author_id": "1794349365093662720",
+        "conversation_id": "2021903288787251384",
+        "created_at": "2026-02-12T11:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021903288787251384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQh37eUu3N",
+              "end": 26,
+              "expanded_url": "https://x.com/geibideo2/status/2021903288787251384/photo/1",
+              "media_key": "3_2021903284030910467",
+              "start": 3,
+              "url": "https://t.co/rQh37eUu3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021903288787251384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 762,
+          "impression_count": 685324,
+          "like_count": 15967,
+          "quote_count": 203,
+          "reply_count": 120,
+          "retweet_count": 1874
+        },
+        "reply_settings": "everyone",
+        "text": "は? https://t.co/rQh37eUu3N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "人生終了",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 39
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T12:46:47.000Z",
+        "description": "とりあえず名前だけでも覚えてください。 サブ垢@geibideo53少しずつフォロバしていきます🗝@mosukagii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "geibideo53"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "mosukagii"
+              }
+            ]
+          }
+        },
+        "id": "1794349365093662720",
+        "name": "モス",
+        "pinned_tweet_id": "1839980505347043656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970530499312640000/ETjWS8hY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22647,
+          "following_count": 3905,
+          "like_count": 57882,
+          "listed_count": 84,
+          "media_count": 2619,
+          "tweet_count": 9560
+        },
+        "username": "geibideo2",
+        "verified": false
+      }
+    ]
+  }
+}

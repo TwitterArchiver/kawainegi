@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2056698395448991843",
+    "created_at": "2026-05-19T13:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T14:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056734237580251242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "XldMtX"
+        },
+        {
+          "end": 21,
+          "id": "1876047345340788736",
+          "start": 8,
+          "username": "nagi_capture"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056734237580251242",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056715927690133550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XldMtX @nagi_capture 沒有啦台灣才是電詐練兵場\n騙得了台灣人才能騙全世界"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2056698395448991843",
+        "created_at": "2026-05-19T13:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056734237580251242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "XldMtX"
+            },
+            {
+              "end": 21,
+              "id": "1876047345340788736",
+              "start": 8,
+              "username": "nagi_capture"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056734237580251242",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056715927690133550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XldMtX @nagi_capture 沒有啦台灣才是電詐練兵場\n騙得了台灣人才能騙全世界"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "2056698395448991843",
+        "created_at": "2026-05-19T12:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056715927690133550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876047345340788736",
+              "start": 0,
+              "username": "nagi_capture"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056715927690133550",
+        "in_reply_to_user_id": "1876047345340788736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056698395448991843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nagi_capture 不知道為什麼哪搞來這麼多bot，ㄓㄚㄆㄧㄢˋ神國我服了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 146,
+          "like_count": 4990,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 972
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "ㄨㄛˇ ㄑㄩˉ ㄊㄧˇ ㄏㄨㄚˋ ㄌ\n\nㄒㄧㄤˇ ㄔㄥˊ ㄨㄟˊ Apex ㄍㄠㄕㄡ\n\n@Allenium114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Allenium114"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+k6R8ZoB6cPMyN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+k6R8ZoB6cPMyN2M1",
+                "start": 0,
+                "url": "https://t.co/3iPzLTBTRw"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重慶",
+        "name": "🍁🍥翎🍥🍁",
+        "pinned_tweet_id": "2052694519129473346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042113258090528768/f1mH6fZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7183,
+          "following_count": 1043,
+          "like_count": 55085,
+          "listed_count": 12,
+          "media_count": 3575,
+          "tweet_count": 30137
+        },
+        "url": "https://t.co/3iPzLTBTRw",
+        "username": "XldMtX",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-05T23:25:25.000Z",
+        "description": "Based in Tokyo｜INFJ｜Videography,Photographer,Video Editor｜Graphic Design｜UI/UX Designer ｜Apple fans｜Anti-Communism｜台日友好🇹🇼🇯🇵\n仕事関連：chibakazuki46@icloud.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@nagishinohara…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@nagishinohara?si=AOymQWFdulErwAgP",
+                "start": 0,
+                "url": "https://t.co/Vr76XvVjRl"
+              }
+            ]
+          }
+        },
+        "id": "1876047345340788736",
+        "location": "東京",
+        "name": "Nagiphotography",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056562828761554944/h693-r0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 463,
+          "like_count": 21021,
+          "listed_count": 4,
+          "media_count": 1954,
+          "tweet_count": 7520
+        },
+        "url": "https://t.co/Vr76XvVjRl",
+        "username": "nagi_capture",
+        "verified": true
+      }
+    ]
+  }
+}

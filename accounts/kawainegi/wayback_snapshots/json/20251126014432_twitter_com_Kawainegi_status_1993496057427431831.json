@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763147741126090753",
+    "conversation_id": "1993311902366371904",
+    "created_at": "2025-11-26T01:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T02:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993496057427431831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1725486340542775296",
+          "start": 0,
+          "username": "myaukarova"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993496057427431831",
+    "in_reply_to_user_id": "1725486340542775296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993373156594401715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myaukarova 但實際要讓醫生開藥是不是會很難"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763147741126090753",
+        "conversation_id": "1993311902366371904",
+        "created_at": "2025-11-26T01:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T02:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993496057427431831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1725486340542775296",
+              "start": 0,
+              "username": "myaukarova"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993496057427431831",
+        "in_reply_to_user_id": "1725486340542775296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993373156594401715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myaukarova 但實際要讓醫生開藥是不是會很難"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725486340542775296",
+        "conversation_id": "1993311902366371904",
+        "created_at": "2025-11-25T17:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T18:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993373156594401715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1763147741126090753",
+              "start": 0,
+              "username": "Kawainegi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993373156594401715",
+        "in_reply_to_user_id": "1763147741126090753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993353856169001472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kawainegi 北医三院、复旦儿科，还有广州还是哪里的医院也可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-29T10:23:01.000Z",
+        "description": "",
+        "id": "1763147741126090753",
+        "name": "ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989506570494119936/yUfvq273_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "Kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T12:09:48.000Z",
+        "description": "关注喵卡酱喵，关注喵卡洛娃谢谢喵",
+        "id": "1725486340542775296",
+        "location": "Anhui China",
+        "name": "喵卡酱（没把的男娘Version）🏳‍⚧🍔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964898609469739008/PORyHOjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 201,
+          "like_count": 159,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 2560
+        },
+        "username": "myaukarova",
+        "verified": false
+      }
+    ]
+  }
+}

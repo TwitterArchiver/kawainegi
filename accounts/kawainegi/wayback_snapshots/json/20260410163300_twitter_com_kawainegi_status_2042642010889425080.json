@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2042642010889425080",
+    "created_at": "2026-04-10T16:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042642010889425080"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/quasarne/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/quasarne/status/2042571990838784102",
+          "start": 8,
+          "url": "https://t.co/mTQpdqZPP0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042642010889425080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042571990838784102",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "○娘統治世界！ https://t.co/mTQpdqZPP0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2042571984798912516",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFisZe4akAQr5Az.jpg",
+        "width": 558
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2042642010889425080",
+        "created_at": "2026-04-10T16:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042642010889425080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quasarne/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/quasarne/status/2042571990838784102",
+              "start": 8,
+              "url": "https://t.co/mTQpdqZPP0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042642010889425080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042571990838784102",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "○娘統治世界！ https://t.co/mTQpdqZPP0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042571984798912516"
+          ]
+        },
+        "author_id": "1247054463329656832",
+        "conversation_id": "2042571990838784102",
+        "created_at": "2026-04-10T11:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042571990838784102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4KnnpX6rW1",
+              "end": 28,
+              "expanded_url": "https://x.com/quasarne/status/2042571990838784102/photo/1",
+              "media_key": "3_2042571984798912516",
+              "start": 5,
+              "url": "https://t.co/4KnnpX6rW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042571990838784102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6398,
+          "like_count": 115,
+          "quote_count": 3,
+          "reply_count": 30,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "谁来了？ https://t.co/4KnnpX6rW1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "メンヘラって呼ばないで…",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 47,
+          "like_count": 1363,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 192
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "全沾逝学牲猫｜數碼/科幻/策略/音游 Wikier｜🏳️‍🌈𝕡𝕒𝕟/𝕘𝕒𝕪🏳️‍⚧️｜🚩🏴𝒕𝒂𝒗𝒍𝒖𝒗𝒂 y 𝒆𝒂 自由·平等🌹｜🌐漢語 吴、普/English OK｜SAD｜Knowledge is кии to the universe｜键政垢：@junenkim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "junenkim"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quasarne14546",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quasarne14546",
+                "start": 0,
+                "url": "https://t.co/av1wKCkdLM"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "Freedom Territory of QNA",
+        "name": "neⒶστήρ |星ない",
+        "pinned_tweet_id": "1987440923995988466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015318609091026944/HsmCBNSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 1015,
+          "like_count": 74574,
+          "listed_count": 6,
+          "media_count": 993,
+          "tweet_count": 13358
+        },
+        "url": "https://t.co/av1wKCkdLM",
+        "username": "quasarne",
+        "verified": true
+      }
+    ]
+  }
+}

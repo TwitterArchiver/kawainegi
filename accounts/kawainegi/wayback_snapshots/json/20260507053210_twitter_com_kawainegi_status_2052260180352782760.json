@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2051800023143424287",
+    "created_at": "2026-05-07T05:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T06:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052260180352782760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "4rulq"
+        },
+        {
+          "end": 15,
+          "id": "1764195010986274816",
+          "start": 7,
+          "username": "CCA8798"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052260180352782760",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051800023143424287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rulq @CCA8798 換CPA會好點我再也不要吃利尿劑了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2051800017233657856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHl1PqlaQAAIdr5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2051800017233715200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHl1PqlbIAAx6va.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2051800017221169152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHl1PqibsAA_oLE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2051800017267245056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHl1PqtawAA_tPj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2051800023143424287",
+        "created_at": "2026-05-07T05:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052260180352782760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "4rulq"
+            },
+            {
+              "end": 15,
+              "id": "1764195010986274816",
+              "start": 7,
+              "username": "CCA8798"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052260180352782760",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051800023143424287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rulq @CCA8798 換CPA會好點我再也不要吃利尿劑了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051800017233657856",
+            "3_2051800017233715200",
+            "3_2051800017221169152",
+            "3_2051800017267245056"
+          ]
+        },
+        "author_id": "2035668415231492096",
+        "conversation_id": "2051800023143424287",
+        "created_at": "2026-05-05T23:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T00:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051800023143424287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1764195010986274816",
+              "start": 1,
+              "username": "CCA8798"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W5dIMjTz5v",
+              "end": 43,
+              "expanded_url": "https://x.com/4rulq/status/2051800023143424287/photo/1",
+              "media_key": "3_2051800017233657856",
+              "start": 20,
+              "url": "https://t.co/W5dIMjTz5v"
+            },
+            {
+              "display_url": "pic.x.com/W5dIMjTz5v",
+              "end": 43,
+              "expanded_url": "https://x.com/4rulq/status/2051800023143424287/photo/1",
+              "media_key": "3_2051800017233715200",
+              "start": 20,
+              "url": "https://t.co/W5dIMjTz5v"
+            },
+            {
+              "display_url": "pic.x.com/W5dIMjTz5v",
+              "end": 43,
+              "expanded_url": "https://x.com/4rulq/status/2051800023143424287/photo/1",
+              "media_key": "3_2051800017221169152",
+              "start": 20,
+              "url": "https://t.co/W5dIMjTz5v"
+            },
+            {
+              "display_url": "pic.x.com/W5dIMjTz5v",
+              "end": 43,
+              "expanded_url": "https://x.com/4rulq/status/2051800023143424287/photo/1",
+              "media_key": "3_2051800017267245056",
+              "start": 20,
+              "url": "https://t.co/W5dIMjTz5v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051800023143424287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 481,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和@CCA8798 一起買抗雄喵～～～ https://t.co/W5dIMjTz5v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 130,
+          "like_count": 3699,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 666
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "私はかくえいいです、いいちゃんと呼んでください\n重度焦慮/性別焦慮各方面渴望被愛\n重度の不安/性別不安の各方面（ではない）\nHRT：2026/5/6\n請先看這個內容喵～注意⚠️：若是大陸人請自覺用找我要國內聯絡資訊喵～感謝大家的配合喵～最愛大家喵～\n註明：1:自願不是強求喵～\n2:有🚪費的請遠離喵～（後續酌情補充喵～",
+        "id": "2035668415231492096",
+        "name": "かくえいい🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2040388638589280321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038145351832793088/iKz0bEI5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 495,
+          "like_count": 1716,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1812
+        },
+        "url": "",
+        "username": "4rulq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T07:45:22.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜26.05.05 | 出厂:壹贰.零壹.零叁 | 165cm/41kg | 佛山 | 玻璃心 双相+重抑中焦不OD 好说话 | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder\n可寄拍/扩列🤓\n二代目(逃生舱): @CCA8798suki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "CCA8798suki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://www.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/7pvlNCbO8x"
+              }
+            ]
+          }
+        },
+        "id": "1764195010986274816",
+        "location": "安东星蜗牛第一票常交易有限公司",
+        "name": "不会起名の捌拐玖捌(出柜成功版)🍥",
+        "pinned_tweet_id": "2051600396750401572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051736077615136768/q8UF6A0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 1009,
+          "like_count": 14183,
+          "listed_count": 4,
+          "media_count": 133,
+          "tweet_count": 1855
+        },
+        "url": "https://t.co/7pvlNCbO8x",
+        "username": "CCA8798",
+        "verified": true
+      }
+    ]
+  }
+}

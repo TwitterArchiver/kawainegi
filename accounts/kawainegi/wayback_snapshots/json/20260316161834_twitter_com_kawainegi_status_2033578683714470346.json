@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2033444604968919233",
+    "created_at": "2026-03-16T16:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T17:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033578683714470346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956268310766739461",
+          "start": 0,
+          "username": "Hana10_14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033578683714470346",
+    "in_reply_to_user_id": "1956268310766739461",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033444604968919233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hana10_14 ありがたい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2033444604968919233",
+        "created_at": "2026-03-16T16:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T17:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033578683714470346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956268310766739461",
+              "start": 0,
+              "username": "Hana10_14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033578683714470346",
+        "in_reply_to_user_id": "1956268310766739461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033444604968919233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hana10_14 ありがたい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956268310766739461",
+        "conversation_id": "2033444604968919233",
+        "created_at": "2026-03-16T07:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T08:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033444604968919233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033444604968919233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 768,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希死念慮とか、od、リスカ、自殺未遂、親からの虐待に苦しんでる人達と話したいDM開けてるから誰でも"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "システム終了",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 31,
+          "like_count": 677,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 75
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T08:15:26.000Z",
+        "description": "03生まれ 22歳 女 高卒無職5年目  ASD/ADHD/BPD 幸せになるためのアカウント︎^_^",
+        "id": "1956268310766739461",
+        "name": "おと",
+        "pinned_tweet_id": "2028259297436865010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997607436451209217/4uz7xm4L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 452,
+          "like_count": 12126,
+          "listed_count": 4,
+          "media_count": 918,
+          "tweet_count": 5325
+        },
+        "username": "Hana10_14",
+        "verified": false
+      }
+    ]
+  }
+}

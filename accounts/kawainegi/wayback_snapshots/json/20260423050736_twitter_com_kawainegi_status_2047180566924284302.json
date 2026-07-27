@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2047180036164452539",
+    "created_at": "2026-04-23T05:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T06:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047180566924284302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2044319134326964224",
+          "start": 0,
+          "username": "XldFxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047180566924284302",
+    "in_reply_to_user_id": "2044319134326964224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047180036164452539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XldFxA 聽到這邊我也很開心（🤍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 376,
+        "media_key": "3_2047179970771042304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkLVkUaQAABlGc.png",
+        "width": 836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2047180036164452539",
+        "created_at": "2026-04-23T05:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047180566924284302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2044319134326964224",
+              "start": 0,
+              "username": "XldFxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047180566924284302",
+        "in_reply_to_user_id": "2044319134326964224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047180036164452539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XldFxA 聽到這邊我也很開心（🤍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047179970771042304"
+          ]
+        },
+        "author_id": "2044319134326964224",
+        "conversation_id": "2047180036164452539",
+        "created_at": "2026-04-23T05:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047180036164452539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQo8AvfPJ8",
+              "end": 41,
+              "expanded_url": "https://x.com/XldFxA/status/2047180036164452539/photo/1",
+              "media_key": "3_2047179970771042304",
+              "start": 18,
+              "url": "https://t.co/lQo8AvfPJ8"
+            },
+            {
+              "display_url": "x.com/kawainegi/stat…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/kawainegi/status/2047179862516068769",
+              "start": 42,
+              "url": "https://t.co/a6rbjHqbQK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047180036164452539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047179862516068769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这么一想我心态真的有好很多了））） https://t.co/lQo8AvfPJ8 https://t.co/a6rbjHqbQK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 112,
+          "like_count": 2341,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 412
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T07:37:25.000Z",
+        "description": "西南梦游山tv之翎早上因为熬夜而半梦半醒的起来上早八看见 x大号@xldmtx又被封了无助的爬起打开apex被顶猎一脚踢死想打六目标发现才 8w分被自己区的满地都是无助的爬回床上结果镜子照出巨人般的骨架不禁悲从中来打开前摄被长发男蛆一样的外观丑晕奇异搞笑的盖上被子割完手接着等死又被家长发现割手一顿批判顿觉这辈子有了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 32,
+                "username": "xldmtx"
+              }
+            ]
+          }
+        },
+        "id": "2044319134326964224",
+        "location": "棍母所栖之处",
+        "name": "🍁🍥iLYA🍥🍁",
+        "pinned_tweet_id": "2047174700795883807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044319211884032000/COXjezdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 180,
+          "like_count": 1932,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 493
+        },
+        "username": "XldFxA",
+        "verified": false
+      }
+    ]
+  }
+}

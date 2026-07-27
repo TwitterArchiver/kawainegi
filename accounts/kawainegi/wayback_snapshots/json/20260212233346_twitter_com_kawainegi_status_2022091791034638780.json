@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2021896409755398368",
+    "created_at": "2026-02-12T23:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T00:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022091791034638780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1300349494265954305",
+          "start": 0,
+          "username": "Rw71kM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022091791034638780",
+    "in_reply_to_user_id": "1300349494265954305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021896409755398368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rw71kM 失敗したら代償は"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2021896409755398368",
+        "created_at": "2026-02-12T23:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T00:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022091791034638780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1300349494265954305",
+              "start": 0,
+              "username": "Rw71kM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022091791034638780",
+        "in_reply_to_user_id": "1300349494265954305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021896409755398368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rw71kM 失敗したら代償は"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300349494265954305",
+        "conversation_id": "2021896409755398368",
+        "created_at": "2026-02-12T10:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021896409755398368"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021896409755398368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3687,
+          "like_count": 153,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "誰かと練炭する？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "人生終了",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-31T08:28:58.000Z",
+        "description": "私が患者ならこんな看護師絶対いや。気づけば大人になってた。病み垢 /壁打ち/希死念慮/鬱病 ネガツイしか基本しません ここが遺書のつもりで自分の思ったこと、感情を記録してます",
+        "id": "1300349494265954305",
+        "location": "推ししか勝たんはずだったのに",
+        "name": "り",
+        "pinned_tweet_id": "1988931508258877634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946137437010280448/Isbjf8XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 82,
+          "like_count": 13151,
+          "listed_count": 11,
+          "media_count": 58,
+          "tweet_count": 3210
+        },
+        "username": "Rw71kM",
+        "verified": false
+      }
+    ]
+  }
+}

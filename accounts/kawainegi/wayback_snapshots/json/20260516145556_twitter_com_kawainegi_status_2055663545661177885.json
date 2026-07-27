@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055663530184151040"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2055663545661177885",
+    "created_at": "2026-05-16T14:55:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055663545661177885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HidgdSEHn5",
+          "end": 33,
+          "expanded_url": "https://x.com/kawainegi/status/2055663545661177885/photo/1",
+          "media_key": "3_2055663530184151040",
+          "start": 10,
+          "url": "https://t.co/HidgdSEHn5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055663545661177885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就這樣唱韓文歌😇 https://t.co/HidgdSEHn5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2055663530184151040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcvFt5aEAA1jTV.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055663530184151040"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2055663545661177885",
+        "created_at": "2026-05-16T14:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055663545661177885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HidgdSEHn5",
+              "end": 33,
+              "expanded_url": "https://x.com/kawainegi/status/2055663545661177885/photo/1",
+              "media_key": "3_2055663530184151040",
+              "start": 10,
+              "url": "https://t.co/HidgdSEHn5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055663545661177885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就這樣唱韓文歌😇 https://t.co/HidgdSEHn5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 143,
+          "like_count": 4782,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 912
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

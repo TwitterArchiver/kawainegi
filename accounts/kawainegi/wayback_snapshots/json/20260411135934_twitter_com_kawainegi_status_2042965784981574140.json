@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2042913305531154575",
+    "created_at": "2026-04-11T13:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T14:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042965784981574140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1161925320234024960",
+          "start": 0,
+          "username": "smile_kun422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042965784981574140",
+    "in_reply_to_user_id": "1161925320234024960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042913305531154575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smile_kun422 ②\n利点が言った、その代償は？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 569,
+        "media_key": "3_2042909542825234436",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnfZ8hakAQtg7c.jpg",
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2042913305531154575",
+        "created_at": "2026-04-11T13:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042965784981574140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1161925320234024960",
+              "start": 0,
+              "username": "smile_kun422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042965784981574140",
+        "in_reply_to_user_id": "1161925320234024960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042913305531154575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smile_kun422 ②\n利点が言った、その代償は？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042909542825234436"
+          ]
+        },
+        "author_id": "1161925320234024960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Fuji Television (フジテレビ)",
+              "id": "1034889162371911680",
+              "name": "Fuji Television"
+            }
+          }
+        ],
+        "conversation_id": "2042913305531154575",
+        "created_at": "2026-04-11T10:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042913305531154575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRq3uJhMRP",
+              "end": 55,
+              "expanded_url": "https://x.com/smile_kun422/status/2042913305531154575/photo/1",
+              "media_key": "3_2042909542825234436",
+              "start": 32,
+              "url": "https://t.co/XRq3uJhMRP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042913305531154575",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 1427011,
+          "like_count": 3115,
+          "quote_count": 2293,
+          "reply_count": 1428,
+          "retweet_count": 211
+        },
+        "reply_settings": "everyone",
+        "text": "1億円もらえる代わりに、1つだけデメリット選ぶならどれにする？ https://t.co/XRq3uJhMRP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "メンヘラって呼ばないで…",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 51,
+          "like_count": 1403,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 197
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-15T08:59:18.000Z",
+        "description": "毎日12時、19時に大喜利お題を投稿中！\n他にもおもしろ画像やネタツイしてます！\n削除依頼はURL付きでDM下さい。\n宣伝などの拡散依頼受付中！",
+        "id": "1161925320234024960",
+        "name": "スマイルくん(Smile)",
+        "pinned_tweet_id": "2042913305531154575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032408622282784768/Y0MyfhNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224278,
+          "following_count": 2318,
+          "like_count": 120636,
+          "listed_count": 735,
+          "media_count": 12914,
+          "tweet_count": 29526
+        },
+        "username": "smile_kun422",
+        "verified": true
+      }
+    ]
+  }
+}

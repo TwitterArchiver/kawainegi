@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081137157369163776"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2081137423980118112",
+    "created_at": "2026-07-25T22:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T23:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081137423980118112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kqFyGQ1N7q",
+          "end": 30,
+          "expanded_url": "https://x.com/kawainegi/status/2081137423980118112/photo/1",
+          "media_key": "3_2081137157369163776",
+          "start": 7,
+          "url": "https://t.co/kqFyGQ1N7q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081137423980118112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ざ…おはよう https://t.co/kqFyGQ1N7q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2081137157369163776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOGvN-Ha8AA1TDP.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081137157369163776"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2081137423980118112",
+        "created_at": "2026-07-25T22:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T23:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081137423980118112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kqFyGQ1N7q",
+              "end": 30,
+              "expanded_url": "https://x.com/kawainegi/status/2081137423980118112/photo/1",
+              "media_key": "3_2081137157369163776",
+              "start": 7,
+              "url": "https://t.co/kqFyGQ1N7q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081137423980118112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ざ…おはよう https://t.co/kqFyGQ1N7q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 173,
+          "like_count": 7164,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1453
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

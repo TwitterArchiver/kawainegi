@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2063884603946135664",
+    "created_at": "2026-06-08T13:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T14:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063975845820330287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029291241704439808",
+          "start": 0,
+          "username": "20satsumaimo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063975845820330287",
+    "in_reply_to_user_id": "2029291241704439808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063884603946135664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@20satsumaimo 自殺為什麼要通報警方"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063884567300517888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRkFDtbsAAk_Ff.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063884573457653760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRkFapaIAAHNH9.jpg",
+        "width": 945
+      },
+      {
+        "height": 575,
+        "media_key": "3_2063884580810330112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRkF2CbEAAZ7lw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2063884603946135664",
+        "created_at": "2026-06-08T13:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063975845820330287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029291241704439808",
+              "start": 0,
+              "username": "20satsumaimo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063975845820330287",
+        "in_reply_to_user_id": "2029291241704439808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063884603946135664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@20satsumaimo 自殺為什麼要通報警方"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063884567300517888",
+            "3_2063884573457653760",
+            "3_2063884580810330112"
+          ]
+        },
+        "author_id": "2029291241704439808",
+        "conversation_id": "2063884603946135664",
+        "created_at": "2026-06-08T07:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063884603946135664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sHw9FmOMU6",
+              "end": 83,
+              "expanded_url": "https://x.com/20satsumaimo/status/2063884603946135664/photo/1",
+              "media_key": "3_2063884567300517888",
+              "start": 60,
+              "url": "https://t.co/sHw9FmOMU6"
+            },
+            {
+              "display_url": "pic.x.com/sHw9FmOMU6",
+              "end": 83,
+              "expanded_url": "https://x.com/20satsumaimo/status/2063884603946135664/photo/1",
+              "media_key": "3_2063884573457653760",
+              "start": 60,
+              "url": "https://t.co/sHw9FmOMU6"
+            },
+            {
+              "display_url": "pic.x.com/sHw9FmOMU6",
+              "end": 83,
+              "expanded_url": "https://x.com/20satsumaimo/status/2063884603946135664/photo/1",
+              "media_key": "3_2063884580810330112",
+              "start": 60,
+              "url": "https://t.co/sHw9FmOMU6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063884603946135664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 930,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的，再有事我吞盐了，我的好朋友都没了，我还活着干什么，我不信盐还不死，烦死我了，醒了就是一堆电话，搞得好像我想活一样 https://t.co/sHw9FmOMU6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 158,
+          "like_count": 6497,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1273
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T20:25:12.000Z",
+        "description": "mtf/有证含糖/02年/基本待人友善/OD/不割手/疑似严重躁狂（叫我红薯就好啦～",
+        "id": "2029291241704439808",
+        "name": "是红薯呀～🍥",
+        "pinned_tweet_id": "2038964958881575022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964782033752064/ozF77ljw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 1,
+          "like_count": 108,
+          "listed_count": 6,
+          "media_count": 84,
+          "tweet_count": 135
+        },
+        "username": "20satsumaimo",
+        "verified": true
+      }
+    ]
+  }
+}

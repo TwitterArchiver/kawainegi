@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2006593505481863300",
+    "created_at": "2026-01-02T04:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T05:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006938770206240879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1959957838647959552",
+          "start": 0,
+          "username": "genkaidesu1030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006938770206240879",
+    "in_reply_to_user_id": "1959957838647959552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006593505481863300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@genkaidesu1030 また一年生きた失敗すぎ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2006593505481863300",
+        "created_at": "2026-01-02T04:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T05:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006938770206240879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1959957838647959552",
+              "start": 0,
+              "username": "genkaidesu1030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006938770206240879",
+        "in_reply_to_user_id": "1959957838647959552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006593505481863300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genkaidesu1030 また一年生きた失敗すぎ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959957838647959552",
+        "conversation_id": "2006593505481863300",
+        "created_at": "2026-01-01T05:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T06:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006593505481863300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006593505481863300",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 42369,
+          "like_count": 2681,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 212
+        },
+        "reply_settings": "everyone",
+        "text": "元旦だからと言って、鬱がよくなるわけでもなく希死念慮がなくなるわけでもない"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "偶には参りにきてね",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T12:36:05.000Z",
+        "description": "鬱/不眠症/診断済みADHD/希死念慮/貧困/HSP/孤独/反出生/障害者手帳持ち/毒親\n\nＮＧ→自傷画像・自撮り・自募・出会い目的・RP多い人・政治系・男女論\n\n病み垢全然関係ないアカウントやポストゼロ垢・鍵垢はブロックします。\n\n規制垢→@newmero1030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "newmero1030"
+              }
+            ]
+          }
+        },
+        "id": "1959957838647959552",
+        "name": "限界めろちゃん",
+        "pinned_tweet_id": "1998679135816921529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006569305077592065/QdX1b2nt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 131,
+          "like_count": 18630,
+          "listed_count": 9,
+          "media_count": 23,
+          "tweet_count": 3832
+        },
+        "username": "genkaidesu1030",
+        "verified": false
+      }
+    ]
+  }
+}

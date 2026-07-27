@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2048401346093871281",
+    "created_at": "2026-04-26T13:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048401346093871281"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kawainegi/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/kawainegi/status/2048397663645921297",
+          "start": 30,
+          "url": "https://t.co/KKFH9qksMO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048401346093871281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048397663645921297",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那段錯過的人生被封存在琥珀中，怎樣都無法尋回，慢慢失去形狀 https://t.co/KKFH9qksMO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2048401346093871281",
+        "created_at": "2026-04-26T13:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048401346093871281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawainegi/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/kawainegi/status/2048397663645921297",
+              "start": 30,
+              "url": "https://t.co/KKFH9qksMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048401346093871281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048397663645921297",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那段錯過的人生被封存在琥珀中，怎樣都無法尋回，慢慢失去形狀 https://t.co/KKFH9qksMO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2048397663645921297",
+        "created_at": "2026-04-26T13:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048397663645921297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawainegi/stat…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/kawainegi/status/2047688906712535044",
+              "start": 136,
+              "url": "https://t.co/2G33fLqxNn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048397663645921297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047688906712535044",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到了雙馬尾的小女孩\n\n我的人生不應該只是20幾歲 SRS 才能開始\n過自己人生的小跨妹之最良狀況，而是擁有不厭惡的童年，跟她們一樣的青春，校園經驗之類的普通人\n\n走到這邊也只能重開了啊⋯⋯\n如果可以帶著記憶回到六歲重新掌握一次自己的人生我是不是可以不用死\n\n真的好恨啊 https://t.co/2G33fLqxNn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 120,
+          "like_count": 2662,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 502
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

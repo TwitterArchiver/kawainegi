@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2053699217101595037",
+    "created_at": "2026-05-11T12:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T13:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053814331679400321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1621259482704625671",
+          "start": 0,
+          "username": "Qinioo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053814331679400321",
+    "in_reply_to_user_id": "1621259482704625671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053699217101595037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Qinioo 兩個紅根本不是同一個顏色"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 120,
+        "media_key": "3_2053699209308565504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIA0jMZWcAA5Fxa.jpg",
+        "width": 140
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2053699217101595037",
+        "created_at": "2026-05-11T12:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053814331679400321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1621259482704625671",
+              "start": 0,
+              "username": "Qinioo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053814331679400321",
+        "in_reply_to_user_id": "1621259482704625671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053699217101595037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Qinioo 兩個紅根本不是同一個顏色"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053699209308565504"
+          ]
+        },
+        "author_id": "1621259482704625671",
+        "conversation_id": "2053699217101595037",
+        "created_at": "2026-05-11T04:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053699217101595037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tG7pXzHc89",
+              "end": 39,
+              "expanded_url": "https://x.com/Qinioo/status/2053699217101595037/photo/1",
+              "media_key": "3_2053699209308565504",
+              "start": 16,
+              "url": "https://t.co/tG7pXzHc89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053699217101595037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 9903,
+          "like_count": 207,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "other",
+        "text": "某些粉红的一国两制belike https://t.co/tG7pXzHc89"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 138,
+          "like_count": 4329,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 795
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-02T21:29:55.000Z",
+        "description": "正體🇹🇼/简体🇨🇳 | 音游人 | フォローをくれてありがとうございます!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ayaneqin.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://ayaneqin.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/eL7t3GeW91"
+              }
+            ]
+          }
+        },
+        "id": "1621259482704625671",
+        "name": "綾音Io",
+        "pinned_tweet_id": "2041214126140330063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929662964526993411/I6Qra0xt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 2588,
+          "like_count": 40339,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 1504
+        },
+        "url": "https://t.co/eL7t3GeW91",
+        "username": "Qinioo",
+        "verified": true
+      }
+    ]
+  }
+}

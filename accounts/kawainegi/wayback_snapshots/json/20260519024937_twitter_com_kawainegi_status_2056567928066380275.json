@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2056418941371895943",
+    "created_at": "2026-05-19T02:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T03:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056567928066380275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "733617892550316032",
+          "start": 0,
+          "username": "KaminariLatsqem"
+        },
+        {
+          "end": 26,
+          "id": "193648759",
+          "start": 17,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056567928066380275",
+    "in_reply_to_user_id": "733617892550316032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056455149112143923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaminariLatsqem @ripo0079 可是聽習慣了感覺很有りぽたん的特色欸\n呆呆卻很萌的朋友的感覺\n中文很自由啦）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2056418941371895943",
+        "created_at": "2026-05-19T02:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T03:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056567928066380275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "733617892550316032",
+              "start": 0,
+              "username": "KaminariLatsqem"
+            },
+            {
+              "end": 26,
+              "id": "193648759",
+              "start": 17,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056567928066380275",
+        "in_reply_to_user_id": "733617892550316032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056455149112143923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaminariLatsqem @ripo0079 可是聽習慣了感覺很有りぽたん的特色欸\n呆呆卻很萌的朋友的感覺\n中文很自由啦）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "733617892550316032",
+        "conversation_id": "2056418941371895943",
+        "created_at": "2026-05-18T19:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056455149112143923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056455149112143923",
+        "in_reply_to_user_id": "193648759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056418941371895943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 說「跨兒伙伴」會更好一些，「跨朋友」這個說法在漢語裏很奇怪，我的語感如此。\n這有可能是因爲單字詞「跨」在漢語裏表示 transgender 時不太能作修飾語，而必須使用雙字詞。因此改成「跨兒」顯得更通順。\n漢語裏又許多語法規則是出於韻律的緣故。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 146,
+          "like_count": 4945,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 956
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-20T11:18:30.000Z",
+        "description": "思想被主義姦污得苦。\n基督徒。\n伴侶：@soshyu_suwako\n推特沒人認識，大概偶爾會發一些不經的言論，雖無道理，皆是性情中語，勿較真。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "soshyu_suwako"
+              }
+            ]
+          }
+        },
+        "id": "733617892550316032",
+        "name": "神鳴大音",
+        "pinned_tweet_id": "1711323111239602496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560151680833839104/0sJkQyN1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 1138,
+          "like_count": 39275,
+          "listed_count": 3,
+          "media_count": 195,
+          "tweet_count": 10392
+        },
+        "username": "KaminariLatsqem",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11219,
+          "following_count": 1406,
+          "like_count": 72848,
+          "listed_count": 131,
+          "media_count": 4357,
+          "tweet_count": 54427
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

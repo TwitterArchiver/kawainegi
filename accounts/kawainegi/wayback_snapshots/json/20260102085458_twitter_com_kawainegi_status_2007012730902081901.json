@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2006880403806892444",
+    "created_at": "2026-01-02T08:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T09:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007012730902081901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "402579272",
+          "start": 0,
+          "username": "ei20111101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007012730902081901",
+    "in_reply_to_user_id": "402579272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006880403806892444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ei20111101 吐きたいのはどうするいいか(´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2006880403806892444",
+        "created_at": "2026-01-02T08:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T09:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007012730902081901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "402579272",
+              "start": 0,
+              "username": "ei20111101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007012730902081901",
+        "in_reply_to_user_id": "402579272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006880403806892444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ei20111101 吐きたいのはどうするいいか(´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "402579272",
+        "conversation_id": "2006880403806892444",
+        "created_at": "2026-01-02T00:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T01:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006880403806892444"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006880403806892444",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 559,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朝から飲む酒はうまい。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "偶には参りにきてね",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 17,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-01T08:50:38.000Z",
+        "description": "ネガティブなことをポストするアカウント",
+        "id": "402579272",
+        "name": "ei",
+        "pinned_tweet_id": "1991411320844087315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971036046394806272/NA1EyuHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 419,
+          "like_count": 27469,
+          "listed_count": 8,
+          "media_count": 22,
+          "tweet_count": 5514
+        },
+        "username": "ei20111101",
+        "verified": false
+      }
+    ]
+  }
+}

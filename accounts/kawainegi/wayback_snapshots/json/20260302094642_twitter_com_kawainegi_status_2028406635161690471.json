@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2027712592006025617",
+    "created_at": "2026-03-02T09:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T10:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028406635161690471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1838824925970550784",
+          "start": 0,
+          "username": "janedo_theend"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028406635161690471",
+    "in_reply_to_user_id": "1838824925970550784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027712592006025617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@janedo_theend 幸せならオケ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2027712588801576964",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPh2zIbEAQ99rL.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2027712589770461187",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPh22vbEAMOfqX.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2027712592006025617",
+        "created_at": "2026-03-02T09:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T10:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028406635161690471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1838824925970550784",
+              "start": 0,
+              "username": "janedo_theend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028406635161690471",
+        "in_reply_to_user_id": "1838824925970550784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027712592006025617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@janedo_theend 幸せならオケ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027712588801576964",
+            "3_2027712589770461187"
+          ]
+        },
+        "author_id": "1838824925970550784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2027712592006025617",
+        "created_at": "2026-02-28T11:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T12:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027712592006025617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h5YmV91nXR",
+              "end": 93,
+              "expanded_url": "https://x.com/janedo_theend/status/2027712592006025617/photo/1",
+              "media_key": "3_2027712588801576964",
+              "start": 70,
+              "url": "https://t.co/h5YmV91nXR"
+            },
+            {
+              "display_url": "pic.x.com/h5YmV91nXR",
+              "end": 93,
+              "expanded_url": "https://x.com/janedo_theend/status/2027712592006025617/photo/1",
+              "media_key": "3_2027712589770461187",
+              "start": 70,
+              "url": "https://t.co/h5YmV91nXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027712592006025617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2650,
+          "impression_count": 3508826,
+          "like_count": 50095,
+          "quote_count": 285,
+          "reply_count": 118,
+          "retweet_count": 734
+        },
+        "reply_settings": "everyone",
+        "text": "同性愛者アンチ\n｢同性愛は生物学的におかしい。｣\n｢障がいか病気だ。｣\n\nドール性愛者の私(レズ)\n｢人間と恋愛してる時点で極めて正常。｣ https://t.co/h5YmV91nXR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "システム終了",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 532,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 49
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T06:16:52.000Z",
+        "description": "元自衛官レズ｜レズ界隈のリアル、あるあるをぶっちゃけ発信｜彼女が浮気→筋トレでメンタル復活→ガチムチレズに目覚める｜現在彼女(ドール)と同棲中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "querie.me/user/janedo_th…",
+                "end": 23,
+                "expanded_url": "https://querie.me/user/janedo_theend",
+                "start": 0,
+                "url": "https://t.co/Y0R8FVCbIc"
+              }
+            ]
+          }
+        },
+        "id": "1838824925970550784",
+        "location": "お便りコーナー↓",
+        "name": "じぇんどぅ",
+        "pinned_tweet_id": "2027337496921784419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021982965975400448/jdhE0iPz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11903,
+          "following_count": 20,
+          "like_count": 5450,
+          "listed_count": 39,
+          "media_count": 170,
+          "tweet_count": 1685
+        },
+        "url": "https://t.co/Y0R8FVCbIc",
+        "username": "janedo_theend",
+        "verified": true
+      }
+    ]
+  }
+}

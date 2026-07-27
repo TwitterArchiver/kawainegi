@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2044292238658900440",
+    "created_at": "2026-04-16T03:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T04:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044618951003701617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032715306632884224",
+          "start": 0,
+          "username": "omgnowihave"
+        },
+        {
+          "end": 24,
+          "id": "1430312926737354753",
+          "start": 13,
+          "username": "mufan_2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044618951003701617",
+    "in_reply_to_user_id": "2032715306632884224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044297577173266914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omgnowihave @mufan_2006 想辦法免役試看看（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2044292238658900440",
+        "created_at": "2026-04-16T03:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T04:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044618951003701617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032715306632884224",
+              "start": 0,
+              "username": "omgnowihave"
+            },
+            {
+              "end": 24,
+              "id": "1430312926737354753",
+              "start": 13,
+              "username": "mufan_2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044618951003701617",
+        "in_reply_to_user_id": "2032715306632884224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044297577173266914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omgnowihave @mufan_2006 想辦法免役試看看（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032715306632884224",
+        "conversation_id": "2044292238658900440",
+        "created_at": "2026-04-15T06:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044297577173266914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1430312926737354753",
+              "start": 0,
+              "username": "mufan_2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044297577173266914",
+        "in_reply_to_user_id": "1430312926737354753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044292238658900440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mufan_2006 垃圾兵役只會浪費你很多時間而已\n我出國去住都不去當兵😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 75,
+          "like_count": 1852,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 276
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T07:08:06.000Z",
+        "description": "2009/12/24 | 座标台中 | 炸柜王 | \n 旧帐号 @omgnowihavefish（被冻结了）\n@xiohunggu251015(被删了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "omgnowihavefish"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "xiohunggu251015"
+              }
+            ]
+          }
+        },
+        "id": "2032715306632884224",
+        "name": "黄瓜(邪惡台中人)",
+        "pinned_tweet_id": "2033199415520018879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032716573929340928/3UpIyBpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 660,
+          "like_count": 4184,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 1071
+        },
+        "username": "omgnowihave",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T23:35:59.000Z",
+        "description": "日常大學生\n❤️：@SONY846995",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "SONY846995"
+              }
+            ]
+          }
+        },
+        "id": "1430312926737354753",
+        "location": "台中",
+        "name": "范范🩵",
+        "pinned_tweet_id": "2040850784037036350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041916140587511810/Na1rWz55_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11226,
+          "following_count": 29,
+          "like_count": 18231,
+          "listed_count": 14,
+          "media_count": 12,
+          "tweet_count": 61
+        },
+        "username": "mufan_2006",
+        "verified": false
+      }
+    ]
+  }
+}

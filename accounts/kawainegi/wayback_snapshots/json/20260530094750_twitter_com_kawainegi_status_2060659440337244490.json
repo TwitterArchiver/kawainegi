@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2060567809873109005",
+    "created_at": "2026-05-30T09:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060659440337244490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1974380290031132672",
+          "start": 0,
+          "username": "kawail_yachiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060659440337244490",
+    "in_reply_to_user_id": "1974380290031132672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060567809873109005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawail_yachiyo 撲面而來的ミク 絕對是幸福刑對吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2060567809873109005",
+        "created_at": "2026-05-30T09:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060659440337244490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1974380290031132672",
+              "start": 0,
+              "username": "kawail_yachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060659440337244490",
+        "in_reply_to_user_id": "1974380290031132672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060567809873109005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawail_yachiyo 撲面而來的ミク 絕對是幸福刑對吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974380290031132672",
+        "conversation_id": "2060567809873109005",
+        "created_at": "2026-05-30T03:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060567809873109005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HatsuneMiku/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/HatsuneMiku/status/2060522816286474601",
+              "start": 13,
+              "url": "https://t.co/e7dDWazEYV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060567809873109005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060522816286474601",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "撞车安全气囊一开就老实了 https://t.co/e7dDWazEYV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 157,
+          "like_count": 6130,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1212
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T07:45:32.000Z",
+        "description": "八年級初中生｜重度抑鬱症｜不一定即時互fo｜pepoyo粉絲｜成分正常可互fo｜全力支持LGBTQ+ 社區｜聯繫我：lzeyu2811@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lzy-u4q",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@lzy-u4q",
+                "start": 0,
+                "url": "https://t.co/uMYDt9cawl"
+              }
+            ]
+          }
+        },
+        "id": "1974380290031132672",
+        "location": "仮想空間＜ツクヨミ＞",
+        "name": "PPY@推八千代🍥（8964）",
+        "pinned_tweet_id": "2059264214229794831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050583838754025472/N2MYQSUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 557,
+          "like_count": 3768,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 776
+        },
+        "url": "https://t.co/uMYDt9cawl",
+        "username": "kawail_yachiyo",
+        "verified": false
+      }
+    ]
+  }
+}

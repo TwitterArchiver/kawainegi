@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2048417413570658336",
+    "created_at": "2026-04-27T07:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T08:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048666060099145830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1250819643356446721",
+          "start": 0,
+          "username": "flys8028"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048666060099145830",
+    "in_reply_to_user_id": "1250819643356446721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048417413570658336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@flys8028 不是已經有寵物溝通"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 778,
+        "media_key": "3_2048417329730760704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1wtVpbMAAIncH.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2048417413570658336",
+        "created_at": "2026-04-27T07:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048666060099145830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1250819643356446721",
+              "start": 0,
+              "username": "flys8028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048666060099145830",
+        "in_reply_to_user_id": "1250819643356446721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048417413570658336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flys8028 不是已經有寵物溝通"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048417329730760704"
+          ]
+        },
+        "author_id": "1250819643356446721",
+        "conversation_id": "2048417413570658336",
+        "created_at": "2026-04-26T15:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048417413570658336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ckpdthMotf",
+              "end": 43,
+              "expanded_url": "https://x.com/flys8028/status/2048417413570658336/photo/1",
+              "media_key": "3_2048417329730760704",
+              "start": 20,
+              "url": "https://t.co/ckpdthMotf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048417413570658336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 36696,
+          "like_count": 1310,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "這邏輯很正確欸\n迷信歸迷信至少...😆 https://t.co/ckpdthMotf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 122,
+          "like_count": 2817,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 533
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-16T16:13:44.000Z",
+        "description": "菜鳥部落客兼個人勢台灣vtuber【八美肉】\n喜歡到處旅遊及尋訪美食，圖奇佛系開台中\n繪師爸爸:九櫻、哇嘎 @wagaillustrator\n建模媽媽:哀呀 \n部落格:https://t.co/Nn6cuwtGGu\nYT頻道:https://t.co/WATrKQols9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 54,
+                "username": "wagaillustrator"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fatnya.com",
+                "end": 107,
+                "expanded_url": "https://fatnya.com/",
+                "start": 84,
+                "url": "https://t.co/Nn6cuwtGGu"
+              },
+              {
+                "display_url": "youtube.com/@cwindvtuber",
+                "end": 136,
+                "expanded_url": "https://youtube.com/@cwindvtuber",
+                "start": 113,
+                "url": "https://t.co/WATrKQols9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/flys88028",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/flys88028",
+                "start": 0,
+                "url": "https://t.co/T9f7NV2wj4"
+              }
+            ]
+          }
+        },
+        "id": "1250819643356446721",
+        "location": "Taiwan",
+        "name": "熙風❄美食系貓Vtuber❄",
+        "pinned_tweet_id": "1503600076983209984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628218207973814272/Cde2-fWb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3570,
+          "following_count": 666,
+          "like_count": 125450,
+          "listed_count": 20,
+          "media_count": 2393,
+          "tweet_count": 48430
+        },
+        "url": "https://t.co/T9f7NV2wj4",
+        "username": "flys8028",
+        "verified": true
+      }
+    ]
+  }
+}

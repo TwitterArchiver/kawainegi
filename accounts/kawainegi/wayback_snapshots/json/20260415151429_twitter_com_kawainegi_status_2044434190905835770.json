@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044325236473311232"
+      ],
+      "media_source_tweet_id": [
+        "2044325654934745277"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2044434190905835770",
+    "created_at": "2026-04-15T15:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T16:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044434190905835770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1605756782005321729",
+          "start": 3,
+          "username": "ametorone"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t9iASJOXc9",
+          "end": 50,
+          "expanded_url": "https://x.com/ametorone/status/2044325654934745277/photo/1",
+          "media_key": "3_2044325236473311232",
+          "start": 27,
+          "url": "https://t.co/t9iASJOXc9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044434190905835770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044325654934745277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ametorone: どうして動かないの…？ https://t.co/t9iASJOXc9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2044325236473311232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7m-KVbsAArZA7.jpg",
+        "width": 3277
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044325236473311232"
+          ],
+          "media_source_tweet_id": [
+            "2044325654934745277"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2044434190905835770",
+        "created_at": "2026-04-15T15:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044434190905835770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1605756782005321729",
+              "start": 3,
+              "username": "ametorone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t9iASJOXc9",
+              "end": 50,
+              "expanded_url": "https://x.com/ametorone/status/2044325654934745277/photo/1",
+              "media_key": "3_2044325236473311232",
+              "start": 27,
+              "url": "https://t.co/t9iASJOXc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044434190905835770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044325654934745277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ametorone: どうして動かないの…？ https://t.co/t9iASJOXc9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044325236473311232"
+          ]
+        },
+        "author_id": "1605756782005321729",
+        "conversation_id": "2044325654934745277",
+        "created_at": "2026-04-15T08:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044325654934745277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t9iASJOXc9",
+              "end": 35,
+              "expanded_url": "https://x.com/ametorone/status/2044325654934745277/photo/1",
+              "media_key": "3_2044325236473311232",
+              "start": 12,
+              "url": "https://t.co/t9iASJOXc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044325654934745277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 10856,
+          "like_count": 1288,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "どうして動かないの…？ https://t.co/t9iASJOXc9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 74,
+          "like_count": 1808,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 267
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-22T02:47:20.000Z",
+        "description": "ねこです。お絵描きします",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/80013832",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/80013832",
+                "start": 0,
+                "url": "https://t.co/2vRUbpU6WY"
+              }
+            ]
+          }
+        },
+        "id": "1605756782005321729",
+        "name": "あめとろね",
+        "pinned_tweet_id": "1915382671943098783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850538881437040640/2bT56gc9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 184,
+          "like_count": 7916,
+          "listed_count": 8,
+          "media_count": 30,
+          "tweet_count": 45
+        },
+        "url": "https://t.co/2vRUbpU6WY",
+        "username": "ametorone",
+        "verified": false
+      }
+    ]
+  }
+}

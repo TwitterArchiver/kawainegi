@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2079499516068397171",
+    "created_at": "2026-07-21T09:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079499516068397171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kawainegi/stat…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/kawainegi/status/2079498831084081602",
+          "start": 49,
+          "url": "https://t.co/qfMhY0Qfpd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079499516068397171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079498831084081602",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "為什麼要檢舉我⋯\n餓了兩天用最後的幾十塊買了三瓶眞露喝完之後帳就被停權了。。。好想死好想死好想死 https://t.co/qfMhY0Qfpd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2079499516068397171",
+        "created_at": "2026-07-21T09:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079499516068397171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawainegi/stat…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/kawainegi/status/2079498831084081602",
+              "start": 49,
+              "url": "https://t.co/qfMhY0Qfpd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079499516068397171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079498831084081602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "為什麼要檢舉我⋯\n餓了兩天用最後的幾十塊買了三瓶眞露喝完之後帳就被停權了。。。好想死好想死好想死 https://t.co/qfMhY0Qfpd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2079498831084081602",
+        "created_at": "2026-07-21T09:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079498831084081602"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079498831084081602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酒精中毒被急救搬送甦醒後發現帳號又被凍結了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1389
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

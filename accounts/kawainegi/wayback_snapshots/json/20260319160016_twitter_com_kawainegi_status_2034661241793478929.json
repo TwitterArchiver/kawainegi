@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2034584244018946497",
+    "created_at": "2026-03-19T16:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T17:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034661241793478929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1719697287788765184",
+          "start": 0,
+          "username": "notonareyamato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034661241793478929",
+    "in_reply_to_user_id": "1719697287788765184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034584244018946497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notonareyamato 意外を待ってる"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2034584244018946497",
+        "created_at": "2026-03-19T16:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034661241793478929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1719697287788765184",
+              "start": 0,
+              "username": "notonareyamato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034661241793478929",
+        "in_reply_to_user_id": "1719697287788765184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034584244018946497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notonareyamato 意外を待ってる"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719697287788765184",
+        "conversation_id": "2034584244018946497",
+        "created_at": "2026-03-19T10:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034584244018946497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034584244018946497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5779,
+          "like_count": 532,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "死ねないから生きている人\n多数？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "人生終了",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 35,
+          "like_count": 744,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 94
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T12:46:18.000Z",
+        "description": "下流老人",
+        "id": "1719697287788765184",
+        "name": "皆空",
+        "pinned_tweet_id": "1803061993122791908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720603413543571456/3VBcK2Mn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 601,
+          "like_count": 59964,
+          "listed_count": 7,
+          "media_count": 16,
+          "tweet_count": 14939
+        },
+        "username": "notonareyamato",
+        "verified": false
+      }
+    ]
+  }
+}

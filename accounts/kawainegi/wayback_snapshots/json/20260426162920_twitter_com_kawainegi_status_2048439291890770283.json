@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2048439291890770283",
+    "created_at": "2026-04-26T16:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T17:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048439291890770283"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048439291890770283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雖然黑人族群有存在犯罪率更高的狀況。\n但是如果捷運設「白人專用車廂」一定會被炎上抗議嗆爆吧？\n\n那為什麼「女性專用車廂」卻可以合理存在？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2048439291890770283",
+        "created_at": "2026-04-26T16:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048439291890770283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048439291890770283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雖然黑人族群有存在犯罪率更高的狀況。\n但是如果捷運設「白人專用車廂」一定會被炎上抗議嗆爆吧？\n\n那為什麼「女性專用車廂」卻可以合理存在？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 115,
+          "like_count": 2687,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 510
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

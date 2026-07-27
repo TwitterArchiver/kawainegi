@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2056292250997412316",
+    "created_at": "2026-05-18T10:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T11:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056319051878809996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2034930265144049664",
+          "start": 0,
+          "username": "me1su0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056319051878809996",
+    "in_reply_to_user_id": "2034930265144049664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056292250997412316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@me1su0 好深 用的什麼刀！(◎_◎;)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056292225408000000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlq4mHXYAAKsSs.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2056292225428987904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlq4mMXoAAEj-A.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1368,
+        "media_key": "3_2056292225416343552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlq4mJWsAAVnMx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2056292250997412316",
+        "created_at": "2026-05-18T10:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056319051878809996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2034930265144049664",
+              "start": 0,
+              "username": "me1su0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056319051878809996",
+        "in_reply_to_user_id": "2034930265144049664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056292250997412316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@me1su0 好深 用的什麼刀！(◎_◎;)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056292225408000000",
+            "3_2056292225428987904",
+            "3_2056292225416343552"
+          ]
+        },
+        "author_id": "2034930265144049664",
+        "conversation_id": "2056292250997412316",
+        "created_at": "2026-05-18T08:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056292250997412316"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 71,
+              "tag": "shedtwt"
+            },
+            {
+              "end": 86,
+              "start": 80,
+              "tag": "shtwt"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "自残"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KwcCF1zxZQ",
+              "end": 114,
+              "expanded_url": "https://x.com/me1su0/status/2056292250997412316/photo/1",
+              "media_key": "3_2056292225408000000",
+              "start": 91,
+              "url": "https://t.co/KwcCF1zxZQ"
+            },
+            {
+              "display_url": "pic.x.com/KwcCF1zxZQ",
+              "end": 114,
+              "expanded_url": "https://x.com/me1su0/status/2056292250997412316/photo/1",
+              "media_key": "3_2056292225428987904",
+              "start": 91,
+              "url": "https://t.co/KwcCF1zxZQ"
+            },
+            {
+              "display_url": "pic.x.com/KwcCF1zxZQ",
+              "end": 114,
+              "expanded_url": "https://x.com/me1su0/status/2056292250997412316/photo/1",
+              "media_key": "3_2056292225416343552",
+              "start": 91,
+              "url": "https://t.co/KwcCF1zxZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056292250997412316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“u” “c” 这两个字很难写，我放弃了。除了p3都没出什么血。\n我每天性别焦虑特别严重，睾酮还在就活不下的感觉，妈的我迟早有一个会把它切下\n#shedtwt #shtwt #自残 https://t.co/KwcCF1zxZQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 146,
+          "like_count": 4921,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 950
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T09:49:46.000Z",
+        "description": "LOSER @momoxieZS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "momoxieZS"
+              }
+            ]
+          }
+        },
+        "id": "2034930265144049664",
+        "location": "Los Angeles, CA",
+        "name": "Vitamin D",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052355456333463562/jaLmSJb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 18,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 23
+        },
+        "username": "me1su0",
+        "verified": false
+      }
+    ]
+  }
+}

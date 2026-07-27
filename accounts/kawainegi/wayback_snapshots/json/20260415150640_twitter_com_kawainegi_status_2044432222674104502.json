@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044125836144717824"
+      ],
+      "media_source_tweet_id": [
+        "2044126262818681064"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2044432222674104502",
+    "created_at": "2026-04-15T15:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T16:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044432222674104502"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 17,
+          "tag": "春猿火美術部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "998546029174636544",
+          "start": 3,
+          "username": "lightgamein"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3YWc97mJm3",
+          "end": 48,
+          "expanded_url": "https://x.com/lightgamein/status/2044126262818681064/photo/1",
+          "media_key": "3_2044125836144717824",
+          "start": 25,
+          "url": "https://t.co/3YWc97mJm3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044432222674104502",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 261
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044126262818681064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lightgamein: #春猿火美術部 https://t.co/3YWc97mJm3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1020,
+        "media_key": "3_2044125836144717824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4xniOasAAMcBY.jpg",
+        "width": 765
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044125836144717824"
+          ],
+          "media_source_tweet_id": [
+            "2044126262818681064"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2044432222674104502",
+        "created_at": "2026-04-15T15:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044432222674104502"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "春猿火美術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "998546029174636544",
+              "start": 3,
+              "username": "lightgamein"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3YWc97mJm3",
+              "end": 48,
+              "expanded_url": "https://x.com/lightgamein/status/2044126262818681064/photo/1",
+              "media_key": "3_2044125836144717824",
+              "start": 25,
+              "url": "https://t.co/3YWc97mJm3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044432222674104502",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 261
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044126262818681064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lightgamein: #春猿火美術部 https://t.co/3YWc97mJm3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044125836144717824"
+          ]
+        },
+        "author_id": "998546029174636544",
+        "conversation_id": "2044126262818681064",
+        "created_at": "2026-04-14T18:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T19:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044126262818681064"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "春猿火美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3YWc97mJm3",
+              "end": 31,
+              "expanded_url": "https://x.com/lightgamein/status/2044126262818681064/photo/1",
+              "media_key": "3_2044125836144717824",
+              "start": 8,
+              "url": "https://t.co/3YWc97mJm3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044126262818681064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 14836,
+          "like_count": 1548,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 261
+        },
+        "reply_settings": "everyone",
+        "text": "#春猿火美術部 https://t.co/3YWc97mJm3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 74,
+          "like_count": 1799,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 268
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-21T12:48:20.000Z",
+        "description": "お絵描きする山羊🐐\nSkeb納品実績200件↑\nイラスト投稿歴2017~\n┊︎✦Xfolio→ https://t.co/gngyuZNN56\n┊︎✦Skeb→ https://t.co/EciQ5jhlCF\n┊︎✦litlink→ https://t.co/wWs7Sq3oAd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/ligh…",
+                "end": 71,
+                "expanded_url": "http://xfolio.jp/portfolio/lightgamein",
+                "start": 48,
+                "url": "https://t.co/gngyuZNN56"
+              },
+              {
+                "display_url": "skeb.jp/@lightgamein",
+                "end": 104,
+                "expanded_url": "http://skeb.jp/@lightgamein",
+                "start": 81,
+                "url": "https://t.co/EciQ5jhlCF"
+              },
+              {
+                "display_url": "lit.link/lightgamein",
+                "end": 140,
+                "expanded_url": "http://lit.link/lightgamein",
+                "start": 117,
+                "url": "https://t.co/wWs7Sq3oAd"
+              }
+            ]
+          }
+        },
+        "id": "998546029174636544",
+        "location": "No reuploading/No AI training",
+        "name": "天坂らいとγ",
+        "pinned_tweet_id": "2044333606315884856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827306140872667136/_dUGaRwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6089,
+          "following_count": 2500,
+          "like_count": 68857,
+          "listed_count": 70,
+          "media_count": 9493,
+          "tweet_count": 103873
+        },
+        "username": "lightgamein",
+        "verified": true
+      }
+    ]
+  }
+}

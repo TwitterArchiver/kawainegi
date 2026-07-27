@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2046932258058367037",
+    "created_at": "2026-04-22T12:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T13:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046932637441486945"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046932637441486945",
+    "in_reply_to_user_id": "2006749860863815682",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046932258058367037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "親妹認証済み"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2046932248075907072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgqCNXbMAAjF9h.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2046932258058367037",
+        "created_at": "2026-04-22T12:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046932637441486945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046932637441486945",
+        "in_reply_to_user_id": "2006749860863815682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046932258058367037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "親妹認証済み"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046932248075907072"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2046932258058367037",
+        "created_at": "2026-04-22T12:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046932258058367037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9NzfoUsnke",
+              "end": 36,
+              "expanded_url": "https://x.com/kawainegi/status/2046932258058367037/photo/1",
+              "media_key": "3_2046932248075907072",
+              "start": 13,
+              "url": "https://t.co/9NzfoUsnke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046932258058367037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妹の怨嗟をいただきました https://t.co/9NzfoUsnke"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 108,
+          "like_count": 2288,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 395
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

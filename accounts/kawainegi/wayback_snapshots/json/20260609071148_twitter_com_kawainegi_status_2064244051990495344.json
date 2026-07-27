@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2064163212422267360",
+    "created_at": "2026-06-09T07:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064244051990495344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1911292539505930240",
+          "start": 0,
+          "username": "1ciRhMUybV28235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064244051990495344",
+    "in_reply_to_user_id": "1911292539505930240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064163212422267360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1ciRhMUybV28235 HRT之後變超持久正常嗎😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2064163212422267360",
+        "created_at": "2026-06-09T07:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064244051990495344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1911292539505930240",
+              "start": 0,
+              "username": "1ciRhMUybV28235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064244051990495344",
+        "in_reply_to_user_id": "1911292539505930240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064163212422267360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1ciRhMUybV28235 HRT之後變超持久正常嗎😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911292539505930240",
+        "conversation_id": "2064163212422267360",
+        "created_at": "2026-06-09T01:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064163212422267360"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064163212422267360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hrt快两个月了，精液已经稀薄如水而且贤者模式消失了，似乎变成了可以一直做下去的样子🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 158,
+          "like_count": 6509,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1279
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T05:37:26.000Z",
+        "description": "MTF🏳️‍⚧️ | 十七歳 | ホルモン使う2026.4.12💊 | 診断書ある | うつ病（中）と不安障害（中）と社交障害 | 両性愛者✨ | 目標イラストレータ | od禁止 | 自傷🔪(私を勉強するな!!!) |  infp-t | 本命サカナクション | キモチでフォロバ",
+        "id": "1911292539505930240",
+        "name": "銀輝烈焔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924351906442252288/xc4EUxLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 222,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 131
+        },
+        "username": "1ciRhMUybV28235",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2051683993947660501",
+    "created_at": "2026-05-06T01:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T02:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051839987809997107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1812048787415744512",
+          "start": 0,
+          "username": "zyq1114319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051839987809997107",
+    "in_reply_to_user_id": "1812048787415744512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051683993947660501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyq1114319 對相手的在意程度變低了（？\n不全然是壞事喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2051683993947660501",
+        "created_at": "2026-05-06T01:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T02:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051839987809997107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1812048787415744512",
+              "start": 0,
+              "username": "zyq1114319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051839987809997107",
+        "in_reply_to_user_id": "1812048787415744512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051683993947660501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyq1114319 對相手的在意程度變低了（？\n不全然是壞事喔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812048787415744512",
+        "conversation_id": "2051683993947660501",
+        "created_at": "2026-05-05T15:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051683993947660501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051683993947660501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己变冷血了……\n以前家里吵架，我会有很强的情绪\n现在却毫无波澜……\n对不起……\n可能是吃了碳酸锂的原因……\n我不知道……\n也许是我的问题吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 127,
+          "like_count": 3577,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 648
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T08:58:11.000Z",
+        "description": "mtf/高中生/会发一些碎碎念/欢迎扩列/有时会发一些负能量的帖子，对不起/正在和\n抑郁症，焦虑症，强迫症做斗争/比较大只，身材焦虑/希望未来能加入危机干预组织，希望大家都可以好好的活着",
+        "id": "1812048787415744512",
+        "location": "美国",
+        "name": "tutu_🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026205666151657472/JwRCDc0t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 1337,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 72
+        },
+        "username": "zyq1114319",
+        "verified": false
+      }
+    ]
+  }
+}

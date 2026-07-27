@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078710705910644736"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2078710714496393375",
+    "created_at": "2026-07-19T05:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T06:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078710714496393375"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sg0mirG0kj",
+          "end": 36,
+          "expanded_url": "https://x.com/kawainegi/status/2078710714496393375/photo/1",
+          "media_key": "3_2078710705910644736",
+          "start": 13,
+          "url": "https://t.co/Sg0mirG0kj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078710714496393375",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "どれだけボクを殺せばいい https://t.co/Sg0mirG0kj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2078710705910644736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkQX6CbAAAWnpl.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078710705910644736"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2078710714496393375",
+        "created_at": "2026-07-19T05:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078710714496393375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sg0mirG0kj",
+              "end": 36,
+              "expanded_url": "https://x.com/kawainegi/status/2078710714496393375/photo/1",
+              "media_key": "3_2078710705910644736",
+              "start": 13,
+              "url": "https://t.co/Sg0mirG0kj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078710714496393375",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "どれだけボクを殺せばいい https://t.co/Sg0mirG0kj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "是一隻不可愛的小跨妹",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 162,
+          "like_count": 6655,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1351
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

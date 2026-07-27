@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2046880417291333695",
+    "created_at": "2026-04-22T12:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T13:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046927913170485393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1447499448649601025",
+          "start": 0,
+          "username": "LVTGW666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046927913170485393",
+    "in_reply_to_user_id": "1447499448649601025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046880417291333695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LVTGW666 有彈夾都沒辦法這樣握"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_2046879006788820992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGf5nKHaIAAz7eZ.jpg",
+        "width": 1278
+      },
+      {
+        "height": 376,
+        "media_key": "3_2046879006822453248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGf5nKPbUAA9yEW.jpg",
+        "width": 357
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2046880417291333695",
+        "created_at": "2026-04-22T12:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046927913170485393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1447499448649601025",
+              "start": 0,
+              "username": "LVTGW666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046927913170485393",
+        "in_reply_to_user_id": "1447499448649601025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046880417291333695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LVTGW666 有彈夾都沒辦法這樣握"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046879006788820992",
+            "3_2046879006822453248"
+          ]
+        },
+        "author_id": "1447499448649601025",
+        "conversation_id": "2046880417291333695",
+        "created_at": "2026-04-22T09:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046880417291333695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PlSxAF2wF1",
+              "end": 31,
+              "expanded_url": "https://x.com/LVTGW666/status/2046880417291333695/photo/1",
+              "media_key": "3_2046879006788820992",
+              "start": 8,
+              "url": "https://t.co/PlSxAF2wF1"
+            },
+            {
+              "display_url": "pic.x.com/PlSxAF2wF1",
+              "end": 31,
+              "expanded_url": "https://x.com/LVTGW666/status/2046880417291333695/photo/1",
+              "media_key": "3_2046879006822453248",
+              "start": 8,
+              "url": "https://t.co/PlSxAF2wF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046880417291333695",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 47616,
+          "like_count": 227,
+          "quote_count": 1,
+          "reply_count": 55,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "震撼丘八一万年 https://t.co/PlSxAF2wF1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 108,
+          "like_count": 2284,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 393
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊 分析哲学倒数第6324人 重铸正统施特劳斯荣光，我辈义不容辞 想投稿直接私信 求求腊畜别来恶心我 备用小号@lvtgw8964 YouTube：https://t.co/wPvV77lTAw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 105,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 82,
+                "url": "https://t.co/wPvV77lTAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 0,
+                "url": "https://t.co/wPvV77lTAw"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "2008518971486806332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68796,
+          "following_count": 896,
+          "like_count": 14342,
+          "listed_count": 294,
+          "media_count": 4649,
+          "tweet_count": 11869
+        },
+        "url": "https://t.co/wPvV77lTAw",
+        "username": "LVTGW666",
+        "verified": true
+      }
+    ]
+  }
+}

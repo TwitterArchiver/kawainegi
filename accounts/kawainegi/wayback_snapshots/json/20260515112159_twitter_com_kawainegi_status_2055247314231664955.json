@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055247250063069184",
+        "3_2055247250033659904",
+        "3_2055247250033614848"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2055247314231664955",
+    "created_at": "2026-05-15T11:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T12:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055247314231664955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kEewSfgFZ2",
+          "end": 60,
+          "expanded_url": "https://x.com/kawainegi/status/2055247314231664955/photo/1",
+          "media_key": "3_2055247250063069184",
+          "start": 37,
+          "url": "https://t.co/kEewSfgFZ2"
+        },
+        {
+          "display_url": "pic.x.com/kEewSfgFZ2",
+          "end": 60,
+          "expanded_url": "https://x.com/kawainegi/status/2055247314231664955/photo/1",
+          "media_key": "3_2055247250033659904",
+          "start": 37,
+          "url": "https://t.co/kEewSfgFZ2"
+        },
+        {
+          "display_url": "pic.x.com/kEewSfgFZ2",
+          "end": 60,
+          "expanded_url": "https://x.com/kawainegi/status/2055247314231664955/photo/1",
+          "media_key": "3_2055247250033614848",
+          "start": 37,
+          "url": "https://t.co/kEewSfgFZ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055247314231664955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2024年ChatGPT 可以畫出這樣的貓娘\n現在卻已經沒有這樣的畫功了 https://t.co/kEewSfgFZ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_2055247250063069184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIW0fBmbkAAs49h.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2796,
+        "media_key": "3_2055247250033659904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIW0fBfa0AAgw_W.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2796,
+        "media_key": "3_2055247250033614848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIW0fBfaIAAga0R.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055247250063069184",
+            "3_2055247250033659904",
+            "3_2055247250033614848"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2055247314231664955",
+        "created_at": "2026-05-15T11:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055247314231664955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kEewSfgFZ2",
+              "end": 60,
+              "expanded_url": "https://x.com/kawainegi/status/2055247314231664955/photo/1",
+              "media_key": "3_2055247250063069184",
+              "start": 37,
+              "url": "https://t.co/kEewSfgFZ2"
+            },
+            {
+              "display_url": "pic.x.com/kEewSfgFZ2",
+              "end": 60,
+              "expanded_url": "https://x.com/kawainegi/status/2055247314231664955/photo/1",
+              "media_key": "3_2055247250033659904",
+              "start": 37,
+              "url": "https://t.co/kEewSfgFZ2"
+            },
+            {
+              "display_url": "pic.x.com/kEewSfgFZ2",
+              "end": 60,
+              "expanded_url": "https://x.com/kawainegi/status/2055247314231664955/photo/1",
+              "media_key": "3_2055247250033614848",
+              "start": 37,
+              "url": "https://t.co/kEewSfgFZ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055247314231664955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2024年ChatGPT 可以畫出這樣的貓娘\n現在卻已經沒有這樣的畫功了 https://t.co/kEewSfgFZ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 143,
+          "like_count": 4702,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 885
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

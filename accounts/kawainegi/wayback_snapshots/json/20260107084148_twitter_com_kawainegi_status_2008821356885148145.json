@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008240571765121024"
+      ],
+      "media_source_tweet_id": [
+        "2008240576907337955"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2008821356885148145",
+    "created_at": "2026-01-07T08:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T09:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008821356885148145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1859746219561545728",
+          "start": 3,
+          "username": "cupidscarz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cX5nf9tEWe",
+          "end": 39,
+          "expanded_url": "https://x.com/cupidscarz/status/2008240576907337955/photo/1",
+          "media_key": "3_2008240571765121024",
+          "start": 16,
+          "url": "https://t.co/cX5nf9tEWe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008821356885148145",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008240576907337955",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cupidscarz: https://t.co/cX5nf9tEWe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1836,
+        "media_key": "3_2008240571765121024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G960KO-WYAAvoEn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008240571765121024"
+          ],
+          "media_source_tweet_id": [
+            "2008240576907337955"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2008821356885148145",
+        "created_at": "2026-01-07T08:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T09:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008821356885148145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1859746219561545728",
+              "start": 3,
+              "username": "cupidscarz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cX5nf9tEWe",
+              "end": 39,
+              "expanded_url": "https://x.com/cupidscarz/status/2008240576907337955/photo/1",
+              "media_key": "3_2008240571765121024",
+              "start": 16,
+              "url": "https://t.co/cX5nf9tEWe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008821356885148145",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008240576907337955",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cupidscarz: https://t.co/cX5nf9tEWe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008240571765121024"
+          ]
+        },
+        "author_id": "1859746219561545728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2008240576907337955",
+        "created_at": "2026-01-05T18:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T19:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008240576907337955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cX5nf9tEWe",
+              "end": 23,
+              "expanded_url": "https://x.com/cupidscarz/status/2008240576907337955/photo/1",
+              "media_key": "3_2008240571765121024",
+              "start": 0,
+              "url": "https://t.co/cX5nf9tEWe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008240576907337955",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 3573,
+          "like_count": 663,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cX5nf9tEWe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "偶には参りにきてね",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 24
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T23:50:39.000Z",
+        "description": "˚◞♡ ruru , ifb !! bmi: 17.3 ᡣ𐭩 gw: 105 lbs cw: 110 lbs ✦ 170cm infp -* - '' @ruruwoah priv acc '' ° ∘ 𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "ruruwoah"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cupidscarz.straw.page",
+                "end": 23,
+                "expanded_url": "https://cupidscarz.straw.page",
+                "start": 0,
+                "url": "https://t.co/60ApYep9Ew"
+              }
+            ]
+          }
+        },
+        "id": "1859746219561545728",
+        "name": "★ ⋮ ruru ⸝⸝",
+        "pinned_tweet_id": "1871225967508668546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896605459131322368/I5NUS1NZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 1176,
+          "like_count": 10474,
+          "listed_count": 6,
+          "media_count": 760,
+          "tweet_count": 3602
+        },
+        "url": "https://t.co/60ApYep9Ew",
+        "username": "cupidscarz",
+        "verified": false
+      }
+    ]
+  }
+}

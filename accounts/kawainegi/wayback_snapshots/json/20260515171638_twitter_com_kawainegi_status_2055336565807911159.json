@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2055293210856247367",
+    "created_at": "2026-05-15T17:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T18:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055336565807911159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1268159069988118528",
+          "start": 0,
+          "username": "wanna8964fly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055336565807911159",
+    "in_reply_to_user_id": "1268159069988118528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055293210856247367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanna8964fly 生日快樂 同款錶帶欸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055293197904199680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXeRipbQAADMT-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2055293210856247367",
+        "created_at": "2026-05-15T17:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055336565807911159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1268159069988118528",
+              "start": 0,
+              "username": "wanna8964fly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055336565807911159",
+        "in_reply_to_user_id": "1268159069988118528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055293210856247367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanna8964fly 生日快樂 同款錶帶欸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055293197904199680"
+          ]
+        },
+        "author_id": "1268159069988118528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055293210856247367",
+        "created_at": "2026-05-15T14:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055293210856247367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ygCvrmPtJ0",
+              "end": 37,
+              "expanded_url": "https://x.com/wanna8964fly/status/2055293210856247367/photo/1",
+              "media_key": "3_2055293197904199680",
+              "start": 14,
+              "url": "https://t.co/ygCvrmPtJ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055293210856247367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1258,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "27啦，欢迎来主页戳气球🎈 https://t.co/ygCvrmPtJ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 142,
+          "like_count": 4728,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 896
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-03T12:34:26.000Z",
+        "description": "🏳️‍⚧️ / she/her / 最喜欢火车 /可以叫我招招 / 最爱的老婆@hen_goo🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 39,
+                "username": "hen_goo"
+              }
+            ]
+          }
+        },
+        "id": "1268159069988118528",
+        "name": "载我远航吧🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1954195737182658981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1468137891322740736/MTsvUrWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2005,
+          "following_count": 911,
+          "like_count": 5495,
+          "listed_count": 6,
+          "media_count": 583,
+          "tweet_count": 3410
+        },
+        "username": "wanna8964fly",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060259721555464192",
+        "3_2060259721572126720",
+        "3_2060259721572139008"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2060260126335140112",
+    "created_at": "2026-05-29T07:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T08:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060260126335140112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/scy77DOfbE",
+          "end": 31,
+          "expanded_url": "https://x.com/kawainegi/status/2060260126335140112/photo/1",
+          "media_key": "3_2060259721555464192",
+          "start": 8,
+          "url": "https://t.co/scy77DOfbE"
+        },
+        {
+          "display_url": "pic.x.com/scy77DOfbE",
+          "end": 31,
+          "expanded_url": "https://x.com/kawainegi/status/2060260126335140112/photo/1",
+          "media_key": "3_2060259721572126720",
+          "start": 8,
+          "url": "https://t.co/scy77DOfbE"
+        },
+        {
+          "display_url": "pic.x.com/scy77DOfbE",
+          "end": 31,
+          "expanded_url": "https://x.com/kawainegi/status/2060260126335140112/photo/1",
+          "media_key": "3_2060259721572139008",
+          "start": 8,
+          "url": "https://t.co/scy77DOfbE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060260126335140112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感情がキラキラ https://t.co/scy77DOfbE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2060259721555464192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeDTRBb0AAJDf5.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2060259721572126720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeDTRFaEAALyWQ.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2060259721572139008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeDTRFaQAA_9Xn.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060259721555464192",
+            "3_2060259721572126720",
+            "3_2060259721572139008"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2060260126335140112",
+        "created_at": "2026-05-29T07:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060260126335140112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/scy77DOfbE",
+              "end": 31,
+              "expanded_url": "https://x.com/kawainegi/status/2060260126335140112/photo/1",
+              "media_key": "3_2060259721555464192",
+              "start": 8,
+              "url": "https://t.co/scy77DOfbE"
+            },
+            {
+              "display_url": "pic.x.com/scy77DOfbE",
+              "end": 31,
+              "expanded_url": "https://x.com/kawainegi/status/2060260126335140112/photo/1",
+              "media_key": "3_2060259721572126720",
+              "start": 8,
+              "url": "https://t.co/scy77DOfbE"
+            },
+            {
+              "display_url": "pic.x.com/scy77DOfbE",
+              "end": 31,
+              "expanded_url": "https://x.com/kawainegi/status/2060260126335140112/photo/1",
+              "media_key": "3_2060259721572139008",
+              "start": 8,
+              "url": "https://t.co/scy77DOfbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060260126335140112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感情がキラキラ https://t.co/scy77DOfbE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 157,
+          "like_count": 5985,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1181
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

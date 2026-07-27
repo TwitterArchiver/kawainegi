@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2050150067810799820",
+    "created_at": "2026-05-03T02:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T03:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050765998027165802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1785767615484547072",
+          "start": 0,
+          "username": "momoxieZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050765998027165802",
+    "in_reply_to_user_id": "1785767615484547072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050765831882351024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoxieZS 已經戒斷不能了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2050150067810799820",
+        "created_at": "2026-05-03T02:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T03:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050765998027165802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1785767615484547072",
+              "start": 0,
+              "username": "momoxieZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050765998027165802",
+        "in_reply_to_user_id": "1785767615484547072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050765831882351024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoxieZS 已經戒斷不能了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785767615484547072",
+        "conversation_id": "2050150067810799820",
+        "created_at": "2026-05-03T02:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T03:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050765831882351024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2006749860863815682",
+              "start": 0,
+              "username": "kawainegi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050765831882351024",
+        "in_reply_to_user_id": "2006749860863815682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050764477130572183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawainegi od不太好…愈美在大陆只能线下买了T^T，我这些o完后就再也不od了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 124,
+          "like_count": 3346,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 613
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T20:28:27.000Z",
+        "description": "所有推文都是定时发布\n@me1su0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 11,
+                "username": "me1su0"
+              }
+            ]
+          }
+        },
+        "id": "1785767615484547072",
+        "location": "#shtwt",
+        "name": "Zipping",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048396357845872640/3TIlxCI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 103,
+          "like_count": 3111,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 65
+        },
+        "username": "momoxieZS",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080223700536963073"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2080223757789266170",
+    "created_at": "2026-07-23T09:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080223757789266170"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ui6AX1U9uj",
+          "end": 36,
+          "expanded_url": "https://x.com/kawainegi/status/2080223757789266170/photo/1",
+          "media_key": "3_2080223700536963073",
+          "start": 13,
+          "url": "https://t.co/Ui6AX1U9uj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080223757789266170",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "把魔爪伸向熟睡中的妹妹😋 https://t.co/Ui6AX1U9uj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2080223700536963073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5wbyPasAE1OAb.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080223700536963073"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2080223757789266170",
+        "created_at": "2026-07-23T09:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080223757789266170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ui6AX1U9uj",
+              "end": 36,
+              "expanded_url": "https://x.com/kawainegi/status/2080223757789266170/photo/1",
+              "media_key": "3_2080223700536963073",
+              "start": 13,
+              "url": "https://t.co/Ui6AX1U9uj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080223757789266170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把魔爪伸向熟睡中的妹妹😋 https://t.co/Ui6AX1U9uj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 171,
+          "like_count": 6931,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1426
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

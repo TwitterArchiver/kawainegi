@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2017021784378528192",
+    "created_at": "2026-01-30T15:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T16:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017255024829862226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "358726185",
+          "start": 0,
+          "username": "sumomodane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017255024829862226",
+    "in_reply_to_user_id": "358726185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017021784378528192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sumomodane 男性も女性も大変ですが、トランスジェンダーの生きづらさも同時に語られるべきだと思います"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 672,
+        "media_key": "3_2017021705169096708",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_3mjeDbUAQkrcv.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2017021784378528192",
+        "created_at": "2026-01-30T15:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017255024829862226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "358726185",
+              "start": 0,
+              "username": "sumomodane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017255024829862226",
+        "in_reply_to_user_id": "358726185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017021784378528192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sumomodane 男性も女性も大変ですが、トランスジェンダーの生きづらさも同時に語られるべきだと思います"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017021705169096708"
+          ]
+        },
+        "author_id": "358726185",
+        "conversation_id": "2017021784378528192",
+        "created_at": "2026-01-29T23:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T00:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017021784378528192"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "日本",
+              "probability": 0.491,
+              "start": 32,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gZMXmFYAsD",
+              "end": 72,
+              "expanded_url": "https://x.com/sumomodane/status/2017021784378528192/photo/1",
+              "media_key": "3_2017021705169096708",
+              "start": 49,
+              "url": "https://t.co/gZMXmFYAsD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017021784378528192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 377,
+          "impression_count": 270842,
+          "like_count": 2765,
+          "quote_count": 91,
+          "reply_count": 102,
+          "retweet_count": 404
+        },
+        "reply_settings": "everyone",
+        "text": "年々、女性が生きやすく、男性が生きづらい状況が進んでいる。\n現代日本では性別ガチャは大きすぎる。 https://t.co/gZMXmFYAsD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "病み垢|10代後半",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 23,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 27
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-20T11:50:31.000Z",
+        "description": "男性の生きづらさ、弱者男性問題に関する調査・研究、情報発信をしています。男女平等には肯定的です。恋愛、結婚、モテのヒントも提供します。統計の投稿が多めです。Webアンケート調査会社に外注して独自統計も取っています。Amazonアソシエイト参加中。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/document/d/1C5…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/document/d/1C5KILzmsqgmCtwR9PwutejvEKLC6QjO3Z4h1e-RQf8I/edit?usp=sharing",
+                "start": 0,
+                "url": "https://t.co/b9BRDwiOlJ"
+              }
+            ]
+          }
+        },
+        "id": "358726185",
+        "location": "連絡先：sumomodanemail@gmail.com",
+        "name": "すもも",
+        "pinned_tweet_id": "1784417098686697649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807697302326587392/GvH8Zz9U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29149,
+          "following_count": 33,
+          "like_count": 26055,
+          "listed_count": 452,
+          "media_count": 6525,
+          "tweet_count": 37813
+        },
+        "url": "https://t.co/b9BRDwiOlJ",
+        "username": "sumomodane",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058437718712221696"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2058437778812408255",
+    "created_at": "2026-05-24T06:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T07:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058437778812408255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jFXzTnQF6o",
+          "end": 50,
+          "expanded_url": "https://x.com/kawainegi/status/2058437778812408255/photo/1",
+          "media_key": "3_2058437718712221696",
+          "start": 27,
+          "url": "https://t.co/jFXzTnQF6o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058437778812408255",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "換上拍證件照的衣服後下著卻還是女裝的川井ネギ☠️☠️ https://t.co/jFXzTnQF6o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2058437718712221696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEKMvgbgAAu8vH.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058437718712221696"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2058437778812408255",
+        "created_at": "2026-05-24T06:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058437778812408255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jFXzTnQF6o",
+              "end": 50,
+              "expanded_url": "https://x.com/kawainegi/status/2058437778812408255/photo/1",
+              "media_key": "3_2058437718712221696",
+              "start": 27,
+              "url": "https://t.co/jFXzTnQF6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058437778812408255",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "換上拍證件照的衣服後下著卻還是女裝的川井ネギ☠️☠️ https://t.co/jFXzTnQF6o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 147,
+          "like_count": 5434,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1080
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

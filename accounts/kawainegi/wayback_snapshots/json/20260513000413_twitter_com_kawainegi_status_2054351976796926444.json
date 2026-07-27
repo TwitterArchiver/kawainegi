@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054351921289592832",
+        "3_2054351921268572160"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2054351976796926444",
+    "created_at": "2026-05-13T00:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T01:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054351976796926444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NpUgcUWEnr",
+          "end": 30,
+          "expanded_url": "https://x.com/kawainegi/status/2054351976796926444/photo/1",
+          "media_key": "3_2054351921289592832",
+          "start": 7,
+          "url": "https://t.co/NpUgcUWEnr"
+        },
+        {
+          "display_url": "pic.x.com/NpUgcUWEnr",
+          "end": 30,
+          "expanded_url": "https://x.com/kawainegi/status/2054351976796926444/photo/1",
+          "media_key": "3_2054351921268572160",
+          "start": 7,
+          "url": "https://t.co/NpUgcUWEnr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054351976796926444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好術喵好術喵 https://t.co/NpUgcUWEnr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2054351921289592832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKGMCAbgAASl1E.jpg",
+        "width": 4032
+      },
+      {
+        "height": 1206,
+        "media_key": "3_2054351921268572160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKGMB7awAAN0N-.jpg",
+        "width": 2622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054351921289592832",
+            "3_2054351921268572160"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054351976796926444",
+        "created_at": "2026-05-13T00:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T01:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054351976796926444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NpUgcUWEnr",
+              "end": 30,
+              "expanded_url": "https://x.com/kawainegi/status/2054351976796926444/photo/1",
+              "media_key": "3_2054351921289592832",
+              "start": 7,
+              "url": "https://t.co/NpUgcUWEnr"
+            },
+            {
+              "display_url": "pic.x.com/NpUgcUWEnr",
+              "end": 30,
+              "expanded_url": "https://x.com/kawainegi/status/2054351976796926444/photo/1",
+              "media_key": "3_2054351921268572160",
+              "start": 7,
+              "url": "https://t.co/NpUgcUWEnr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054351976796926444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好術喵好術喵 https://t.co/NpUgcUWEnr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 137,
+          "like_count": 4503,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 830
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053310723401682945",
+        "3_2053310723393273856"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2053311156916531310",
+    "created_at": "2026-05-10T03:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T04:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053311156916531310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/faxk30pBDT",
+          "end": 66,
+          "expanded_url": "https://x.com/kawainegi/status/2053311156916531310/photo/1",
+          "media_key": "3_2053310723401682945",
+          "start": 43,
+          "url": "https://t.co/faxk30pBDT"
+        },
+        {
+          "display_url": "pic.x.com/faxk30pBDT",
+          "end": 66,
+          "expanded_url": "https://x.com/kawainegi/status/2053311156916531310/photo/1",
+          "media_key": "3_2053310723393273856",
+          "start": 43,
+          "url": "https://t.co/faxk30pBDT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053311156916531310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所以一根這麼細的線纜吊了\n250×20公斤配重\n五噸100隻木桶飯的重量？\n到底真假 https://t.co/faxk30pBDT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2053310723401682945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7TOVnbkAE1g3i.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2053310723393273856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7TOVlbQAAj6Db.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053310723401682945",
+            "3_2053310723393273856"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2053311156916531310",
+        "created_at": "2026-05-10T03:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053311156916531310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/faxk30pBDT",
+              "end": 66,
+              "expanded_url": "https://x.com/kawainegi/status/2053311156916531310/photo/1",
+              "media_key": "3_2053310723401682945",
+              "start": 43,
+              "url": "https://t.co/faxk30pBDT"
+            },
+            {
+              "display_url": "pic.x.com/faxk30pBDT",
+              "end": 66,
+              "expanded_url": "https://x.com/kawainegi/status/2053311156916531310/photo/1",
+              "media_key": "3_2053310723393273856",
+              "start": 43,
+              "url": "https://t.co/faxk30pBDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053311156916531310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以一根這麼細的線纜吊了\n250×20公斤配重\n五噸100隻木桶飯的重量？\n到底真假 https://t.co/faxk30pBDT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 135,
+          "like_count": 4145,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 749
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

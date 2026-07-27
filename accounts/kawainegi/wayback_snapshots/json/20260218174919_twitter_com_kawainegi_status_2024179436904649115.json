@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2024055538871419020",
+    "created_at": "2026-02-18T17:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T18:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024179436904649115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1395067007100280832",
+          "start": 0,
+          "username": "papipapi_zzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024179436904649115",
+    "in_reply_to_user_id": "1395067007100280832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024055538871419020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@papipapi_zzz 病んでる自分が愛しい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2024055538871419020",
+        "created_at": "2026-02-18T17:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024179436904649115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1395067007100280832",
+              "start": 0,
+              "username": "papipapi_zzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024179436904649115",
+        "in_reply_to_user_id": "1395067007100280832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024055538871419020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@papipapi_zzz 病んでる自分が愛しい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395067007100280832",
+        "conversation_id": "2024055538871419020",
+        "created_at": "2026-02-18T09:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024055538871419020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024055538871419020",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 20861,
+          "like_count": 1044,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "【うつあるある】\n\n病んでる自分と元気な自分、\nどちらが本当の自分か分からなくなる"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "人生終了",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 390,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 44
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T17:21:20.000Z",
+        "description": "病み┆♂┆猫派超えて猫┆国家資格┆ポエマー┆noteで記事書いたり。┆本心@zero__0zzz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "zero__0zzz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/papipapi_zzz",
+                "end": 23,
+                "expanded_url": "https://note.com/papipapi_zzz",
+                "start": 0,
+                "url": "https://t.co/4zg2E1QzIZ"
+              }
+            ]
+          }
+        },
+        "id": "1395067007100280832",
+        "location": "鬱瀬文庫▶",
+        "name": "鬱瀬🐾",
+        "pinned_tweet_id": "2014254207617122333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970342290335113217/AvhdlTQ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 1073,
+          "like_count": 7584,
+          "listed_count": 5,
+          "media_count": 90,
+          "tweet_count": 2262
+        },
+        "url": "https://t.co/4zg2E1QzIZ",
+        "username": "papipapi_zzz",
+        "verified": false
+      }
+    ]
+  }
+}

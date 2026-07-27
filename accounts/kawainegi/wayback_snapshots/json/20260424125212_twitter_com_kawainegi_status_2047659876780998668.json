@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2047659876780998668",
+    "created_at": "2026-04-24T12:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T13:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047659876780998668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lisianthus2088…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/lisianthus2088/status/2046978880972669362",
+          "start": 44,
+          "url": "https://t.co/7DztN3aO9s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047659876780998668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046978880972669362",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好好念書的孩子會變壞\n不去念書的孩子會變壞\n成績優秀的孩子會變壞\n泡福馬林的孩子不會壞 https://t.co/7DztN3aO9s"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2047659876780998668",
+        "created_at": "2026-04-24T12:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047659876780998668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lisianthus2088…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/lisianthus2088/status/2046978880972669362",
+              "start": 44,
+              "url": "https://t.co/7DztN3aO9s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047659876780998668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046978880972669362",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好好念書的孩子會變壞\n不去念書的孩子會變壞\n成績優秀的孩子會變壞\n泡福馬林的孩子不會壞 https://t.co/7DztN3aO9s"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2046978880972669362",
+        "created_at": "2026-04-22T15:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046978880972669362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046978880972669362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 18792,
+          "like_count": 625,
+          "quote_count": 8,
+          "reply_count": 40,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "读书改变命运是真的   我本来活的好好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 111,
+          "like_count": 2471,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 453
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤100m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 99,
+          "like_count": 3242,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1498
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

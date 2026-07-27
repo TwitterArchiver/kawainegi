@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2047349053751808059",
+    "created_at": "2026-04-23T23:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T00:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047463335462085093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1919296206381170688",
+          "start": 0,
+          "username": "juhao0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047463335462085093",
+    "in_reply_to_user_id": "1919296206381170688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047349053751808059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juhao0721 這個好啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2047349018121109504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmlFaxagAAfX3p.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2047349053751808059",
+        "created_at": "2026-04-23T23:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T00:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047463335462085093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1919296206381170688",
+              "start": 0,
+              "username": "juhao0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047463335462085093",
+        "in_reply_to_user_id": "1919296206381170688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047349053751808059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juhao0721 這個好啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047349018121109504"
+          ]
+        },
+        "author_id": "1919296206381170688",
+        "conversation_id": "2047349053751808059",
+        "created_at": "2026-04-23T16:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047349053751808059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5kM4UEswY5",
+              "end": 32,
+              "expanded_url": "https://x.com/juhao0721/status/2047349053751808059/photo/1",
+              "media_key": "3_2047349018121109504",
+              "start": 9,
+              "url": "https://t.co/5kM4UEswY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047349053751808059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 437,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神秘颜色.jpg https://t.co/5kM4UEswY5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 107,
+          "like_count": 2378,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 418
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T07:42:19.000Z",
+        "description": "饱饱我和别的女生不一样，我是男的\n♥️@XldFxA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 19,
+                "username": "XldFxA"
+              }
+            ]
+          }
+        },
+        "id": "1919296206381170688",
+        "location": "东京",
+        "name": "baka_0v0",
+        "pinned_tweet_id": "1988833019495375171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965438456919957504/fGrs8E0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3929,
+          "following_count": 106,
+          "like_count": 2794,
+          "listed_count": 8,
+          "media_count": 304,
+          "tweet_count": 1319
+        },
+        "username": "juhao0721",
+        "verified": false
+      }
+    ]
+  }
+}

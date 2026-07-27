@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2050497306894770247",
+    "created_at": "2026-05-02T09:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T10:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050509776694727114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1812048787415744512",
+          "start": 0,
+          "username": "zyq1114319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050509776694727114",
+    "in_reply_to_user_id": "1812048787415744512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050497306894770247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyq1114319 辛苦妳了🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050497226515120128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTUXQ9bgAAU9ua.jpg",
+        "width": 671
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2050497306894770247",
+        "created_at": "2026-05-02T09:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050509776694727114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1812048787415744512",
+              "start": 0,
+              "username": "zyq1114319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050509776694727114",
+        "in_reply_to_user_id": "1812048787415744512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050497306894770247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyq1114319 辛苦妳了🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050497226515120128"
+          ]
+        },
+        "author_id": "1812048787415744512",
+        "conversation_id": "2050497306894770247",
+        "created_at": "2026-05-02T08:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050497306894770247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hj4tvS0iMT",
+              "end": 38,
+              "expanded_url": "https://x.com/zyq1114319/status/2050497306894770247/photo/1",
+              "media_key": "3_2050497226515120128",
+              "start": 15,
+              "url": "https://t.co/hj4tvS0iMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050497306894770247",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "碎碎念……\n#xyn#mtf https://t.co/hj4tvS0iMT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 123,
+          "like_count": 3268,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 601
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T08:58:11.000Z",
+        "description": "mtf/高中生/会发一些碎碎念/欢迎扩列/有时会发一些负能量的帖子，对不起/正在和\n抑郁症，焦虑症，强迫症做斗争/比较大只，身材焦虑/希望未来能加入危机干预组织，希望大家都可以好好的活着",
+        "id": "1812048787415744512",
+        "location": "美国",
+        "name": "tutu_🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026205666151657472/JwRCDc0t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 1184,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 43
+        },
+        "username": "zyq1114319",
+        "verified": false
+      }
+    ]
+  }
+}

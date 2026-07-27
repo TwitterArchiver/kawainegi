@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080490293187735552"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2080490409365848278",
+    "created_at": "2026-07-24T03:09:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T04:09:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080490409365848278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yb06PuBhUX",
+          "end": 39,
+          "expanded_url": "https://x.com/kawainegi/status/2080490409365848278/photo/1",
+          "media_key": "3_2080490293187735552",
+          "start": 16,
+          "url": "https://t.co/yb06PuBhUX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080490409365848278",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "空腹で酒飲んでたまんねぇにゃ！ https://t.co/yb06PuBhUX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2080490293187735552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9i5hQacAAeBRj.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080490293187735552"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2080490409365848278",
+        "created_at": "2026-07-24T03:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080490409365848278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yb06PuBhUX",
+              "end": 39,
+              "expanded_url": "https://x.com/kawainegi/status/2080490409365848278/photo/1",
+              "media_key": "3_2080490293187735552",
+              "start": 16,
+              "url": "https://t.co/yb06PuBhUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080490409365848278",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "空腹で酒飲んでたまんねぇにゃ！ https://t.co/yb06PuBhUX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 172,
+          "like_count": 7014,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1439
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

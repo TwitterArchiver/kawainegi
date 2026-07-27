@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077047761938391040"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2077047777197253037",
+    "created_at": "2026-07-14T15:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T16:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077047777197253037"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uHYOZ37vCX",
+          "end": 29,
+          "expanded_url": "https://x.com/kawainegi/status/2077047777197253037/photo/1",
+          "media_key": "3_2077047761938391040",
+          "start": 6,
+          "url": "https://t.co/uHYOZ37vCX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077047777197253037",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ヤニねこ🚬 https://t.co/uHYOZ37vCX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2077047761938391040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMn70_boAAmc9V.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077047761938391040"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2077047777197253037",
+        "created_at": "2026-07-14T15:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077047777197253037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uHYOZ37vCX",
+              "end": 29,
+              "expanded_url": "https://x.com/kawainegi/status/2077047777197253037/photo/1",
+              "media_key": "3_2077047761938391040",
+              "start": 6,
+              "url": "https://t.co/uHYOZ37vCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077047777197253037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ヤニねこ🚬 https://t.co/uHYOZ37vCX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "是一隻不可愛的小跨妹",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 156,
+          "like_count": 6550,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1319
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

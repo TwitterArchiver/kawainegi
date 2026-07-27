@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2046252799508574588",
+    "created_at": "2026-04-21T01:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T02:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046398797358694699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1831350388861345793",
+          "start": 0,
+          "username": "WakabaHiime9969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046398797358694699",
+    "in_reply_to_user_id": "1831350388861345793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046253545142583534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WakabaHiime9969 順直拿妳當男生的前提下，表現出可愛或者娘的特質就是男同，但實際的男同也不會這樣好不好\n\n還有就是真的很噁爛雖然不歧視男同\n但我自己都不想要當男生怎麼可能會喜歡男生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2046252799508574588",
+        "created_at": "2026-04-21T01:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T02:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046398797358694699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1831350388861345793",
+              "start": 0,
+              "username": "WakabaHiime9969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046398797358694699",
+        "in_reply_to_user_id": "1831350388861345793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046253545142583534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WakabaHiime9969 順直拿妳當男生的前提下，表現出可愛或者娘的特質就是男同，但實際的男同也不會這樣好不好\n\n還有就是真的很噁爛雖然不歧視男同\n但我自己都不想要當男生怎麼可能會喜歡男生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831350388861345793",
+        "conversation_id": "2046252799508574588",
+        "created_at": "2026-04-20T15:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046253545142583534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046253545142583534",
+        "in_reply_to_user_id": "1831350388861345793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046252799508574588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底为什么，这些牢保，一看到跨性表达就会当成同性恋啊……，这二者有什么关系喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 85,
+          "like_count": 2096,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 337
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T15:15:42.000Z",
+        "description": "ワカバ 緋イ芽 ｜07｜171/52  ??/66/84｜希望能交到好朋友喵｜🏳️‍⚧️Trans-Lesbian｜💊精品神药享受者｜大龄天残｜不懂太社交 · 奇异搞笑发言请原谅qwq｜🍥🎆GAHT 26.03.26｜人間になりたく、女の子になりたいですわ",
+        "id": "1831350388861345793",
+        "location": "東京湾",
+        "name": "Hiime🍡🍥",
+        "pinned_tweet_id": "2045861839305887896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046174460609503232/mDQ1pUpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 191,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 200
+        },
+        "username": "WakabaHiime9969",
+        "verified": true
+      }
+    ]
+  }
+}

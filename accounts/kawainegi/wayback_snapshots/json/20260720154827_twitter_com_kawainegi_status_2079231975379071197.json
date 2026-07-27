@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079231954013315072"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2079231975379071197",
+    "created_at": "2026-07-20T15:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T16:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079231975379071197"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/514QxxQk2h",
+          "end": 27,
+          "expanded_url": "https://x.com/kawainegi/status/2079231975379071197/photo/1",
+          "media_key": "3_2079231954013315072",
+          "start": 4,
+          "url": "https://t.co/514QxxQk2h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079231975379071197",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呆毛🌱 https://t.co/514QxxQk2h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2079231954013315072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrqciia4AA60fO.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079231954013315072"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2079231975379071197",
+        "created_at": "2026-07-20T15:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079231975379071197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/514QxxQk2h",
+              "end": 27,
+              "expanded_url": "https://x.com/kawainegi/status/2079231975379071197/photo/1",
+              "media_key": "3_2079231954013315072",
+              "start": 4,
+              "url": "https://t.co/514QxxQk2h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079231975379071197",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呆毛🌱 https://t.co/514QxxQk2h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "是一隻不可愛的小跨妹",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 165,
+          "like_count": 6747,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1375
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

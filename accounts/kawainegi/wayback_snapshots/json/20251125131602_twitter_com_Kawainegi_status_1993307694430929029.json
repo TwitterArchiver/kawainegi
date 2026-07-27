@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1763147741126090753",
+    "conversation_id": "1993090228228386855",
+    "created_at": "2025-11-25T13:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T14:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993307694430929029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1444716723978981380",
+          "start": 0,
+          "username": "EleanorAnatidae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993307694430929029",
+    "in_reply_to_user_id": "1444716723978981380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993090228228386855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EleanorAnatidae 活到現在辛苦妳了⋯⋯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763147741126090753",
+        "conversation_id": "1993090228228386855",
+        "created_at": "2025-11-25T13:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993307694430929029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1444716723978981380",
+              "start": 0,
+              "username": "EleanorAnatidae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993307694430929029",
+        "in_reply_to_user_id": "1444716723978981380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993090228228386855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EleanorAnatidae 活到現在辛苦妳了⋯⋯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444716723978981380",
+        "conversation_id": "1993090228228386855",
+        "created_at": "2025-11-24T22:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T23:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993090228228386855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993090228228386855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我天生的男性器官发育不良\n初中的时候，白白净净，长得不算好看，但也算清秀…于是同班的男生给我起了“太监”“公公”的外号，并且不停的性骚扰我、猥亵我。\n高中的时候，胸部发育了一点（没吃糖），然后也被起了很难听的外号（关于胸部的，不太想说）….\n虽然发育迟滞，可我还是发育了，缓慢的变声，缓慢的第二性征发育，到大概成年的时候，外表也变成了彻头彻尾的男性化。\n可能由于生长期雌、雄双低，导致我的骨骺线闭合很晚（骺线需要性激素来闭合），然后我就变得特别高大，骨架也很大….\n唉…..感觉是一种诅咒，我幼儿园和小学的时候喜欢和女生一起玩，被老师和家长干预，但我又融入不了男生，就每天躲在阅览室看书。\n没有正常的社交能力+滞后的性征发育，让我被很严重的霸凌。然后就是反反复复的精神疾病。\n我最大的梦想就是当一个妈妈，能抚养孩子。我很想有子宫和卵巢，我想怀孕。\n但是这不可能……自己怀孕不可能，在国内跨性别几乎不可能领养。\n所以我发自内心的憎恨自己……"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 359934,
+          "like_count": 894,
+          "quote_count": 6,
+          "reply_count": 102,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "我天生的男性器官发育不良\n初中的时候，白白净净，长得不算好看，但也算清秀…于是同班的男生给我起了“太监”“公公”的外号，并且不停的性骚扰我、猥亵我。\n高中的时候，胸部发育了一点（没吃糖），然后也被起了很难听的外号（关于胸部的，不太想说）…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-29T10:23:01.000Z",
+        "description": "",
+        "id": "1763147741126090753",
+        "name": "ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989506570494119936/yUfvq273_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 23,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "Kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "Eleanor/👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Shirlene_girl"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772859713987960832/7mLglH_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3300,
+          "following_count": 1812,
+          "like_count": 21351,
+          "listed_count": 9,
+          "media_count": 127,
+          "tweet_count": 5801
+        },
+        "username": "EleanorAnatidae",
+        "verified": false
+      }
+    ]
+  }
+}

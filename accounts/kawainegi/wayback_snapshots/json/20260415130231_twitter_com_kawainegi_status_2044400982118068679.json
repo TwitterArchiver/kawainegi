@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2044358274167067121",
+    "created_at": "2026-04-15T13:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T14:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044400982118068679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809512780216827904",
+          "start": 0,
+          "username": "Nanaumi_Ayana"
+        },
+        {
+          "end": 25,
+          "id": "1608637128132685825",
+          "start": 15,
+          "username": "nyaepheia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044400982118068679",
+    "in_reply_to_user_id": "1809512780216827904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044358274167067121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nanaumi_Ayana @nyaepheia 腫瘤還要後續課金才能治😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2044358274167067121",
+        "created_at": "2026-04-15T13:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044400982118068679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1809512780216827904",
+              "start": 0,
+              "username": "Nanaumi_Ayana"
+            },
+            {
+              "end": 25,
+              "id": "1608637128132685825",
+              "start": 15,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044400982118068679",
+        "in_reply_to_user_id": "1809512780216827904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044358274167067121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nanaumi_Ayana @nyaepheia 腫瘤還要後續課金才能治😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809512780216827904",
+        "conversation_id": "2044358274167067121",
+        "created_at": "2026-04-15T10:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044358274167067121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044358274167067121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 179,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "好想哭\n好想体验女孩子的青春。，，\n为什么到我这的就只剩歧视 霸凌 孤立 排挤……\n就因为我出生时因为下面长了个会分泌雄性激素的肿瘤被护士当成男生了吗……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 73,
+          "like_count": 1787,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 266
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T09:00:53.000Z",
+        "description": "=花田蘇雫/七海綾奈\n09年INFP | 无证含糖 | mtf🏳️‍⚧️hrt2026.3.29 | les且厌男 | 173cm47kg超绝骷髅身材 | 臭打音游的 | 画渣\n可能是个⭐🦆1️⃣色批疯子 本人将不会对在此说出的每一个字负责）同类可以互fo喵🥺\n负能条底下可以不用安慰我 讨厌虚情假意的关切",
+        "id": "1809512780216827904",
+        "location": " 『往世乐土』-  爱莉希雅身边",
+        "name": "🎀苏雫_ソシズク🍥🍡",
+        "pinned_tweet_id": "2041863908689113166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041133333686652928/ZRcgQaJW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 199,
+          "like_count": 1565,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 820
+        },
+        "username": "Nanaumi_Ayana",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨\n🏳️‍🌈🏳️‍⚧️LGBTQ+全友好\nTransfeminine Non-binary? Queer? MtF/X transles?\n✨she/they\n小证含糖hrt26.4.1\n家长党\n天残党😭\nSocDem/不键政\n文科生\nVibe coding/搭网站\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 150,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 688,
+          "like_count": 13946,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2058
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

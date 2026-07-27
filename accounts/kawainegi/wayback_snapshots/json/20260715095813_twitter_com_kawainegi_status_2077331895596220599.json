@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2077331895596220599",
+    "created_at": "2026-07-15T09:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077331895596220599"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kawainegi/stat…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/kawainegi/status/2077301050374238344",
+          "start": 39,
+          "url": "https://t.co/4sIZycOHmM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077331895596220599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077301050374238344",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "終於找到了一個長得高的好處\n做檢查躺在床上可以不用脫鞋\n因為腳已經躺出去了😶 https://t.co/4sIZycOHmM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2077301018380161025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQORSwbUAE1vKl.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2077331895596220599",
+        "created_at": "2026-07-15T09:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077331895596220599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawainegi/stat…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/kawainegi/status/2077301050374238344",
+              "start": 39,
+              "url": "https://t.co/4sIZycOHmM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077331895596220599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077301050374238344",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "終於找到了一個長得高的好處\n做檢查躺在床上可以不用脫鞋\n因為腳已經躺出去了😶 https://t.co/4sIZycOHmM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077301018380161025"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2077301050374238344",
+        "created_at": "2026-07-15T07:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077301050374238344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8W6wj4m65",
+              "end": 30,
+              "expanded_url": "https://x.com/kawainegi/status/2077301050374238344/photo/1",
+              "media_key": "3_2077301018380161025",
+              "start": 7,
+              "url": "https://t.co/P8W6wj4m65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077301050374238344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "入院準備🥺🥺 https://t.co/P8W6wj4m65"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "是一隻不可愛的小跨妹",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 159,
+          "like_count": 6597,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1335
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

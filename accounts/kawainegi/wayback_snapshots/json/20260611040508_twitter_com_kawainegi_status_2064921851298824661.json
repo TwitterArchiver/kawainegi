@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2064189332299428113",
+    "created_at": "2026-06-11T04:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064921851298824661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1793218407640481793",
+          "start": 0,
+          "username": "Tsuk1_qwq"
+        },
+        {
+          "end": 22,
+          "id": "1564465945480814592",
+          "start": 11,
+          "username": "person8883"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064921851298824661",
+    "in_reply_to_user_id": "1793218407640481793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064474327207272785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsuk1_qwq @person8883 羨慕這樣的氣溫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1690,
+        "media_key": "3_2064474319552651264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKZ8dKDaIAAzMe7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2064189332299428113",
+        "created_at": "2026-06-11T04:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064921851298824661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793218407640481793",
+              "start": 0,
+              "username": "Tsuk1_qwq"
+            },
+            {
+              "end": 22,
+              "id": "1564465945480814592",
+              "start": 11,
+              "username": "person8883"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064921851298824661",
+        "in_reply_to_user_id": "1793218407640481793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064474327207272785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsuk1_qwq @person8883 羨慕這樣的氣溫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064474319552651264"
+          ]
+        },
+        "author_id": "1793218407640481793",
+        "conversation_id": "2064189332299428113",
+        "created_at": "2026-06-09T22:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T23:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064474327207272785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1564465945480814592",
+              "start": 0,
+              "username": "person8883"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NpdU3mhaRi",
+              "end": 48,
+              "expanded_url": "https://x.com/Tsuk1_qwq/status/2064474327207272785/photo/1",
+              "media_key": "3_2064474319552651264",
+              "start": 25,
+              "url": "https://t.co/NpdU3mhaRi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064474327207272785",
+        "in_reply_to_user_id": "1793218407640481793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064473370155212981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@person8883 不过白天还是有点热的…… https://t.co/NpdU3mhaRi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 158,
+          "like_count": 6494,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1290
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語勉強,English下手…\n玩点机（不太行），听ボカロ，可能是xyn？（qwq\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 380,
+          "like_count": 5258,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 850
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-30T04:12:12.000Z",
+        "description": "고양이 두 마리와 함께하는 집사 🐱| 🇰🇷.🌏😘😘\n수제트는 하이라이트에 | 트친환영❤️ |✨@Zynifp\n제가 생각하고 느끼는 것을 게재합니다.\n부계정 | @ppokkong225772\n루체=LUCE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 51,
+                "username": "Zynifp"
+              },
+              {
+                "end": 102,
+                "start": 87,
+                "username": "ppokkong225772"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "asked.kr/LUCEps",
+                "end": 23,
+                "expanded_url": "https://asked.kr/LUCEps",
+                "start": 0,
+                "url": "https://t.co/Ft1Xu5Erx0"
+              }
+            ]
+          }
+        },
+        "id": "1564465945480814592",
+        "location": "happy Island",
+        "name": "루체",
+        "pinned_tweet_id": "2060640393168109840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060968176100474880/nxH8f2wP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 917,
+          "like_count": 16970,
+          "listed_count": 7,
+          "media_count": 332,
+          "tweet_count": 3934
+        },
+        "url": "https://t.co/Ft1Xu5Erx0",
+        "username": "person8883",
+        "verified": true
+      }
+    ]
+  }
+}

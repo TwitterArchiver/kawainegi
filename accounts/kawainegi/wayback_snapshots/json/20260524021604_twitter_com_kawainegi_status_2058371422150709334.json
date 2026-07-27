@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058371394380144640"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2058371422150709334",
+    "created_at": "2026-05-24T02:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T03:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058371422150709334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6rYJX2dZxT",
+          "end": 44,
+          "expanded_url": "https://x.com/kawainegi/status/2058371422150709334/photo/1",
+          "media_key": "3_2058371394380144640",
+          "start": 21,
+          "url": "https://t.co/6rYJX2dZxT"
+        },
+        {
+          "display_url": "x.com/kawainegi/stat…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/kawainegi/status/2057382487446491277",
+          "start": 45,
+          "url": "https://t.co/ssoUmm9Gc5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058371422150709334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057382487446491277",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "媽媽應該會覺得我這樣沒用的女兒很可愛吧🥹 https://t.co/6rYJX2dZxT https://t.co/ssoUmm9Gc5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1740,
+        "media_key": "3_2058371394380144640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJDN4KHaoAAZo-V.jpg",
+        "width": 2320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058371394380144640"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2058371422150709334",
+        "created_at": "2026-05-24T02:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058371422150709334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6rYJX2dZxT",
+              "end": 44,
+              "expanded_url": "https://x.com/kawainegi/status/2058371422150709334/photo/1",
+              "media_key": "3_2058371394380144640",
+              "start": 21,
+              "url": "https://t.co/6rYJX2dZxT"
+            },
+            {
+              "display_url": "x.com/kawainegi/stat…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/kawainegi/status/2057382487446491277",
+              "start": 45,
+              "url": "https://t.co/ssoUmm9Gc5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058371422150709334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057382487446491277",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "媽媽應該會覺得我這樣沒用的女兒很可愛吧🥹 https://t.co/6rYJX2dZxT https://t.co/ssoUmm9Gc5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2057382487446491277",
+        "created_at": "2026-05-21T08:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T09:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057382487446491277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057382487446491277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "家長拿我當女兒養了怎麼辦\n嗚嗚嗚嗚嗚嗚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 147,
+          "like_count": 5375,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1059
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

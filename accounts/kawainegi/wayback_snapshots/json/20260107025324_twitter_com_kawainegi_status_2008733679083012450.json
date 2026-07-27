@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2008587429947888106",
+    "created_at": "2026-01-07T02:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T03:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008733679083012450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753332405832908800",
+          "start": 0,
+          "username": "vaniperish_syuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008733679083012450",
+    "in_reply_to_user_id": "1753332405832908800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008587429947888106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vaniperish_syuu 生き辛くてしょうがねぇ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2008587429947888106",
+        "created_at": "2026-01-07T02:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T03:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008733679083012450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753332405832908800",
+              "start": 0,
+              "username": "vaniperish_syuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008733679083012450",
+        "in_reply_to_user_id": "1753332405832908800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008587429947888106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vaniperish_syuu 生き辛くてしょうがねぇ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753332405832908800",
+        "conversation_id": "2008587429947888106",
+        "created_at": "2026-01-06T17:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T18:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008587429947888106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008587429947888106",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2776,
+          "like_count": 269,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "偶には参りにきてね",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T08:21:09.000Z",
+        "description": "自己中のつまらない戯言",
+        "id": "1753332405832908800",
+        "name": "終希",
+        "pinned_tweet_id": "1996233456217370769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753747933290479616/2ccqRV7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 950,
+          "like_count": 43212,
+          "listed_count": 10,
+          "media_count": 7,
+          "tweet_count": 5509
+        },
+        "username": "vaniperish_syuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2030657719091462241",
+    "created_at": "2026-03-09T15:33:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T16:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031030686791114999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667151730868617217",
+          "start": 0,
+          "username": "ArDeA___CinEreA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031030686791114999",
+    "in_reply_to_user_id": "1667151730868617217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030657719091462241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArDeA___CinEreA 是GL╮(╯▽╰)╭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1050,
+        "media_key": "3_2030657711822798848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5YbhWbAAAiPY0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2030657719091462241",
+        "created_at": "2026-03-09T15:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T16:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031030686791114999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667151730868617217",
+              "start": 0,
+              "username": "ArDeA___CinEreA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031030686791114999",
+        "in_reply_to_user_id": "1667151730868617217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030657719091462241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArDeA___CinEreA 是GL╮(╯▽╰)╭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030657711822798848"
+          ]
+        },
+        "author_id": "1667151730868617217",
+        "conversation_id": "2030657719091462241",
+        "created_at": "2026-03-08T14:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T15:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030657719091462241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hY8v87f4VJ",
+              "end": 40,
+              "expanded_url": "https://x.com/ArDeA___CinEreA/status/2030657719091462241/photo/1",
+              "media_key": "3_2030657711822798848",
+              "start": 17,
+              "url": "https://t.co/hY8v87f4VJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030657719091462241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 48087,
+          "like_count": 956,
+          "quote_count": 3,
+          "reply_count": 32,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "冷知識：男娘跟男娘在一起是BL😀 https://t.co/hY8v87f4VJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "システム終了",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 28,
+          "like_count": 563,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 51
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T12:49:03.000Z",
+        "description": "好朋友就是會在你的傷口上灑鹽，醬油，綠油精，胡椒，辣椒，沙拉油，葵花油，甘油，石油的生物。",
+        "id": "1667151730868617217",
+        "location": "你背後",
+        "name": "烏鷺鷺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024094646456991744/B9Y7TptC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 325,
+          "like_count": 33475,
+          "listed_count": 5,
+          "media_count": 491,
+          "tweet_count": 1706
+        },
+        "username": "ArDeA___CinEreA",
+        "verified": false
+      }
+    ]
+  }
+}

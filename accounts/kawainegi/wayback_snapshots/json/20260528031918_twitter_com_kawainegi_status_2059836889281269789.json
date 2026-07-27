@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059836784398434304"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2059836889281269789",
+    "created_at": "2026-05-28T03:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T04:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059836889281269789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R5WSu7S8xl",
+          "end": 91,
+          "expanded_url": "https://x.com/kawainegi/status/2059836889281269789/photo/1",
+          "media_key": "3_2059836784398434304",
+          "start": 68,
+          "url": "https://t.co/R5WSu7S8xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059836889281269789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爆珠一直被包裹在過濾棉的安全感中，直到被指腹輕輕的觸摸，然後被指甲用力的一擊斃命，內臟破裂，汁液橫流。\n\n這一刻似乎毫無預警的發生了呢 https://t.co/R5WSu7S8xl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2059836784398434304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYCpFVaAAA9_we.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059836784398434304"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2059836889281269789",
+        "created_at": "2026-05-28T03:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059836889281269789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R5WSu7S8xl",
+              "end": 91,
+              "expanded_url": "https://x.com/kawainegi/status/2059836889281269789/photo/1",
+              "media_key": "3_2059836784398434304",
+              "start": 68,
+              "url": "https://t.co/R5WSu7S8xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059836889281269789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爆珠一直被包裹在過濾棉的安全感中，直到被指腹輕輕的觸摸，然後被指甲用力的一擊斃命，內臟破裂，汁液橫流。\n\n這一刻似乎毫無預警的發生了呢 https://t.co/R5WSu7S8xl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 158,
+          "like_count": 5890,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1166
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

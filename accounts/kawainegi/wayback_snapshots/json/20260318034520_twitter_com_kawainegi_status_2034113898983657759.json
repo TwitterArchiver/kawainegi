@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2033754811930448116",
+    "created_at": "2026-03-18T03:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T04:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034113898983657759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1608778531173199879",
+          "start": 0,
+          "username": "uwpa_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034113898983657759",
+    "in_reply_to_user_id": "1608778531173199879",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033754811930448116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uwpa_ なんで死にたいの\n幸せみたいのに"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2033754811930448116",
+        "created_at": "2026-03-18T03:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T04:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034113898983657759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1608778531173199879",
+              "start": 0,
+              "username": "uwpa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034113898983657759",
+        "in_reply_to_user_id": "1608778531173199879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033754811930448116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uwpa_ なんで死にたいの\n幸せみたいのに"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608778531173199879",
+        "conversation_id": "2033754811930448116",
+        "created_at": "2026-03-17T03:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033754811930448116"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033754811930448116",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 95276,
+          "like_count": 1459,
+          "quote_count": 49,
+          "reply_count": 53,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "死に方を教えて"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "システム終了",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 31,
+          "like_count": 678,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 78
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T10:54:35.000Z",
+        "description": "毎日かわいい更新👶🏻🍥 #あかちゃんなると◁見てる♥ ꄗ@unfy_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 12,
+                "tag": "あかちゃんなると"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 28,
+                "username": "unfy_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkfly.to/60816eJq7jO",
+                "end": 23,
+                "expanded_url": "https://linkfly.to/60816eJq7jO",
+                "start": 0,
+                "url": "https://t.co/yBato8JACU"
+              }
+            ]
+          }
+        },
+        "id": "1608778531173199879",
+        "location": "送り先♥東京都中央区築地4-12-2シグネットビル8くれあ宛",
+        "name": "癇癪持ち",
+        "pinned_tweet_id": "2004218697263861919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997369231667789824/o5VqXxfp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49206,
+          "following_count": 28,
+          "like_count": 16818,
+          "listed_count": 40,
+          "media_count": 592,
+          "tweet_count": 9207
+        },
+        "url": "https://t.co/yBato8JACU",
+        "username": "uwpa_",
+        "verified": false
+      }
+    ]
+  }
+}

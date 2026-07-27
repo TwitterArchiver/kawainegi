@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1717597662302937088"
+      ],
+      "media_source_tweet_id": [
+        "1717597685618995566"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2050780011012174273",
+    "created_at": "2026-05-03T03:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T04:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050780011012174273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1482971074883366912",
+          "start": 3,
+          "username": "ChrysalisQWQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2l1r9Xiisx",
+          "end": 108,
+          "expanded_url": "https://x.com/ChrysalisQWQ/status/1717597685618995566/photo/1",
+          "media_key": "16_1717597662302937088",
+          "start": 85,
+          "url": "https://t.co/2l1r9Xiisx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050780011012174273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1717597685618995566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChrysalisQWQ: 明明我也受过很多苦了，为什么我就不能做女孩子，明明别人受苦后是幸福，为什么我受苦就只是为了要活着，为什么为什么为什么为什么，不公平啊 https://t.co/2l1r9Xiisx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050780011012174273].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050780011012174273",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050780011012174273"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 526,
+        "media_key": "16_1717597662302937088",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/F9Yh-UCboAAL-wm.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/F9Yh-UCboAAL-wm.mp4"
+          }
+        ],
+        "width": 348
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1717597662302937088"
+          ]
+        },
+        "author_id": "1482971074883366912",
+        "conversation_id": "1717597685618995566",
+        "created_at": "2023-10-26T17:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2023-10-26T18:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1717597685618995566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2l1r9Xiisx",
+              "end": 90,
+              "expanded_url": "https://x.com/ChrysalisQWQ/status/1717597685618995566/photo/1",
+              "media_key": "16_1717597662302937088",
+              "start": 67,
+              "url": "https://t.co/2l1r9Xiisx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1717597685618995566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4063,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "明明我也受过很多苦了，为什么我就不能做女孩子，明明别人受苦后是幸福，为什么我受苦就只是为了要活着，为什么为什么为什么为什么，不公平啊 https://t.co/2l1r9Xiisx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 124,
+          "like_count": 3385,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 620
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-17T07:00:43.000Z",
+        "description": "是个不可爱的孩子",
+        "id": "1482971074883366912",
+        "location": "China",
+        "name": "komi",
+        "pinned_tweet_id": "1814563906570051652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935808293512818688/yjfyVlvQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4711,
+          "following_count": 625,
+          "like_count": 4286,
+          "listed_count": 12,
+          "media_count": 425,
+          "tweet_count": 3055
+        },
+        "username": "ChrysalisQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

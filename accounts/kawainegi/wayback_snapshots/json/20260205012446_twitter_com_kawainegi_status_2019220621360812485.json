@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2018985817440731467",
+    "created_at": "2026-02-05T01:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T02:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019220621360812485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1822856771939262465",
+          "start": 0,
+          "username": "2ON0HTUP0N9015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019220621360812485",
+    "in_reply_to_user_id": "1822856771939262465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018985817440731467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2ON0HTUP0N9015 「早く死ね」は祝福🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2018985817440731467",
+        "created_at": "2026-02-05T01:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T02:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019220621360812485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1822856771939262465",
+              "start": 0,
+              "username": "2ON0HTUP0N9015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019220621360812485",
+        "in_reply_to_user_id": "1822856771939262465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018985817440731467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2ON0HTUP0N9015 「早く死ね」は祝福🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822856771939262465",
+        "conversation_id": "2018985817440731467",
+        "created_at": "2026-02-04T09:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T10:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018985817440731467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018985817440731467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 15244,
+          "like_count": 775,
+          "quote_count": 9,
+          "reply_count": 2,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "「死んじゃだめ」は呪いの言葉だよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "病み垢|10代後半",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T04:45:20.000Z",
+        "description": "自衛お願いします。\n\n  @I5GpRQZhdt95264",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "I5GpRQZhdt95264"
+              }
+            ]
+          }
+        },
+        "id": "1822856771939262465",
+        "name": "やぬ",
+        "pinned_tweet_id": "2012532793603936375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822857245773926400/2HOtzQxZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 498,
+          "like_count": 35523,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 5716
+        },
+        "username": "2ON0HTUP0N9015",
+        "verified": false
+      }
+    ]
+  }
+}

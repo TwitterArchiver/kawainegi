@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2006593505481863300",
+    "created_at": "2026-01-02T04:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T05:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006947642648178884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1959957838647959552",
+          "start": 0,
+          "username": "genkaidesu1030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006947642648178884",
+    "in_reply_to_user_id": "1959957838647959552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006944493040447750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@genkaidesu1030 お祝福してありがとう(´ω`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2006593505481863300",
+        "created_at": "2026-01-02T04:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T05:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006947642648178884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1959957838647959552",
+              "start": 0,
+              "username": "genkaidesu1030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006947642648178884",
+        "in_reply_to_user_id": "1959957838647959552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006944493040447750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genkaidesu1030 お祝福してありがとう(´ω`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959957838647959552",
+        "conversation_id": "2006593505481863300",
+        "created_at": "2026-01-02T04:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T05:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006944493040447750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2006749860863815682",
+              "start": 0,
+              "username": "kawainegi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006944493040447750",
+        "in_reply_to_user_id": "2006749860863815682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006938770206240879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawainegi 今年こそ失敗したくないですね"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "偶には参りにきてね",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 17,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T12:36:05.000Z",
+        "description": "鬱/不眠症/診断済みADHD/希死念慮/貧困/HSP/孤独/反出生/障害者手帳持ち/毒親\n\nＮＧ→自傷画像・自撮り・自募・出会い目的・RP多い人・政治系・男女論\n\n病み垢全然関係ないアカウントやポストゼロ垢・鍵垢はブロックします。\n\n規制垢→@newmero1030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "newmero1030"
+              }
+            ]
+          }
+        },
+        "id": "1959957838647959552",
+        "name": "限界めろちゃん",
+        "pinned_tweet_id": "1998679135816921529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006569305077592065/QdX1b2nt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 131,
+          "like_count": 18634,
+          "listed_count": 9,
+          "media_count": 23,
+          "tweet_count": 3833
+        },
+        "username": "genkaidesu1030",
+        "verified": false
+      }
+    ]
+  }
+}

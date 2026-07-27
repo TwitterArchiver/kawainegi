@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065048286038511616"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2065048415923556517",
+    "created_at": "2026-06-11T12:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065048415923556517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hKzzL8UECu",
+          "end": 27,
+          "expanded_url": "https://x.com/kawainegi/status/2065048415923556517/photo/1",
+          "media_key": "3_2065048286038511616",
+          "start": 4,
+          "url": "https://t.co/hKzzL8UECu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065048415923556517",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喫煙所 https://t.co/hKzzL8UECu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2065048286038511616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiGeZ1a0AA5EPH.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065048286038511616"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2065048415923556517",
+        "created_at": "2026-06-11T12:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065048415923556517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKzzL8UECu",
+              "end": 27,
+              "expanded_url": "https://x.com/kawainegi/status/2065048415923556517/photo/1",
+              "media_key": "3_2065048286038511616",
+              "start": 4,
+              "url": "https://t.co/hKzzL8UECu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065048415923556517",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喫煙所 https://t.co/hKzzL8UECu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 158,
+          "like_count": 6514,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1298
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

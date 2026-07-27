@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2079643942329716789",
+    "created_at": "2026-07-21T19:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T20:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079643942329716789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ripo0079/statu…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/ripo0079/status/2079214858034360410",
+          "start": 17,
+          "url": "https://t.co/4P7X1SDmle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079643942329716789",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079214858034360410",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ボクは一番目の「不況」と思います https://t.co/4P7X1SDmle"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2079643942329716789",
+        "created_at": "2026-07-21T19:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079643942329716789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ripo0079/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/ripo0079/status/2079214858034360410",
+              "start": 17,
+              "url": "https://t.co/4P7X1SDmle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079643942329716789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079214858034360410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ボクは一番目の「不況」と思います https://t.co/4P7X1SDmle"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "193648759",
+        "conversation_id": "2079214858034360410",
+        "created_at": "2026-07-20T14:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079214858034360410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nauru_japan/st…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/nauru_japan/status/2077559696706408513",
+              "start": 22,
+              "url": "https://t.co/4uDMyzHnXh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079214858034360410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3327,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077559696706408513",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "\"法治\"←我的社会主义核心价值观最好的字词 https://t.co/4uDMyzHnXh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 166,
+          "like_count": 6792,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1396
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12770,
+          "following_count": 1438,
+          "like_count": 75474,
+          "listed_count": 141,
+          "media_count": 4551,
+          "tweet_count": 55373
+        },
+        "url": "",
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

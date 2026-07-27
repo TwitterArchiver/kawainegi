@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2037417661706142153",
+    "created_at": "2026-03-27T15:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T16:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037556878922960948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845041900195282948",
+          "start": 0,
+          "username": "bernadine18107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037556878922960948",
+    "in_reply_to_user_id": "1845041900195282948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037417661706142153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bernadine18107 跟口服雌二醇和凝膠比較起來這個有什麼不同嗎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037417645470085120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZcjclbcAAYGXJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037417645470019584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZcjclacAA97CC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2037417661706142153",
+        "created_at": "2026-03-27T15:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037556878922960948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845041900195282948",
+              "start": 0,
+              "username": "bernadine18107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037556878922960948",
+        "in_reply_to_user_id": "1845041900195282948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037417661706142153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bernadine18107 跟口服雌二醇和凝膠比較起來這個有什麼不同嗎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037417645470085120",
+            "3_2037417645470019584"
+          ]
+        },
+        "author_id": "1845041900195282948",
+        "conversation_id": "2037417661706142153",
+        "created_at": "2026-03-27T06:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037417661706142153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NGOOBTztCU",
+              "end": 45,
+              "expanded_url": "https://x.com/bernadine18107/status/2037417661706142153/photo/1",
+              "media_key": "3_2037417645470085120",
+              "start": 22,
+              "url": "https://t.co/NGOOBTztCU"
+            },
+            {
+              "display_url": "pic.x.com/NGOOBTztCU",
+              "end": 45,
+              "expanded_url": "https://x.com/bernadine18107/status/2037417661706142153/photo/1",
+              "media_key": "3_2037417645470019584",
+              "start": 22,
+              "url": "https://t.co/NGOOBTztCU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037417661706142153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3101,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扎日雌小记😋做了大约一小时的心理建设完成✅ https://t.co/NGOOBTztCU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "メンヘラって呼ばないで…",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 43,
+          "like_count": 927,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 126
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T10:00:55.000Z",
+        "description": "04年出厂的药娘👀 ｜在属于自己的轨道安静运行💗｜想做的事情有很多很多我会一件件实现❤️‍🩹｜梦想是SRS成为有阴道瓣的女孩子🤔｜共情➕重度依赖｜@Fitzgerald10184 小号/聊天戳👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "Fitzgerald10184"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiu0091",
+                "end": 23,
+                "expanded_url": "https://t.me/Qiu0091",
+                "start": 0,
+                "url": "https://t.co/nUqWCJu4Gq"
+              }
+            ]
+          }
+        },
+        "id": "1845041900195282948",
+        "location": "生命独特的坐标",
+        "name": "Niqiu-妮湫（充满希望版）🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2029572914392224148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943944034050813952/okWv5JY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4420,
+          "following_count": 753,
+          "like_count": 1581,
+          "listed_count": 13,
+          "media_count": 116,
+          "tweet_count": 577
+        },
+        "url": "https://t.co/nUqWCJu4Gq",
+        "username": "bernadine18107",
+        "verified": false
+      }
+    ]
+  }
+}

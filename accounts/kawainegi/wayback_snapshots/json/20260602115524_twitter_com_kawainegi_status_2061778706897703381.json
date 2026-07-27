@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2061777613971218916",
+    "created_at": "2026-06-02T11:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061778706897703381"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061778706897703381",
+    "in_reply_to_user_id": "2006749860863815682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061777613971218916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "剛開始完全不明白他的來意，但是從我進店就一直盯著我，對我使眼色，我跟著過去了就聽到了「我愛你」這種話，然後才開始禮貌確認能不能錄影"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39928,
+        "height": 1280,
+        "media_key": "13_2061777394399399936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061777394399399936/img/epEBH38ykY5RzF2z.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061777394399399936/vid/avc1/320x568/pOUVeHxt6EY9vCsb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061777394399399936/vid/avc1/480x852/n6hGodrAReyApA2s.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061777394399399936/vid/avc1/720x1280/9V7eg_lrvbAK2Yk0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061777394399399936/pl/c0fCwP4XdIpP79WN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2061777613971218916",
+        "created_at": "2026-06-02T11:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061778706897703381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061778706897703381",
+        "in_reply_to_user_id": "2006749860863815682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061777613971218916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "剛開始完全不明白他的來意，但是從我進店就一直盯著我，對我使眼色，我跟著過去了就聽到了「我愛你」這種話，然後才開始禮貌確認能不能錄影"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061777394399399936"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2061777613971218916",
+        "created_at": "2026-06-02T11:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061777613971218916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BrdftlFPNL",
+              "end": 107,
+              "expanded_url": "https://x.com/kawainegi/status/2061777613971218916/video/1",
+              "media_key": "13_2061777394399399936",
+              "start": 84,
+              "url": "https://t.co/BrdftlFPNL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061777613971218916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在Apple store 被自稱阿拉伯人騷擾了\n還會講中文 問我要不要喝咖啡 加微信 要電話 去賓館之類的\n\n後來跟著他走了出去 好像開到了他的朋友 我趕快回到商場裡 https://t.co/BrdftlFPNL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 157,
+          "like_count": 6372,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1248
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

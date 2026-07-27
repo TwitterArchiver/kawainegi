@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2057428472965054504",
+    "created_at": "2026-05-21T11:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057428472965054504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kawainegi/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/kawainegi/status/2057425332857397272",
+          "start": 19,
+          "url": "https://t.co/srEUDdZHMC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057428472965054504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057425332857397272",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "躁期的時候我就這樣走來走去發神經😇😇 https://t.co/srEUDdZHMC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2057425125595865088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1xQEMa4AAPbtj.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2057428472965054504",
+        "created_at": "2026-05-21T11:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057428472965054504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawainegi/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/kawainegi/status/2057425332857397272",
+              "start": 19,
+              "url": "https://t.co/srEUDdZHMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057428472965054504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057425332857397272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "躁期的時候我就這樣走來走去發神經😇😇 https://t.co/srEUDdZHMC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057425125595865088"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2057425332857397272",
+        "created_at": "2026-05-21T11:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057425332857397272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQluxPqq9X",
+              "end": 53,
+              "expanded_url": "https://x.com/kawainegi/status/2057425332857397272/photo/1",
+              "media_key": "3_2057425125595865088",
+              "start": 30,
+              "url": "https://t.co/NQluxPqq9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057425332857397272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這節車廂上有集電弓，所以車頂沒有空間可以放毒氣桶，安全喵😉 https://t.co/NQluxPqq9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 147,
+          "like_count": 5119,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1010
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

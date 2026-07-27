@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2045161598109848025",
+    "created_at": "2026-04-18T15:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T16:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045519093164540055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1560129932524544000",
+          "start": 0,
+          "username": "xijiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045519093164540055",
+    "in_reply_to_user_id": "1560129932524544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045161598109848025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijiu_ 看完感覺僅適用於較為健全的MtF，就算不是MtF好了很多人也會因為精神問題全然無法登校(╯﹏╰）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2045161598109848025",
+        "created_at": "2026-04-18T15:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045519093164540055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560129932524544000",
+              "start": 0,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045519093164540055",
+        "in_reply_to_user_id": "1560129932524544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045161598109848025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijiu_ 看完感覺僅適用於較為健全的MtF，就算不是MtF好了很多人也會因為精神問題全然無法登校(╯﹏╰）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560129932524544000",
+        "conversation_id": "2045161598109848025",
+        "created_at": "2026-04-17T15:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045161598109848025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YekaseSuiso202…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/YekaseSuiso2022/status/2045072862206448083",
+              "start": 140,
+              "url": "https://t.co/4MhFcR8gvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045161598109848025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1826,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045072862206448083",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我留在了学校，代价是精神问题、永远的痛苦和无数次可能死掉的自杀，但是也带给我了一个有更美好未来的可能....如果我辍学，大概率我独自在外最努力的打工，月收入和现在半工半读差不多（每周之兼职一天）....\n留在学校的痛苦没有办法忽视，但是千万不要轻易丢掉一个给自己保底的可能... https://t.co/4MhFcR8gvo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 82,
+          "like_count": 1975,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 308
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "🏳️‍⚧️|生命久如暗室，不妨碍我明写春诗|I’m Nicy , a freshman majoring in chemistry from China.| The Jesus loves us equally.",
+        "id": "1560129932524544000",
+        "location": "爱人的小笼子",
+        "name": "希玖.",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3308,
+          "following_count": 852,
+          "like_count": 193975,
+          "listed_count": 2,
+          "media_count": 600,
+          "tweet_count": 9197
+        },
+        "username": "xijiu_",
+        "verified": false
+      }
+    ]
+  }
+}

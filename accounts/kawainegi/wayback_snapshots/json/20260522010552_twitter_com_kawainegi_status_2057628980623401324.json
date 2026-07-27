@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2057628980623401324",
+    "created_at": "2026-05-22T01:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T02:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057628980623401324"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057628980623401324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "暫時不打算逃避地獄難易度的人生了\n原因沒有別的只是想做一回不像自己的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2057628980623401324",
+        "created_at": "2026-05-22T01:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057628980623401324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057628980623401324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暫時不打算逃避地獄難易度的人生了\n原因沒有別的只是想做一回不像自己的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 148,
+          "like_count": 5218,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1033
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2033481494086504631",
+    "created_at": "2026-03-16T15:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T16:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033569046390845708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "761166670291275777",
+          "start": 0,
+          "username": "negyutyubu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033569046390845708",
+    "in_reply_to_user_id": "761166670291275777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033481494086504631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@negyutyubu 青\n自己嫌悪と死体も消える\nこんないいこともかるのか"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2033481285633814530",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhgdJebsAIawr7.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2033481494086504631",
+        "created_at": "2026-03-16T15:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033569046390845708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "761166670291275777",
+              "start": 0,
+              "username": "negyutyubu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033569046390845708",
+        "in_reply_to_user_id": "761166670291275777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033481494086504631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@negyutyubu 青\n自己嫌悪と死体も消える\nこんないいこともかるのか"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033481285633814530"
+          ]
+        },
+        "author_id": "761166670291275777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033481494086504631",
+        "created_at": "2026-03-16T09:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T10:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033481494086504631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6tt7xpvaCN",
+              "end": 36,
+              "expanded_url": "https://x.com/negyutyubu/status/2033481494086504631/photo/1",
+              "media_key": "3_2033481285633814530",
+              "start": 13,
+              "url": "https://t.co/6tt7xpvaCN"
+            },
+            {
+              "display_url": "x.com/negyutyubu/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/negyutyubu/status/2030909837056582122",
+              "start": 37,
+              "url": "https://t.co/VMfnjNVPI0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033481494086504631",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 312,
+          "impression_count": 291128,
+          "like_count": 3135,
+          "quote_count": 587,
+          "reply_count": 141,
+          "retweet_count": 216
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030909837056582122",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赤と青、どっちの薬のむ？ https://t.co/6tt7xpvaCN https://t.co/VMfnjNVPI0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "システム終了",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 31,
+          "like_count": 668,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 73
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-04T11:47:30.000Z",
+        "description": "ここは、次を壊させない奴の場所。\n\nアイコン： @tmtgrtnさま",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "tmtgrtn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/negyutyubu/sta…",
+                "end": 23,
+                "expanded_url": "https://x.com/negyutyubu/status/2003773985625092458",
+                "start": 0,
+                "url": "https://t.co/B9BCUdxAwg"
+              }
+            ]
+          }
+        },
+        "id": "761166670291275777",
+        "location": "ここのフォロワー＝亡霊部隊（取説↓）",
+        "name": "ねぎゅチュブ＠病みマンガ",
+        "pinned_tweet_id": "2026964594095481314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902241149911494656/wt9p7js__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15543,
+          "following_count": 16,
+          "like_count": 99019,
+          "listed_count": 20,
+          "media_count": 3619,
+          "tweet_count": 27028
+        },
+        "url": "https://t.co/B9BCUdxAwg",
+        "username": "negyutyubu",
+        "verified": true
+      }
+    ]
+  }
+}

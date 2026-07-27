@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2041008062962749640",
+    "created_at": "2026-04-06T04:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T05:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041008062962749640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2036071254873276416",
+          "start": 3,
+          "username": "renyue105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041008062962749640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040753477270335999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @renyue105: 我也想像家长党那样活在阳光下 我好怕 我该什么办 我不想在痛苦下去了 我想做自己 可是他们已经老了 操劳一辈子 对我只有一个心愿 想让我结婚生子 给他们抱孙子 他们对我很好 真的很好 或许我注定得不到幸福吧 就这样陪他们演下去吧 一直 直到我死了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2041008062962749640",
+        "created_at": "2026-04-06T04:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041008062962749640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2036071254873276416",
+              "start": 3,
+              "username": "renyue105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041008062962749640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040753477270335999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @renyue105: 我也想像家长党那样活在阳光下 我好怕 我该什么办 我不想在痛苦下去了 我想做自己 可是他们已经老了 操劳一辈子 对我只有一个心愿 想让我结婚生子 给他们抱孙子 他们对我很好 真的很好 或许我注定得不到幸福吧 就这样陪他们演下去吧 一直 直到我死了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036071254873276416",
+        "conversation_id": "2040753477270335999",
+        "created_at": "2026-04-05T11:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040753477270335999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040753477270335999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2480,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我也想像家长党那样活在阳光下 我好怕 我该什么办 我不想在痛苦下去了 我想做自己 可是他们已经老了 操劳一辈子 对我只有一个心愿 想让我结婚生子 给他们抱孙子 他们对我很好 真的很好 或许我注定得不到幸福吧 就这样陪他们演下去吧 一直 直到我死了 我或许会活在虚无里 麻木里 我不想再让他们伤心了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "メンヘラって呼ばないで…",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 47,
+          "like_count": 1115,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 161
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T13:23:41.000Z",
+        "description": "跨女丨家暴党丨hrt 2026.4.5起（划掉）继续深柜直到死亡（划掉）还是继续吧，嘻嘻",
+        "id": "2036071254873276416",
+        "location": "中国",
+        "name": "任月🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036072131864526848/RLHnRjsO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 14,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 208
+        },
+        "username": "renyue105",
+        "verified": false
+      }
+    ]
+  }
+}

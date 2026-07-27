@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2051869868514025688",
+    "created_at": "2026-05-06T03:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T04:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051869868514025688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1978552724481536000",
+          "start": 3,
+          "username": "koi_koi_x3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051869868514025688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3507
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051282169746862343",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koi_koi_x3: 自分がブスって気付く前までの人生は楽しかった"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2051869868514025688",
+        "created_at": "2026-05-06T03:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T04:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051869868514025688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1978552724481536000",
+              "start": 3,
+              "username": "koi_koi_x3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051869868514025688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3507
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051282169746862343",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koi_koi_x3: 自分がブスって気付く前までの人生は楽しかった"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978552724481536000",
+        "conversation_id": "2051282169746862343",
+        "created_at": "2026-05-04T12:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051282169746862343"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051282169746862343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 576,
+          "impression_count": 650364,
+          "like_count": 39109,
+          "quote_count": 511,
+          "reply_count": 43,
+          "retweet_count": 3507
+        },
+        "reply_settings": "everyone",
+        "text": "自分がブスって気付く前までの人生は楽しかった"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 127,
+          "like_count": 3599,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 650
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-15T20:05:19.000Z",
+        "description": "高一 / 愛しの親友 @FuNK3tu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "FuNK3tu"
+              }
+            ]
+          }
+        },
+        "id": "1978552724481536000",
+        "location": "251愛してるよ♡♡",
+        "name": "恋毒†❤︎",
+        "pinned_tweet_id": "2040995933979382225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994281440436244480/tdZaoP5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 282,
+          "like_count": 8210,
+          "listed_count": 7,
+          "media_count": 24,
+          "tweet_count": 1786
+        },
+        "username": "koi_koi_x3",
+        "verified": false
+      }
+    ]
+  }
+}

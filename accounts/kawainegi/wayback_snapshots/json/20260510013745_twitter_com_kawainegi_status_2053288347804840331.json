@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053288121425596416"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2053288347804840331",
+    "created_at": "2026-05-10T01:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T02:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053288347804840331"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b5fH6ki5X3",
+          "end": 63,
+          "expanded_url": "https://x.com/kawainegi/status/2053288347804840331/photo/1",
+          "media_key": "3_2053288121425596416",
+          "start": 40,
+          "url": "https://t.co/b5fH6ki5X3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053288347804840331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "火車上用可愛的zippo給帥哥們點煙\n被派了4本😇\n\n給我派的不是國男是帥哥喵 https://t.co/b5fH6ki5X3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2053288121425596416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6-qusaEAAF5BG.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053288121425596416"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053288347804840331",
+        "created_at": "2026-05-10T01:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053288347804840331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b5fH6ki5X3",
+              "end": 63,
+              "expanded_url": "https://x.com/kawainegi/status/2053288347804840331/photo/1",
+              "media_key": "3_2053288121425596416",
+              "start": 40,
+              "url": "https://t.co/b5fH6ki5X3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053288347804840331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "火車上用可愛的zippo給帥哥們點煙\n被派了4本😇\n\n給我派的不是國男是帥哥喵 https://t.co/b5fH6ki5X3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 135,
+          "like_count": 4141,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 747
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

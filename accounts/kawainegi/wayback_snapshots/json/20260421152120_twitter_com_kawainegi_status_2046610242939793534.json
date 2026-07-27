@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046610232932212736"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1385654203654098944",
+          "name": "Fun facts"
+        }
+      }
+    ],
+    "conversation_id": "2046610242939793534",
+    "created_at": "2026-04-21T15:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T16:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046610242939793534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Oy9D8V00Tj",
+          "end": 40,
+          "expanded_url": "https://x.com/kawainegi/status/2046610242939793534/photo/1",
+          "media_key": "3_2046610232932212736",
+          "start": 17,
+          "url": "https://t.co/Oy9D8V00Tj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046610242939793534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "豆知識: 貝印其實還可以用來修眉 https://t.co/Oy9D8V00Tj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046610232932212736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcFKdeaoAANlVZ.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046610232932212736"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1385654203654098944",
+              "name": "Fun facts"
+            }
+          }
+        ],
+        "conversation_id": "2046610242939793534",
+        "created_at": "2026-04-21T15:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046610242939793534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oy9D8V00Tj",
+              "end": 40,
+              "expanded_url": "https://x.com/kawainegi/status/2046610242939793534/photo/1",
+              "media_key": "3_2046610232932212736",
+              "start": 17,
+              "url": "https://t.co/Oy9D8V00Tj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046610242939793534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豆知識: 貝印其實還可以用來修眉 https://t.co/Oy9D8V00Tj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 99,
+          "like_count": 2178,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 352
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2042935824443150696",
+    "created_at": "2026-04-12T04:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T05:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043179645504504193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1952257824664485888",
+          "start": 0,
+          "username": "LibailuOne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043179645504504193",
+    "in_reply_to_user_id": "1952257824664485888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042935824443150696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LibailuOne 互追喵互追喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2042935824443150696",
+        "created_at": "2026-04-12T04:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043179645504504193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952257824664485888",
+              "start": 0,
+              "username": "LibailuOne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043179645504504193",
+        "in_reply_to_user_id": "1952257824664485888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042935824443150696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LibailuOne 互追喵互追喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952257824664485888",
+        "conversation_id": "2042935824443150696",
+        "created_at": "2026-04-11T12:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042935824443150696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042935824443150696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1004,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不要掉fo啊😭求你們不要取fo我😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "メンヘラって呼ばないで…",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 64,
+          "like_count": 1520,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 223
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T06:38:58.000Z",
+        "description": "絕望mtf，無證已斷糖，已炸櫃，家長不管党，生產日期2008.7.6，168cm/63kg，hrt:2025.8.25-2026.1.4，抑鬱/焦慮/幻想，不斷減肥中，閨閨:@konx9527妹妹@9zp7b2w7ZgzhUhp，宿命論，ISTJ。（可提供雌二醇凝膠製作方法及指導）。hrt重慶:2026.4.7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 87,
+                "username": "konx9527"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "username": "9zp7b2w7ZgzhUhp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/libailu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/libailu",
+                "start": 0,
+                "url": "https://t.co/QnEdZGJvUw"
+              }
+            ]
+          }
+        },
+        "id": "1952257824664485888",
+        "location": "亚神瑞亚尼赛亚（Asenruia Nisaa）",
+        "name": "Libailu🍥🏳️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039184890097467392/dbO1I6P9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 340,
+          "like_count": 8332,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 981
+        },
+        "url": "https://t.co/QnEdZGJvUw",
+        "username": "LibailuOne",
+        "verified": false
+      }
+    ]
+  }
+}

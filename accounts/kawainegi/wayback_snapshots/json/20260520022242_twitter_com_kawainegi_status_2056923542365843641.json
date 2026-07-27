@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2056738184651034950",
+    "created_at": "2026-05-20T02:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T03:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056923542365843641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "XldMtX"
+        },
+        {
+          "end": 20,
+          "id": "1717090595586584577",
+          "start": 8,
+          "username": "uncleTomat0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056923542365843641",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056805292407447808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XldMtX @uncleTomat0 可是有什麼用🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2056738184651034950",
+        "created_at": "2026-05-20T02:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056923542365843641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "XldMtX"
+            },
+            {
+              "end": 20,
+              "id": "1717090595586584577",
+              "start": 8,
+              "username": "uncleTomat0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056923542365843641",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056805292407447808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XldMtX @uncleTomat0 可是有什麼用🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "2056738184651034950",
+        "created_at": "2026-05-19T18:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T19:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056805292407447808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1717090595586584577",
+              "start": 0,
+              "username": "uncleTomat0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056805292407447808",
+        "in_reply_to_user_id": "1717090595586584577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056738184651034950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uncleTomat0 依舊ㄓˉ國特供版"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 146,
+          "like_count": 5026,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 984
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "ㄨㄛˇ ㄑㄩˉ ㄊㄧˇ ㄏㄨㄚˋ ㄌ\n\nㄒㄧㄤˇ ㄔㄥˊ ㄨㄟˊ Apex ㄍㄠㄕㄡ\n\n@Allenium114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Allenium114"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+k6R8ZoB6cPMyN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+k6R8ZoB6cPMyN2M1",
+                "start": 0,
+                "url": "https://t.co/3iPzLTBTRw"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重慶",
+        "name": "🍁🍥翎🍥🍁",
+        "pinned_tweet_id": "2052694519129473346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042113258090528768/f1mH6fZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7176,
+          "following_count": 1046,
+          "like_count": 55224,
+          "listed_count": 12,
+          "media_count": 3575,
+          "tweet_count": 30171
+        },
+        "url": "https://t.co/3iPzLTBTRw",
+        "username": "XldMtX",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-25T08:08:03.000Z",
+        "description": "如果您是志同道合的同志，欢迎互关，互动起来🥰 🇨🇳🇨🇳🇨🇳一位有趣的时政军事爱好者，与您分享最新有趣的时政军事信息！ 中国共产党万岁！为共产主义奋斗终身！打倒美帝国主义，打倒绿色恐怖政权！ 反贼、岛蛙欢迎battle",
+        "id": "1717090595586584577",
+        "location": "香港",
+        "name": "番茄大叔🇨🇳",
+        "pinned_tweet_id": "2052011082353701200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995444805271453696/a6DPJ7o2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14823,
+          "following_count": 4015,
+          "like_count": 8746,
+          "listed_count": 93,
+          "media_count": 1885,
+          "tweet_count": 19281
+        },
+        "username": "uncleTomat0",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "IN"
+          ]
+        }
+      }
+    ]
+  }
+}

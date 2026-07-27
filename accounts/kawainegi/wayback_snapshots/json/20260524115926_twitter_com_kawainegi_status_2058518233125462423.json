@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "1932308179536486537",
+    "created_at": "2026-05-24T11:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058518233125462423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900394907459850240",
+          "start": 0,
+          "username": "TouhouSeigen_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058518233125462423",
+    "in_reply_to_user_id": "1900394907459850240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932308179536486537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TouhouSeigen_ 好勇敢⋯可是不痛嗎🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932308118387757056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtDv_vEbEAAbk6K.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 44752,
+        "height": 960,
+        "media_key": "7_1932308109034414080",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1932308109034414080/pu/img/tWyg9v5OVa2giZze.jpg",
+        "public_metrics": {
+          "view_count": 151
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932308109034414080/pu/vid/avc1/320x684/M4HNmv1tSEQAT_1a.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932308109034414080/pu/vid/avc1/448x960/-RcycyVR8d1XiBAM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1932308109034414080/pu/pl/at4wIuWyjnChHwRW.m3u8?tag=12"
+          }
+        ],
+        "width": 448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1932308123144126464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtDwAAybgAApxa9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2080,
+        "media_key": "3_1932308130916089856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtDwAdvaQAA8AId.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "1932308179536486537",
+        "created_at": "2026-05-24T11:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058518233125462423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900394907459850240",
+              "start": 0,
+              "username": "TouhouSeigen_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058518233125462423",
+        "in_reply_to_user_id": "1900394907459850240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932308179536486537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TouhouSeigen_ 好勇敢⋯可是不痛嗎🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932308118387757056",
+            "7_1932308109034414080",
+            "3_1932308123144126464",
+            "3_1932308130916089856"
+          ]
+        },
+        "author_id": "1900394907459850240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1932308179536486537",
+        "created_at": "2025-06-10T05:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T06:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932308179536486537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6hObDWxVR",
+              "end": 48,
+              "expanded_url": "https://x.com/chunliang33157/status/1932308179536486537/video/1",
+              "media_key": "3_1932308118387757056",
+              "start": 25,
+              "url": "https://t.co/z6hObDWxVR"
+            },
+            {
+              "display_url": "pic.x.com/z6hObDWxVR",
+              "end": 48,
+              "expanded_url": "https://x.com/chunliang33157/status/1932308179536486537/video/1",
+              "media_key": "7_1932308109034414080",
+              "start": 25,
+              "url": "https://t.co/z6hObDWxVR"
+            },
+            {
+              "display_url": "pic.x.com/z6hObDWxVR",
+              "end": 48,
+              "expanded_url": "https://x.com/chunliang33157/status/1932308179536486537/video/1",
+              "media_key": "3_1932308123144126464",
+              "start": 25,
+              "url": "https://t.co/z6hObDWxVR"
+            },
+            {
+              "display_url": "pic.x.com/z6hObDWxVR",
+              "end": 48,
+              "expanded_url": "https://x.com/chunliang33157/status/1932308179536486537/video/1",
+              "media_key": "3_1932308130916089856",
+              "start": 25,
+              "url": "https://t.co/z6hObDWxVR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932308179536486537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 503,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有段時間沒上推特了，我把我這幾天搞的血圖都發一下 https://t.co/z6hObDWxVR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 150,
+          "like_count": 5471,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1091
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T03:54:01.000Z",
+        "description": "海豹萬歲萬萬歲丨自殘內容注意 丨 简中 繁中混用丨賽博八字ISTP-T丨2011.7.26丨一般路過ftm丨泛性恋丨無證hrt丨hrt 2025.10.9丨可以叫我東方逝元（Tōhō Seigen）或上條鷹介（Kamijō Yōsuke）丨我衹是一隻海豹丨多意識體（混合系統）丨備用賬號@Dong42620",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 143,
+                "username": "Dong42620"
+              }
+            ]
+          }
+        },
+        "id": "1900394907459850240",
+        "location": "地球",
+        "name": "Seigen🦭🏳‍⚧",
+        "pinned_tweet_id": "2051692185821806828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032688213819797507/AhFJyVZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 228,
+          "like_count": 9693,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 584
+        },
+        "username": "TouhouSeigen_",
+        "verified": false
+      }
+    ]
+  }
+}

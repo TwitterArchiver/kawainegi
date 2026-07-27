@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048771557347201024"
+      ],
+      "media_source_tweet_id": [
+        "2048771561939980706"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2048996473854189701",
+    "created_at": "2026-04-28T05:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T06:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048996473854189701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1575295108312080384",
+          "start": 3,
+          "username": "mimi__pya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pcgj4qFFEB",
+          "end": 38,
+          "expanded_url": "https://x.com/mimi__pya/status/2048771561939980706/photo/1",
+          "media_key": "3_2048771557347201024",
+          "start": 15,
+          "url": "https://t.co/pcgj4qFFEB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048996473854189701",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048771561939980706",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mimi__pya: https://t.co/pcgj4qFFEB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1421,
+        "media_key": "3_2048771557347201024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6y4GWakAAbMo3.jpg",
+        "width": 1747
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048771557347201024"
+          ],
+          "media_source_tweet_id": [
+            "2048771561939980706"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2048996473854189701",
+        "created_at": "2026-04-28T05:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048996473854189701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1575295108312080384",
+              "start": 3,
+              "username": "mimi__pya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pcgj4qFFEB",
+              "end": 38,
+              "expanded_url": "https://x.com/mimi__pya/status/2048771561939980706/photo/1",
+              "media_key": "3_2048771557347201024",
+              "start": 15,
+              "url": "https://t.co/pcgj4qFFEB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048996473854189701",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048771561939980706",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mimi__pya: https://t.co/pcgj4qFFEB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048771557347201024"
+          ]
+        },
+        "author_id": "1575295108312080384",
+        "conversation_id": "2048771561939980706",
+        "created_at": "2026-04-27T14:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048771561939980706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pcgj4qFFEB",
+              "end": 23,
+              "expanded_url": "https://x.com/mimi__pya/status/2048771561939980706/photo/1",
+              "media_key": "3_2048771557347201024",
+              "start": 0,
+              "url": "https://t.co/pcgj4qFFEB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048771561939980706",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 3139,
+          "like_count": 482,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pcgj4qFFEB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 122,
+          "like_count": 2997,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 572
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-29T01:23:22.000Z",
+        "description": "絵きろく",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@mimi__pya",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@mimi__pya",
+                "start": 0,
+                "url": "https://t.co/HVdx4wXglf"
+              }
+            ]
+          }
+        },
+        "id": "1575295108312080384",
+        "location": "AI学習とか無断転載はやめてね",
+        "name": "酔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805012213884940288/uJk43sEk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2640,
+          "following_count": 91,
+          "like_count": 19522,
+          "listed_count": 19,
+          "media_count": 1531,
+          "tweet_count": 1803
+        },
+        "url": "https://t.co/HVdx4wXglf",
+        "username": "mimi__pya",
+        "verified": false
+      }
+    ]
+  }
+}

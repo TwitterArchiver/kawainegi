@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047673047910633472"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2047673059054952789",
+    "created_at": "2026-04-24T13:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047673059054952789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600024316552179713",
+          "start": 0,
+          "username": "kiki_qiqing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rsBRXjlczL",
+          "end": 51,
+          "expanded_url": "https://x.com/kawainegi/status/2047673059054952789/photo/1",
+          "media_key": "3_2047673047910633472",
+          "start": 28,
+          "url": "https://t.co/rsBRXjlczL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047673059054952789",
+    "in_reply_to_user_id": "1600024316552179713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@kiki_qiqing \n不客氣\n1000追蹤恭喜ㄌ https://t.co/rsBRXjlczL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 869,
+        "media_key": "3_2047673047910633472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrLybza0AAtbfr.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047673047910633472"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2047673059054952789",
+        "created_at": "2026-04-24T13:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047673059054952789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600024316552179713",
+              "start": 0,
+              "username": "kiki_qiqing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rsBRXjlczL",
+              "end": 51,
+              "expanded_url": "https://x.com/kawainegi/status/2047673059054952789/photo/1",
+              "media_key": "3_2047673047910633472",
+              "start": 28,
+              "url": "https://t.co/rsBRXjlczL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047673059054952789",
+        "in_reply_to_user_id": "1600024316552179713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@kiki_qiqing \n不客氣\n1000追蹤恭喜ㄌ https://t.co/rsBRXjlczL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 111,
+          "like_count": 2483,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 456
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "出厂日期2007.9.24 | mtx/f | 无证含糖 | 非二元 | 同类可以找我互fo，但最好说一声 |  大概是个泛性恋喵 | 170cm/55kg | 有点地雷 | 药娘共产主义）",
+        "id": "1600024316552179713",
+        "name": "祈晴🏳️‍⚧️🍥💛🤍💜🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998058486715072512/Shc3tli3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 331,
+          "like_count": 4788,
+          "listed_count": 4,
+          "media_count": 71,
+          "tweet_count": 1851
+        },
+        "username": "kiki_qiqing",
+        "verified": false
+      }
+    ]
+  }
+}

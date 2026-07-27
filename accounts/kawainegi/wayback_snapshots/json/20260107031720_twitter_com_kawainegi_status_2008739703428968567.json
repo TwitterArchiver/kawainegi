@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2008493452296900758",
+    "created_at": "2026-01-07T03:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T04:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008739703428968567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1599045921555517440",
+          "start": 0,
+          "username": "depression1203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008739703428968567",
+    "in_reply_to_user_id": "1599045921555517440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008493452296900758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@depression1203 馬鹿言ってんじゃねえよもう"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2008493452296900758",
+        "created_at": "2026-01-07T03:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T04:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008739703428968567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599045921555517440",
+              "start": 0,
+              "username": "depression1203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008739703428968567",
+        "in_reply_to_user_id": "1599045921555517440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008493452296900758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@depression1203 馬鹿言ってんじゃねえよもう"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599045921555517440",
+        "conversation_id": "2008493452296900758",
+        "created_at": "2026-01-06T10:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T11:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008493452296900758"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008493452296900758",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "【心に響かなくなった名言ランキング】\n\n第８位　神は乗り越えられる試練しか・・\n\n第７位　生きていれば良いことがある\n\n第６位　人生はプラスマイナスゼロ\n\n第５位　生きてるだけで丸儲け\n\n第４位　死ぬこと以外かすり傷\n\n第３位　努力は必ず報われる\n\n第２位　止まない雨はない\n\n第１位　明けない夜はない"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 63837,
+          "like_count": 911,
+          "quote_count": 27,
+          "reply_count": 53,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "【心に響かなくなった名言ランキング】\n\n第８位　神は乗り越えられる試練しか・・\n\n第７位　生きていれば良いことがある\n\n第６位　人生はプラスマイナスゼロ\n\n第５位　生きてるだけで丸儲け\n\n第４位　死ぬこと以外かすり傷\n\n第３位　努力は必ず報われる\n\n第２位　止まない雨はない\n\n第１位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "偶には参りにきてね",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 23
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T14:21:12.000Z",
+        "description": "「生きた証」で繋がる夢の世界🧙‍♂️🪄✨心を癒し合う居場所🌌素敵な出逢いと安心安全な交流を実現する夢ミル活動(ミル活)💐/会わないオフ会で刹那の夢のような体験🚀/「ストレート睡眠」に♡/星になるまで同じ空の下で🤝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/depression1203…",
+                "end": 23,
+                "expanded_url": "https://x.com/depression1203/status/1936221416514633786?s=46&t=iu-om0y2xJ0tS_FCPaTjYw",
+                "start": 0,
+                "url": "https://t.co/4brhrZERPf"
+              }
+            ]
+          }
+        },
+        "id": "1599045921555517440",
+        "location": "繋がる空の下",
+        "name": "ミル🥺",
+        "pinned_tweet_id": "1667904866814164997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1599208739445567488/p2bK5PG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26234,
+          "following_count": 13694,
+          "like_count": 316238,
+          "listed_count": 110,
+          "media_count": 3905,
+          "tweet_count": 125647
+        },
+        "url": "https://t.co/4brhrZERPf",
+        "username": "depression1203",
+        "verified": true
+      }
+    ]
+  }
+}

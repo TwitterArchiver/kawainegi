@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2015130165999718540",
+    "created_at": "2026-01-25T10:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T11:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015377153811173887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "855684823947587584",
+          "start": 0,
+          "username": "_orikitty_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015377153811173887",
+    "in_reply_to_user_id": "855684823947587584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015130165999718540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_orikitty_ また死ねないだけ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2015130165999718540",
+        "created_at": "2026-01-25T10:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T11:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015377153811173887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "855684823947587584",
+              "start": 0,
+              "username": "_orikitty_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015377153811173887",
+        "in_reply_to_user_id": "855684823947587584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015130165999718540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_orikitty_ また死ねないだけ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "855684823947587584",
+        "conversation_id": "2015130165999718540",
+        "created_at": "2026-01-24T18:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T19:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015130165999718540"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015130165999718540",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 220340,
+          "like_count": 1631,
+          "quote_count": 153,
+          "reply_count": 1215,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "みんななんで生きてるか教えて欲しい\n生きてる理由教えて欲しい\nおねがい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "偶には参りにきてね",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 23,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-22T07:28:54.000Z",
+        "description": "。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/chiffori",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/chiffori",
+                "start": 0,
+                "url": "https://t.co/OYevAfmqw1"
+              }
+            ]
+          }
+        },
+        "id": "855684823947587584",
+        "name": "オリキティ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012908870977417216/dwpcCGjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28632,
+          "following_count": 772,
+          "like_count": 49898,
+          "listed_count": 87,
+          "media_count": 120,
+          "tweet_count": 4149
+        },
+        "url": "https://t.co/OYevAfmqw1",
+        "username": "_orikitty_",
+        "verified": false
+      }
+    ]
+  }
+}

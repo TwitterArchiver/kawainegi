@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056605800844677120"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2056605812500631999",
+    "created_at": "2026-05-19T05:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T06:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056605812500631999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GzAO0riBiL",
+          "end": 43,
+          "expanded_url": "https://x.com/kawainegi/status/2056605812500631999/photo/1",
+          "media_key": "3_2056605800844677120",
+          "start": 20,
+          "url": "https://t.co/GzAO0riBiL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056605812500631999",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "MtX卒業してT-Xになるね\n全部殺せ https://t.co/GzAO0riBiL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2056605800844677120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqIFFpa0AAo8Wc.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056605800844677120"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2056605812500631999",
+        "created_at": "2026-05-19T05:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056605812500631999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzAO0riBiL",
+              "end": 43,
+              "expanded_url": "https://x.com/kawainegi/status/2056605812500631999/photo/1",
+              "media_key": "3_2056605800844677120",
+              "start": 20,
+              "url": "https://t.co/GzAO0riBiL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056605812500631999",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "MtX卒業してT-Xになるね\n全部殺せ https://t.co/GzAO0riBiL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 146,
+          "like_count": 4964,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 960
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

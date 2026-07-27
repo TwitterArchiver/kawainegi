@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061021562397163520"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2061021601928454594",
+    "created_at": "2026-05-31T09:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T10:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061021601928454594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xIwxZLndCL",
+          "end": 39,
+          "expanded_url": "https://x.com/kawainegi/status/2061021601928454594/photo/1",
+          "media_key": "3_2061021562397163520",
+          "start": 16,
+          "url": "https://t.co/xIwxZLndCL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061021601928454594",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "「同じようなミュージック」ww https://t.co/xIwxZLndCL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "3_2061021562397163520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJo4MPUagAAYPun.jpg",
+        "width": 2420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061021562397163520"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2061021601928454594",
+        "created_at": "2026-05-31T09:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061021601928454594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xIwxZLndCL",
+              "end": 39,
+              "expanded_url": "https://x.com/kawainegi/status/2061021601928454594/photo/1",
+              "media_key": "3_2061021562397163520",
+              "start": 16,
+              "url": "https://t.co/xIwxZLndCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061021601928454594",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「同じようなミュージック」ww https://t.co/xIwxZLndCL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 158,
+          "like_count": 6162,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1222
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

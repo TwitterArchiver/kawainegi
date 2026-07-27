@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2059970116859932931",
+    "created_at": "2026-05-28T12:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059982696177406300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1911292539505930240",
+          "start": 0,
+          "username": "1ciRhMUybV28235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059982696177406300",
+    "in_reply_to_user_id": "1911292539505930240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059970116859932931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1ciRhMUybV28235 楽になれるかぎ🔑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059970113663881216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZ753jbUAAue9r.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2059970116859932931",
+        "created_at": "2026-05-28T12:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059982696177406300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1911292539505930240",
+              "start": 0,
+              "username": "1ciRhMUybV28235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059982696177406300",
+        "in_reply_to_user_id": "1911292539505930240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059970116859932931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1ciRhMUybV28235 楽になれるかぎ🔑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059970113663881216"
+          ]
+        },
+        "author_id": "1911292539505930240",
+        "conversation_id": "2059970116859932931",
+        "created_at": "2026-05-28T12:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059970116859932931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QsJsNPEtFj",
+              "end": 28,
+              "expanded_url": "https://x.com/1ciRhMUybV28235/status/2059970116859932931/photo/1",
+              "media_key": "3_2059970113663881216",
+              "start": 5,
+              "url": "https://t.co/QsJsNPEtFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059970116859932931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "芝士神魔 https://t.co/QsJsNPEtFj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 157,
+          "like_count": 5926,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1175
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T05:37:26.000Z",
+        "description": "MTF🏳️‍⚧️ | 十七歳 | ホルモン使う2026.4.12💊 | 診断書ある | うつ病（中）と不安障害（軽）と社交障害 | 両性愛者✨ | 目標イラストレータ | od禁止 | 自傷🔪(私を勉強するな!!!) |  infp-t | 本命サカナクション | キモチでフォロバ",
+        "id": "1911292539505930240",
+        "name": "銀輝烈焔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924351906442252288/xc4EUxLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 190,
+          "like_count": 488,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 83
+        },
+        "username": "1ciRhMUybV28235",
+        "verified": false
+      }
+    ]
+  }
+}

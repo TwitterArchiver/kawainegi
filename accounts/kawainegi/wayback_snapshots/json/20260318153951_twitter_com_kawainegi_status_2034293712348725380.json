@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2034033185848532999",
+    "created_at": "2026-03-18T15:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T16:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034293712348725380"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "お娘さん",
+          "probability": 0.8117,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1482603428954005504",
+          "start": 0,
+          "username": "OT1bPihOqRiq6ha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034293712348725380",
+    "in_reply_to_user_id": "1482603428954005504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034033185848532999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OT1bPihOqRiq6ha お娘さんが幸せでありますように"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2034033185848532999",
+        "created_at": "2026-03-18T15:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T16:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034293712348725380"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "お娘さん",
+              "probability": 0.8117,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1482603428954005504",
+              "start": 0,
+              "username": "OT1bPihOqRiq6ha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034293712348725380",
+        "in_reply_to_user_id": "1482603428954005504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034033185848532999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OT1bPihOqRiq6ha お娘さんが幸せでありますように"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482603428954005504",
+        "conversation_id": "2034033185848532999",
+        "created_at": "2026-03-17T22:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T23:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034033185848532999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034033185848532999",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 234,
+          "impression_count": 189567,
+          "like_count": 3811,
+          "quote_count": 16,
+          "reply_count": 25,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "娘は19歳で自死した\n\nたった19年間しか生きてなかった\n\n悩んでる時間の方が多かっただろうし\nはっきり覚えてるだろう\n\nすくない楽しかった時間も\n覚えてくれてるだろうか\n\n笑い合ってた時間\n覚えてくれてるだろうか"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "人生終了",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 35,
+          "like_count": 712,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 88
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-16T06:40:01.000Z",
+        "description": "2021年2月3日に娘が自死しました。19歳でした。元夫はモラハラ、DV。しかし、審判離婚で、子供達は元夫と住むことに。実母も孫達(私の子供達)に教育ハラスメントなので、ひきとれず母子家庭できませんでした。娘の自死は父親と祖母の言葉と態度の暴力 が原因。私は、娘を守りきれなかったダメ人間。後悔と、地獄の毎日。",
+        "id": "1482603428954005504",
+        "location": "日本 ",
+        "name": "りゅうねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1482606250470694913/vfsXPBum_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 84,
+          "like_count": 7025,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 2737
+        },
+        "username": "OT1bPihOqRiq6ha",
+        "verified": false
+      }
+    ]
+  }
+}

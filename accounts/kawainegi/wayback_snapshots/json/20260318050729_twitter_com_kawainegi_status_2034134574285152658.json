@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2034045236050354209",
+    "created_at": "2026-03-18T05:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T06:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034134574285152658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998791279350874112",
+          "start": 0,
+          "username": "Yamawuchimisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034134574285152658",
+    "in_reply_to_user_id": "1998791279350874112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034045236050354209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamawuchimisaki 提醒大家\n其實可以不登校，不是只有死路一條"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2034045236050354209",
+        "created_at": "2026-03-18T05:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T06:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034134574285152658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998791279350874112",
+              "start": 0,
+              "username": "Yamawuchimisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034134574285152658",
+        "in_reply_to_user_id": "1998791279350874112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034045236050354209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamawuchimisaki 提醒大家\n其實可以不登校，不是只有死路一條"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998791279350874112",
+        "conversation_id": "2034045236050354209",
+        "created_at": "2026-03-17T23:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T00:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034045236050354209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034045236050354209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9752,
+          "like_count": 316,
+          "quote_count": 4,
+          "reply_count": 25,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "有一年春天，我们小区里一个高三的女生从楼上跳下来自杀了\n一大堆人围在警戒线外面看热闹\n它们说：\n现在的小孩怎么这么矫情，这么懦弱\n我们那个时候条件比现在苦多了\n现在小孩就是条件太好，生在福中不知福\n说到底还是逃避学习\n...\n\n这他妈的才是真支黑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "システム終了",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 32,
+          "like_count": 692,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 83
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T16:26:03.000Z",
+        "description": "🇫🇮🇯🇵🇺🇦🇮🇱。请叫我唯酱或者我的全名：山内美咲。我有严重抑郁症双相情感障碍病例，宛平南路600号常客，不许骂我欺负我，骂我的人必定全家死光🖕 你骂我我就哭哭很难哄的😿兴趣：YOASOBI,Taylor Swift,ボカロ,アニメ,アークナイツ,ブルアカ",
+        "id": "1998791279350874112",
+        "location": "Shanghai",
+        "name": "唯ちゃんがうっとうしい 🇫🇮🇯🇵🇺🇦🇮🇱",
+        "pinned_tweet_id": "2019022518116565328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030593487264182272/oWENhdPV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 508,
+          "like_count": 3632,
+          "listed_count": 5,
+          "media_count": 420,
+          "tweet_count": 3099
+        },
+        "username": "Yamawuchimisaki",
+        "verified": false
+      }
+    ]
+  }
+}

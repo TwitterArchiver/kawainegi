@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2058455618261061838",
+    "created_at": "2026-05-24T07:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T08:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058455618261061838"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058455618261061838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因為沒辦法選擇的所以來到這個世界了\n因為還沒離開這個世界所以還在為了不屬於自己的人生拼命掙扎著努力著"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2058455618261061838",
+        "created_at": "2026-05-24T07:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058455618261061838"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058455618261061838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因為沒辦法選擇的所以來到這個世界了\n因為還沒離開這個世界所以還在為了不屬於自己的人生拼命掙扎著努力著"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 149,
+          "like_count": 5443,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1082
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2078726479085817877",
+    "created_at": "2026-07-20T00:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T01:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079007431238336905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1680390281777278977",
+          "start": 0,
+          "username": "josana3xluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079007431238336905",
+    "in_reply_to_user_id": "1680390281777278977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078726479085817877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@josana3xluv 如果還會被叫第二次我會直接糾正 如果不會我一般直接走人）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2078726479085817877",
+        "created_at": "2026-07-20T00:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T01:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079007431238336905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1680390281777278977",
+              "start": 0,
+              "username": "josana3xluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079007431238336905",
+        "in_reply_to_user_id": "1680390281777278977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078726479085817877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@josana3xluv 如果還會被叫第二次我會直接糾正 如果不會我一般直接走人）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680390281777278977",
+        "conversation_id": "2078726479085817877",
+        "created_at": "2026-07-19T06:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078726479085817877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078726479085817877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被叫过美女之后再叫帅哥就浑身不舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "是一隻不可愛的小跨妹",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 164,
+          "like_count": 6726,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1363
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T01:34:17.000Z",
+        "description": "=josana    \n义乌旗帜厂流水线女工\n可以找我借雌激素",
+        "id": "1680390281777278977",
+        "name": "朝三爱",
+        "pinned_tweet_id": "2025987675036242394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004819359747760128/VH93gJwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 1920,
+          "like_count": 5857,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1323
+        },
+        "url": "",
+        "username": "josana3xluv",
+        "verified": false
+      }
+    ]
+  }
+}

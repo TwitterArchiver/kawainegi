@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2007762211583021352",
+    "created_at": "2026-01-04T11:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T12:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007778449126261034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1537417938583826432",
+          "start": 0,
+          "username": "N_NEKO_mizu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007778449126261034",
+    "in_reply_to_user_id": "1537417938583826432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007762211583021352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N_NEKO_mizu 綺麗て大好き"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_2007762206230982656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G90BFsfaMAA5dCz.jpg",
+        "width": 2673
+      },
+      {
+        "height": 4093,
+        "media_key": "3_2007762205534777345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G90BFp5a8AEPTUc.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2007762211583021352",
+        "created_at": "2026-01-04T11:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T12:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007778449126261034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1537417938583826432",
+              "start": 0,
+              "username": "N_NEKO_mizu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007778449126261034",
+        "in_reply_to_user_id": "1537417938583826432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007762211583021352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N_NEKO_mizu 綺麗て大好き"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007762206230982656",
+            "3_2007762205534777345"
+          ]
+        },
+        "author_id": "1537417938583826432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2007762211583021352",
+        "created_at": "2026-01-04T10:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T11:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007762211583021352"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "illustration"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JZjOQox6lB",
+              "end": 37,
+              "expanded_url": "https://x.com/N_NEKO_mizu/status/2007762211583021352/photo/1",
+              "media_key": "3_2007762206230982656",
+              "start": 14,
+              "url": "https://t.co/JZjOQox6lB"
+            },
+            {
+              "display_url": "pic.x.com/JZjOQox6lB",
+              "end": 37,
+              "expanded_url": "https://x.com/N_NEKO_mizu/status/2007762211583021352/photo/1",
+              "media_key": "3_2007762205534777345",
+              "start": 14,
+              "url": "https://t.co/JZjOQox6lB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007762211583021352",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1771,
+          "like_count": 229,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "#illustration https://t.co/JZjOQox6lB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "偶には参りにきてね",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 18,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-16T12:53:30.000Z",
+        "description": "らんです。🩸🐾創作版権女子    マシュマロ▶https://t.co/DYoLNVDoOk\n           #らんの家  FA▶#らんのエサやり",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "らんの家"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "tag": "らんのエサやり"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/7ttj32qufke0fcz",
+                "end": 46,
+                "expanded_url": "https://marshmallow-qa.com/7ttj32qufke0fcz",
+                "start": 23,
+                "url": "https://t.co/DYoLNVDoOk"
+              }
+            ]
+          }
+        },
+        "id": "1537417938583826432",
+        "name": "らんねこ。",
+        "pinned_tweet_id": "1978408006569058613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980946411421057024/MYSRNUFO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7450,
+          "following_count": 697,
+          "like_count": 44761,
+          "listed_count": 35,
+          "media_count": 259,
+          "tweet_count": 24176
+        },
+        "username": "N_NEKO_mizu",
+        "verified": false
+      }
+    ]
+  }
+}

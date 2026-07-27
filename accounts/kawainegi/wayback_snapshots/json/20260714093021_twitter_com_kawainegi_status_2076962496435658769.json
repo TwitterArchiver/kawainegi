@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076962450789093376"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2076962496435658769",
+    "created_at": "2026-07-14T09:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T10:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076962496435658769"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mi13E2KdAH",
+          "end": 32,
+          "expanded_url": "https://x.com/kawainegi/status/2076962496435658769/photo/1",
+          "media_key": "3_2076962450789093376",
+          "start": 9,
+          "url": "https://t.co/Mi13E2KdAH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076962496435658769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "いまどうしてる？ https://t.co/Mi13E2KdAH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2076962450789093376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLaWEMb0AARDXI.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076962450789093376"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2076962496435658769",
+        "created_at": "2026-07-14T09:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076962496435658769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mi13E2KdAH",
+              "end": 32,
+              "expanded_url": "https://x.com/kawainegi/status/2076962496435658769/photo/1",
+              "media_key": "3_2076962450789093376",
+              "start": 9,
+              "url": "https://t.co/Mi13E2KdAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076962496435658769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "いまどうしてる？ https://t.co/Mi13E2KdAH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "是一隻不可愛的小跨妹",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 155,
+          "like_count": 6523,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1312
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

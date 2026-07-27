@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042085530511536134",
+        "3_2042085530578644996",
+        "3_2042085530519982080"
+      ],
+      "media_source_tweet_id": [
+        "2042085573788381216",
+        "2042085573788381216",
+        "2042085573788381216"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2042235614956057031",
+    "created_at": "2026-04-09T13:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T14:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042235614956057031"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 15,
+          "tag": "ルリドラゴン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "791660583590375426",
+          "start": 3,
+          "username": "CANNA1009"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ume498ePBj",
+          "end": 62,
+          "expanded_url": "https://x.com/CANNA1009/status/2042085573788381216/photo/1",
+          "media_key": "3_2042085530511536134",
+          "start": 39,
+          "url": "https://t.co/Ume498ePBj"
+        },
+        {
+          "display_url": "pic.x.com/Ume498ePBj",
+          "end": 62,
+          "expanded_url": "https://x.com/CANNA1009/status/2042085573788381216/photo/1",
+          "media_key": "3_2042085530578644996",
+          "start": 39,
+          "url": "https://t.co/Ume498ePBj"
+        },
+        {
+          "display_url": "pic.x.com/Ume498ePBj",
+          "end": 62,
+          "expanded_url": "https://x.com/CANNA1009/status/2042085573788381216/photo/1",
+          "media_key": "3_2042085530519982080",
+          "start": 39,
+          "url": "https://t.co/Ume498ePBj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042235614956057031",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042085573788381216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CANNA1009: #ルリドラゴン\nルリちゃん描くの楽しいです🟦🎨 https://t.co/Ume498ePBj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2042085530511536134",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbx-Hca8AY9P9V.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2042085530578644996",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbx-Hsa8AQ0kx1.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2042085530519982080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbx-Heb0AA39hu.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042085530511536134",
+            "3_2042085530578644996",
+            "3_2042085530519982080"
+          ],
+          "media_source_tweet_id": [
+            "2042085573788381216",
+            "2042085573788381216",
+            "2042085573788381216"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2042235614956057031",
+        "created_at": "2026-04-09T13:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042235614956057031"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "ルリドラゴン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "791660583590375426",
+              "start": 3,
+              "username": "CANNA1009"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ume498ePBj",
+              "end": 62,
+              "expanded_url": "https://x.com/CANNA1009/status/2042085573788381216/photo/1",
+              "media_key": "3_2042085530511536134",
+              "start": 39,
+              "url": "https://t.co/Ume498ePBj"
+            },
+            {
+              "display_url": "pic.x.com/Ume498ePBj",
+              "end": 62,
+              "expanded_url": "https://x.com/CANNA1009/status/2042085573788381216/photo/1",
+              "media_key": "3_2042085530578644996",
+              "start": 39,
+              "url": "https://t.co/Ume498ePBj"
+            },
+            {
+              "display_url": "pic.x.com/Ume498ePBj",
+              "end": 62,
+              "expanded_url": "https://x.com/CANNA1009/status/2042085573788381216/photo/1",
+              "media_key": "3_2042085530519982080",
+              "start": 39,
+              "url": "https://t.co/Ume498ePBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042235614956057031",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042085573788381216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CANNA1009: #ルリドラゴン\nルリちゃん描くの楽しいです🟦🎨 https://t.co/Ume498ePBj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042085530511536134",
+            "3_2042085530578644996",
+            "3_2042085530519982080"
+          ]
+        },
+        "author_id": "791660583590375426",
+        "conversation_id": "2042085573788381216",
+        "created_at": "2026-04-09T03:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042085573788381216"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "ルリドラゴン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ume498ePBj",
+              "end": 47,
+              "expanded_url": "https://x.com/CANNA1009/status/2042085573788381216/photo/1",
+              "media_key": "3_2042085530511536134",
+              "start": 24,
+              "url": "https://t.co/Ume498ePBj"
+            },
+            {
+              "display_url": "pic.x.com/Ume498ePBj",
+              "end": 47,
+              "expanded_url": "https://x.com/CANNA1009/status/2042085573788381216/photo/1",
+              "media_key": "3_2042085530578644996",
+              "start": 24,
+              "url": "https://t.co/Ume498ePBj"
+            },
+            {
+              "display_url": "pic.x.com/Ume498ePBj",
+              "end": 47,
+              "expanded_url": "https://x.com/CANNA1009/status/2042085573788381216/photo/1",
+              "media_key": "3_2042085530519982080",
+              "start": 24,
+              "url": "https://t.co/Ume498ePBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042085573788381216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 11951,
+          "like_count": 1140,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "#ルリドラゴン\nルリちゃん描くの楽しいです🟦🎨 https://t.co/Ume498ePBj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "メンヘラって呼ばないで…",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 47,
+          "like_count": 1282,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 187
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-27T15:19:26.000Z",
+        "description": "ぶりーちがすき。",
+        "id": "791660583590375426",
+        "location": "『エヴァ』『ソウルイーター』『おやすみプンプン』『亜人』",
+        "name": "☻やまちゃん☻",
+        "pinned_tweet_id": "1667490239806586882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1305101158747316231/KESrq8ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2752,
+          "following_count": 1075,
+          "like_count": 68873,
+          "listed_count": 15,
+          "media_count": 3207,
+          "tweet_count": 6720
+        },
+        "username": "CANNA1009",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2006745256205984205",
+    "created_at": "2026-01-02T11:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T12:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007055394443862219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1004048616",
+          "start": 0,
+          "username": "takshi_77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007055394443862219",
+    "in_reply_to_user_id": "1004048616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006745256205984205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@takshi_77 光輝歳月ですか"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15139,
+        "height": 960,
+        "media_key": "13_1965603583455338497",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1965603583455338497/img/jGYIUqYR3MXhcfHU.jpg",
+        "public_metrics": {
+          "view_count": 2850674
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965603583455338497/vid/avc1/320x426/CPQcrHFBIdygUl0r.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965603583455338497/vid/avc1/480x640/HcfJA5qJRitxrXmj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965603583455338497/vid/avc1/720x960/HAiWz0Bd0SjJTMjX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1965603583455338497/pl/l29m3R6n7vsoziUD.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2006745256205984205",
+        "created_at": "2026-01-02T11:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T12:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007055394443862219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1004048616",
+              "start": 0,
+              "username": "takshi_77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007055394443862219",
+        "in_reply_to_user_id": "1004048616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006745256205984205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@takshi_77 光輝歳月ですか"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1965603583455338497"
+          ],
+          "media_source_tweet_id": [
+            "1965634085440684180"
+          ]
+        },
+        "author_id": "1004048616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          }
+        ],
+        "conversation_id": "2006745256205984205",
+        "created_at": "2026-01-01T15:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T16:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006745256205984205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pxpe7ipvxt",
+              "end": 151,
+              "expanded_url": "https://x.com/i/status/1965634085440684180/video/1",
+              "media_key": "13_1965603583455338497",
+              "start": 128,
+              "url": "https://t.co/Pxpe7ipvxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006745256205984205",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1067,
+          "impression_count": 595136,
+          "like_count": 5286,
+          "quote_count": 119,
+          "reply_count": 35,
+          "retweet_count": 1261
+        },
+        "reply_settings": "everyone",
+        "text": "ギターを弾く一つの形として良いですね…左手が不自由な方で「コード進行だけでもできれば嬉しいんだけど…」とリハビリ中に仰る方もおられます。コード進行は指の形が複雑なため麻痺等により難しい事もあります。そんな際の選択肢として良いかも…一度体験してみたいです\n https://t.co/Pxpe7ipvxt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "偶には参りにきてね",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 17,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-11T13:39:15.000Z",
+        "description": "大阪公立大学| 教授| 博士（医学）|作業療法士| 脳卒中後の手の麻痺のリハ開発| ロボット開発| 片手で使える道具開発| 国内外医学論文多数| NHK等のメディア対応経験多数| 所属関係なく個人の意見| アニメ/漫画好き|Ado/ずとまよ/Vaundy/YOASOBI|医療に関わる個人相談には対応しておりません|",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/YF4qDWQ45U0",
+                "end": 23,
+                "expanded_url": "https://youtu.be/YF4qDWQ45U0",
+                "start": 0,
+                "url": "https://t.co/PNA5vtLF6A"
+              }
+            ]
+          }
+        },
+        "id": "1004048616",
+        "name": "竹林 崇@脳卒中リハの専門家, 作業療法士, PhD（医学）",
+        "pinned_tweet_id": "1467878023626358785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589975204935061504/MghfkgrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51787,
+          "following_count": 185,
+          "like_count": 13096,
+          "listed_count": 372,
+          "media_count": 6109,
+          "tweet_count": 60089
+        },
+        "url": "https://t.co/PNA5vtLF6A",
+        "username": "takshi_77",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2059247940196343836",
+    "created_at": "2026-05-27T04:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059487288548376878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1528380173116391424",
+          "start": 0,
+          "username": "Rhxe2628"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059487288548376878",
+    "in_reply_to_user_id": "1528380173116391424",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059247940196343836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rhxe2628 😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059247937189015552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPrFqibcAAaSXw.jpg",
+        "width": 1489
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2059247940196343836",
+        "created_at": "2026-05-27T04:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059487288548376878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1528380173116391424",
+              "start": 0,
+              "username": "Rhxe2628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059487288548376878",
+        "in_reply_to_user_id": "1528380173116391424",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059247940196343836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rhxe2628 😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059247937189015552"
+          ]
+        },
+        "author_id": "1528380173116391424",
+        "conversation_id": "2059247940196343836",
+        "created_at": "2026-05-26T12:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059247940196343836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5xTzeKVuBx",
+              "end": 35,
+              "expanded_url": "https://x.com/Rhxe2628/status/2059247940196343836/photo/1",
+              "media_key": "3_2059247937189015552",
+              "start": 12,
+              "url": "https://t.co/5xTzeKVuBx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059247940196343836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "首诊，好奇这算小证嘛？ https://t.co/5xTzeKVuBx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 154,
+          "like_count": 5682,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1137
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-22T14:20:18.000Z",
+        "description": "福建小药娘🍬/08.3.8/168 69/准大专牲/无证含糖/MTF/4i/初中开始小剂量吃糖不过断了挺长时间，去年重新开始/目前家长放养状态",
+        "id": "1528380173116391424",
+        "name": "榕小欢🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014553269243146240/doIwHvE4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 43,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 26
+        },
+        "username": "Rhxe2628",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2037686658988921157",
+    "created_at": "2026-03-28T04:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T05:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037750798923579545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024210421373444096",
+          "start": 0,
+          "username": "blingbling712"
+        },
+        {
+          "end": 30,
+          "id": "1534773109940789248",
+          "start": 15,
+          "username": "rainchngshainn"
+        },
+        {
+          "end": 40,
+          "id": "1962556266196418560",
+          "start": 31,
+          "username": "HCl_Chen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037750798923579545",
+    "in_reply_to_user_id": "2024210421373444096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037686658988921157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blingbling712 @rainchngshainn @HCl_Chen 哇哇\n我也能來就好了咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1480,
+        "media_key": "3_2037686627254898688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdRMP0XkAAUp7J.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2037686658988921157",
+        "created_at": "2026-03-28T04:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T05:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037750798923579545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024210421373444096",
+              "start": 0,
+              "username": "blingbling712"
+            },
+            {
+              "end": 30,
+              "id": "1534773109940789248",
+              "start": 15,
+              "username": "rainchngshainn"
+            },
+            {
+              "end": 40,
+              "id": "1962556266196418560",
+              "start": 31,
+              "username": "HCl_Chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037750798923579545",
+        "in_reply_to_user_id": "2024210421373444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037686658988921157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blingbling712 @rainchngshainn @HCl_Chen 哇哇\n我也能來就好了咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037686627254898688"
+          ]
+        },
+        "author_id": "2024210421373444096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037686658988921157",
+        "created_at": "2026-03-28T00:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T01:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037686658988921157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1534773109940789248",
+              "start": 3,
+              "username": "rainchngshainn"
+            },
+            {
+              "end": 28,
+              "id": "1962556266196418560",
+              "start": 19,
+              "username": "HCl_Chen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f9asQgeDfs",
+              "end": 52,
+              "expanded_url": "https://x.com/blingbling712/status/2037686658988921157/photo/1",
+              "media_key": "3_2037686627254898688",
+              "start": 29,
+              "url": "https://t.co/f9asQgeDfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037686658988921157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "见面！@rainchngshainn @HCl_Chen https://t.co/f9asQgeDfs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "メンヘラって呼ばないで…",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 44,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 129
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 245,
+          "like_count": 3613,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 613
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-09T05:43:39.000Z",
+        "description": "一位神秘的mtf ≽^•⩊•^≼ 🇨🇦 大一生物在读，分享一些日常, 中/Eng/日, 欢迎同类互fo， よろしくお願い！好妹妹🥰：@blingbling712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 66,
+                "username": "blingbling712"
+              }
+            ]
+          }
+        },
+        "id": "1534773109940789248",
+        "location": "Toronto, Ontario",
+        "name": "Rainchngshainn 云欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951680042330890240/9ErV2EFR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 531,
+          "like_count": 5379,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 740
+        },
+        "username": "rainchngshainn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T16:41:00.000Z",
+        "description": "是稀盐酸\nA cup of 0.1M HCl(aq)\n前化竞人，BBO，BCHO，CCHO老登\n没闯出名堂的家伙\nUofTSG G1 LifeSci 在读\n好痛苦",
+        "id": "1962556266196418560",
+        "name": "HCl_HClO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000629619783872521/Q3L3wRRQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 116,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 462
+        },
+        "username": "HCl_Chen",
+        "verified": true
+      }
+    ]
+  }
+}

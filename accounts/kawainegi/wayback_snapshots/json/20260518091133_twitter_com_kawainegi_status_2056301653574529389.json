@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056301637216677888"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2056301653574529389",
+    "created_at": "2026-05-18T09:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T10:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056301653574529389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rHAuVX8i8S",
+          "end": 50,
+          "expanded_url": "https://x.com/kawainegi/status/2056301653574529389/photo/1",
+          "media_key": "3_2056301637216677888",
+          "start": 27,
+          "url": "https://t.co/rHAuVX8i8S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056301653574529389",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Trans from Apple Store (!! https://t.co/rHAuVX8i8S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2056301637216677888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlzcb1asAAJmuN.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056301637216677888"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2056301653574529389",
+        "created_at": "2026-05-18T09:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056301653574529389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rHAuVX8i8S",
+              "end": 50,
+              "expanded_url": "https://x.com/kawainegi/status/2056301653574529389/photo/1",
+              "media_key": "3_2056301637216677888",
+              "start": 27,
+              "url": "https://t.co/rHAuVX8i8S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056301653574529389",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Trans from Apple Store (!! https://t.co/rHAuVX8i8S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 146,
+          "like_count": 4920,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 948
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

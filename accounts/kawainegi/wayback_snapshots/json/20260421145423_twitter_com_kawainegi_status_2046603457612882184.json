@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2046591288716439912",
+    "created_at": "2026-04-21T14:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046603457612882184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "saonanaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046603457612882184",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046591288716439912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saonanaa 化妝 保養 防曬 也是女生們常做的事情\n開頭可能會難\n但pass帶來的自信力和肯定感是有回本的🍬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2046591288716439912",
+        "created_at": "2026-04-21T14:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046603457612882184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046603457612882184",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046591288716439912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saonanaa 化妝 保養 防曬 也是女生們常做的事情\n開頭可能會難\n但pass帶來的自信力和肯定感是有回本的🍬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "2046591288716439912",
+        "created_at": "2026-04-21T14:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046591288716439912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046591288716439912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我发现如果想要让自己变pass，这件事要花不少钱\n\n需要买化妆品，需要去做医美，需要定期脱毛护肤hrt，还需要每天注意防晒，还需要花钱买衣服花时间搭配\n\n这对于我来说实属困难，况且我也没有每天rle出门，我也几乎从来没有被当成女的过，我承认我在这件事上很消极，但我至少深刻意识到\n我就是长得难看我就是底子不好，我摆烂"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 375,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现如果想要让自己变pass，这件事要花不少钱\n\n需要买化妆品，需要去做医美，需要定期脱毛护肤hrt，还需要每天注意防晒，还需要花钱买衣服花时间搭配\n\n这对于我来说实属困难，况且我也没有每天rle出门，我也几乎从来没有被当成女的过，我承认我在这件事上很消极，但我至少深刻意识到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 99,
+          "like_count": 2174,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 350
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜ 想要每天耍乐到处玩 ✈️｜我构建 OneLauncher/.NET 👩‍💻｜Minecraft & R＊ 🎮｜Never 碰碰 Car｜ ❤️💦🐱👊：@lovelyshuimao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 86,
+                "username": "lovelyshuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "2045171291104403596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042459177029943300/pXQSA0qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7363,
+          "following_count": 443,
+          "like_count": 33683,
+          "listed_count": 19,
+          "media_count": 2492,
+          "tweet_count": 19955
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

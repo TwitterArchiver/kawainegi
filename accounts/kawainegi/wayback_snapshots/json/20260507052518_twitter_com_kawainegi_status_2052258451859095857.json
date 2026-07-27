@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2052026016965734610",
+    "created_at": "2026-05-07T05:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T06:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052258451859095857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1747180238810021888",
+          "start": 0,
+          "username": "wwj23355"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/kawainegi/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/kawainegi/status/2048576130974908682",
+          "start": 24,
+          "url": "https://t.co/6vaT9GBaIs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052258451859095857",
+    "in_reply_to_user_id": "1747180238810021888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048576130974908682",
+        "type": "quoted"
+      },
+      {
+        "id": "2052026016965734610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwj23355 インターネット好きでしたか https://t.co/6vaT9GBaIs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2052026016965734610",
+        "created_at": "2026-05-07T05:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052258451859095857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1747180238810021888",
+              "start": 0,
+              "username": "wwj23355"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kawainegi/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/kawainegi/status/2048576130974908682",
+              "start": 24,
+              "url": "https://t.co/6vaT9GBaIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052258451859095857",
+        "in_reply_to_user_id": "1747180238810021888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048576130974908682",
+            "type": "quoted"
+          },
+          {
+            "id": "2052026016965734610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwj23355 インターネット好きでしたか https://t.co/6vaT9GBaIs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2048576130974908682",
+        "created_at": "2026-04-27T01:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048576130974908682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048576130974908682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "インターネット好きでしたか"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747180238810021888",
+        "conversation_id": "2052026016965734610",
+        "created_at": "2026-05-06T14:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052026016965734610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052026016965734610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "インターネットをやめたくないわT^T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 130,
+          "like_count": 3697,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 665
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T08:53:40.000Z",
+        "description": "Ciallo～～(∠・ω)⌒☆\n｜重抑轻焦 (康复中?)｜不od (?) 不割手 (?) 不登校｜183 60的mtf?() | 无证含糖｜HRT: 26.04.27 |睡眠重度依赖｜满级颓废｜玩车｜BA | CN/EN/KR/JP prob OK |\n｜生产日期：08.09.13｜\n天天发一些负能量傻逼言论真的对不起",
+        "id": "1747180238810021888",
+        "name": "WVKI233333🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044056098873978883/TB8Ilmi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 314,
+          "like_count": 1762,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 627
+        },
+        "url": "",
+        "username": "wwj23355",
+        "verified": false
+      }
+    ]
+  }
+}

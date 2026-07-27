@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2041741296394760700",
+    "created_at": "2026-04-08T09:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T10:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041805793486631249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "106663044",
+          "start": 0,
+          "username": "sanjun27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041805793486631249",
+    "in_reply_to_user_id": "106663044",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041741296394760700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanjun27 函数"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2041741296394760700",
+        "created_at": "2026-04-08T09:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T10:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041805793486631249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "106663044",
+              "start": 0,
+              "username": "sanjun27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041805793486631249",
+        "in_reply_to_user_id": "106663044",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041741296394760700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanjun27 函数"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "106663044",
+        "conversation_id": "2041741296394760700",
+        "created_at": "2026-04-08T04:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041741296394760700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041741296394760700",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 188,
+          "impression_count": 1416713,
+          "like_count": 1422,
+          "quote_count": 819,
+          "reply_count": 963,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "函館の「函」の漢字、函館以外で使い所ない説。\n\nもしご存知の方は教えてください。ネットで調べるの厳禁。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "メンヘラって呼ばないで…",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 47,
+          "like_count": 1215,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 179
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-20T07:47:34.000Z",
+        "description": "千葉県出身・東京都在住、ググったら47歳らしい。ロケットニュース24のライターです。常に「ガチ・フルスイング・一筆入魂」で戦うことを誓います。インスタもやってます。https://t.co/mUKDfGGO4g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/p.k.sanjun/",
+                "end": 105,
+                "expanded_url": "http://Instagram.com/p.k.sanjun/",
+                "start": 82,
+                "url": "https://t.co/mUKDfGGO4g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rocketnews24.com/author/sanjun/",
+                "end": 23,
+                "expanded_url": "http://rocketnews24.com/author/sanjun/",
+                "start": 0,
+                "url": "https://t.co/VZPxc35SDG"
+              }
+            ]
+          }
+        },
+        "id": "106663044",
+        "location": "TOKYO",
+        "name": "P.K.サンジュン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/953824800568262656/6Jkv_7IK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10102,
+          "following_count": 568,
+          "like_count": 1401,
+          "listed_count": 54,
+          "media_count": 1835,
+          "tweet_count": 7843
+        },
+        "url": "https://t.co/VZPxc35SDG",
+        "username": "sanjun27",
+        "verified": false
+      }
+    ]
+  }
+}

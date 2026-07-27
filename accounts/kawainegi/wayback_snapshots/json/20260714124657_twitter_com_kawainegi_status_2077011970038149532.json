@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2077011970038149532",
+    "created_at": "2026-07-14T12:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077011970038149532"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077011970038149532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本人回來ㄌ\n結局是一點都沒有對得起從12層窗台伸出兩足兩手推自己下去的勇氣\n\n但是這次機會跟家人談妥了SRS的事情，才討論了幾分鐘就要決定A錢給我做，除了我妹A不出來以外( ；´Д｀)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2077011970038149532",
+        "created_at": "2026-07-14T12:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077011970038149532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077011970038149532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人回來ㄌ\n結局是一點都沒有對得起從12層窗台伸出兩足兩手推自己下去的勇氣\n\n但是這次機會跟家人談妥了SRS的事情，才討論了幾分鐘就要決定A錢給我做，除了我妹A不出來以外( ；´Д｀)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "是一隻不可愛的小跨妹",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 156,
+          "like_count": 6534,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1315
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

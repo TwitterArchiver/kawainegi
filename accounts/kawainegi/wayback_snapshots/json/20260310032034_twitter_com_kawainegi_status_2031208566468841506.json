@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2030564365674725512",
+    "created_at": "2026-03-10T03:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T04:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031208566468841506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1477683163757703168",
+          "start": 0,
+          "username": "aaaannn0111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031208566468841506",
+    "in_reply_to_user_id": "1477683163757703168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030564365674725512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaannn0111 もしかして、ストレスがない？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2030564365674725512",
+        "created_at": "2026-03-10T03:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T04:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031208566468841506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1477683163757703168",
+              "start": 0,
+              "username": "aaaannn0111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031208566468841506",
+        "in_reply_to_user_id": "1477683163757703168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030564365674725512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaannn0111 もしかして、ストレスがない？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477683163757703168",
+        "conversation_id": "2030564365674725512",
+        "created_at": "2026-03-08T08:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T09:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030564365674725512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030564365674725512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 407,
+          "impression_count": 1808257,
+          "like_count": 6096,
+          "quote_count": 841,
+          "reply_count": 357,
+          "retweet_count": 269
+        },
+        "reply_settings": "everyone",
+        "text": "リストカットとかオーバードーズしてない人ってどうやってストレス発散してるの？\n\n教えてください"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "システム終了",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 28,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 52
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-02T16:48:33.000Z",
+        "description": "￤01￤うつ病患者の日常￤死にたがり￤自己肯定感皆無￤#うつ病￤#解離性障害￤#心的外傷後ストレス障害￤手帳3級￤自立支援医療￤精神病棟入院6回（解放2回）（閉鎖4回）￤身体拘束2回￤ECT10回￤1児のママ￤自傷・ODします￤DM○(男性❌)￤通話×￤勧誘垢・エロ垢ブロ￤サブ垢です@nanasinomaigo20",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 27,
+                "tag": "うつ病"
+              },
+              {
+                "end": 38,
+                "start": 32,
+                "tag": "解離性障害"
+              },
+              {
+                "end": 51,
+                "start": 39,
+                "tag": "心的外傷後ストレス障害"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 158,
+                "start": 142,
+                "username": "nanasinomaigo20"
+              }
+            ]
+          }
+        },
+        "id": "1477683163757703168",
+        "name": "名無しの迷子",
+        "pinned_tweet_id": "2025380368191553747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948194987751133184/Kw0IImtm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 690,
+          "like_count": 6672,
+          "listed_count": 6,
+          "media_count": 41,
+          "tweet_count": 2845
+        },
+        "username": "aaaannn0111",
+        "verified": false
+      }
+    ]
+  }
+}

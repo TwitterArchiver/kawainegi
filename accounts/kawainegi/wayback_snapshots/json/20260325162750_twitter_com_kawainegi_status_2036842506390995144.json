@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036491153659584512"
+      ],
+      "media_source_tweet_id": [
+        "2036491158361350553"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2036842506390995144",
+    "created_at": "2026-03-25T16:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T17:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036842506390995144"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "へらしば"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2031240049992646656",
+          "start": 3,
+          "username": "HeraShiba"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UY0NkKXQMg",
+          "end": 77,
+          "expanded_url": "https://x.com/HeraShiba/status/2036491158361350553/photo/1",
+          "media_key": "3_2036491153659584512",
+          "start": 54,
+          "url": "https://t.co/UY0NkKXQMg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036842506390995144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036491158361350553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HeraShiba: #へらしば\nメンヘラ豆しばの豆知識\nODやリスカをするのは「生きたい」から？ https://t.co/UY0NkKXQMg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2036491153659584512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEMR6hoa4AAoGM8.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036491153659584512"
+          ],
+          "media_source_tweet_id": [
+            "2036491158361350553"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2036842506390995144",
+        "created_at": "2026-03-25T16:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T17:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036842506390995144"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "へらしば"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031240049992646656",
+              "start": 3,
+              "username": "HeraShiba"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UY0NkKXQMg",
+              "end": 77,
+              "expanded_url": "https://x.com/HeraShiba/status/2036491158361350553/photo/1",
+              "media_key": "3_2036491153659584512",
+              "start": 54,
+              "url": "https://t.co/UY0NkKXQMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036842506390995144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036491158361350553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HeraShiba: #へらしば\nメンヘラ豆しばの豆知識\nODやリスカをするのは「生きたい」から？ https://t.co/UY0NkKXQMg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036491153659584512"
+          ]
+        },
+        "author_id": "2031240049992646656",
+        "conversation_id": "2036491158361350553",
+        "created_at": "2026-03-24T17:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T18:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036491158361350553"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "へらしば"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UY0NkKXQMg",
+              "end": 62,
+              "expanded_url": "https://x.com/HeraShiba/status/2036491158361350553/photo/1",
+              "media_key": "3_2036491153659584512",
+              "start": 39,
+              "url": "https://t.co/UY0NkKXQMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036491158361350553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 11519,
+          "like_count": 785,
+          "quote_count": 9,
+          "reply_count": 3,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "#へらしば\nメンヘラ豆しばの豆知識\nODやリスカをするのは「生きたい」から？ https://t.co/UY0NkKXQMg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "メンヘラって呼ばないで…",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 41,
+          "like_count": 890,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 119
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T05:25:55.000Z",
+        "description": "『ねぇ知ってる？』メンヘラさんやお薬を服用する人向けの豆知識を発信するアカウントだよ。質問も受け付けてるよ。 #へらしば #へらしばFA ましゅまろも送ってくれるとうれしいな👇 作曲@Batao2p_Olive 自我、絡み@ad_hd_v (通すよ)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 55,
+                "tag": "へらしば"
+              },
+              {
+                "end": 68,
+                "start": 61,
+                "tag": "へらしばFA"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "Batao2p_Olive"
+              },
+              {
+                "end": 119,
+                "start": 111,
+                "username": "ad_hd_v"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/ki9vfvrfkb8tso…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/ki9vfvrfkb8tsov?t=BTbQVT&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/49cnQu2eYp"
+              }
+            ]
+          }
+        },
+        "id": "2031240049992646656",
+        "location": "おくすりは どうせ飲むなら 安全に",
+        "name": "メンヘラの豆しば",
+        "pinned_tweet_id": "2036798182404042799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035614510241964032/uZjmxaTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 181,
+          "like_count": 1900,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 890
+        },
+        "url": "https://t.co/49cnQu2eYp",
+        "username": "HeraShiba",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2027673730898600093",
+    "created_at": "2026-03-01T07:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T08:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028011681004278002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1157529123431911424",
+          "start": 0,
+          "username": "boketezizou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028011681004278002",
+    "in_reply_to_user_id": "1157529123431911424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027673730898600093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boketezizou こうこん"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 689,
+        "media_key": "3_2027673726536622080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCO-gt6boAAaWZr.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2027673730898600093",
+        "created_at": "2026-03-01T07:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T08:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028011681004278002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1157529123431911424",
+              "start": 0,
+              "username": "boketezizou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028011681004278002",
+        "in_reply_to_user_id": "1157529123431911424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027673730898600093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boketezizou こうこん"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027673726536622080"
+          ]
+        },
+        "author_id": "1157529123431911424",
+        "conversation_id": "2027673730898600093",
+        "created_at": "2026-02-28T09:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T10:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027673730898600093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EytuaTXorz",
+              "end": 71,
+              "expanded_url": "https://x.com/boketezizou/status/2027673730898600093/photo/1",
+              "media_key": "3_2027673726536622080",
+              "start": 48,
+              "url": "https://t.co/EytuaTXorz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027673730898600093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 437,
+          "impression_count": 4081133,
+          "like_count": 9439,
+          "quote_count": 1650,
+          "reply_count": 1856,
+          "retweet_count": 460
+        },
+        "reply_settings": "everyone",
+        "text": "【問題】\n\n「黄昏」←この漢字、なんて読むか分かりますか？\n何で知ったかで世代がバレるようです https://t.co/EytuaTXorz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "システム終了",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 513,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 48
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-03T05:50:23.000Z",
+        "description": "◾︎毎日お題投稿 ! ◾︎結果発表垢@zizousankekka0 ♦お題提供,ご依頼,ご相談等はDMにて #大喜利 #ボケて #予測変換大喜利",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "大喜利"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "ボケて"
+              },
+              {
+                "end": 72,
+                "start": 64,
+                "tag": "予測変換大喜利"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "zizousankekka0"
+              }
+            ]
+          }
+        },
+        "id": "1157529123431911424",
+        "location": "???",
+        "name": "地蔵",
+        "pinned_tweet_id": "2027660761955516590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668423969865875457/vRh_Wl9a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45002,
+          "following_count": 24180,
+          "like_count": 23562,
+          "listed_count": 371,
+          "media_count": 3729,
+          "tweet_count": 8387
+        },
+        "username": "boketezizou",
+        "verified": true
+      }
+    ]
+  }
+}

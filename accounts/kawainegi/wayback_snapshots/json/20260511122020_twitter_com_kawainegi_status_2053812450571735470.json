@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2053805821876687310",
+    "created_at": "2026-05-11T12:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T13:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053812450571735470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835139537418567680",
+          "start": 0,
+          "username": "WellingtonPixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053812450571735470",
+    "in_reply_to_user_id": "1835139537418567680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053805821876687310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WellingtonPixel 「不是芝麻」笑笑www"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3036,
+        "media_key": "3_2053805807737692160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICVgCfW4AATOYz.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2053805821876687310",
+        "created_at": "2026-05-11T12:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053812450571735470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835139537418567680",
+              "start": 0,
+              "username": "WellingtonPixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053812450571735470",
+        "in_reply_to_user_id": "1835139537418567680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053805821876687310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WellingtonPixel 「不是芝麻」笑笑www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053805807737692160"
+          ]
+        },
+        "author_id": "1835139537418567680",
+        "conversation_id": "2053805821876687310",
+        "created_at": "2026-05-11T11:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053805821876687310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E842kCFnlk",
+              "end": 42,
+              "expanded_url": "https://x.com/WellingtonPixel/status/2053805821876687310/photo/1",
+              "media_key": "3_2053805807737692160",
+              "start": 19,
+              "url": "https://t.co/E842kCFnlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053805821876687310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "房间柜子里翻到的虫子尸体（不是芝麻） https://t.co/E842kCFnlk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 138,
+          "like_count": 4312,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 789
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "你好我是WP|微量键政|2011-14yo|欧洲殖民史/近代史爱好者|社会自由主义-共和主义|温和派-反极端叙事|IFB\nStand with 🇹🇼 🇳🇱 🇦🇹|Maybe 🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wellingtonpixel",
+                "end": 23,
+                "expanded_url": "https://t.me/wellingtonpixel",
+                "start": 0,
+                "url": "https://t.co/u4ZrWlpceN"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "location": "Comodoro Rivadavia, Argentina",
+        "name": "🇹🇼Wellington † Pixel",
+        "pinned_tweet_id": "2053200591975813495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052427514560073734/hukZtxSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 4381,
+          "like_count": 16911,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 3248
+        },
+        "url": "https://t.co/u4ZrWlpceN",
+        "username": "WellingtonPixel",
+        "verified": true
+      }
+    ]
+  }
+}

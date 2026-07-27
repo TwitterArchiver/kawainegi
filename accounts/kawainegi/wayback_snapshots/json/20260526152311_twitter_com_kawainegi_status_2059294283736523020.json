@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2059290179102515463",
+    "created_at": "2026-05-26T15:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059294283736523020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2049825426441433090",
+          "start": 0,
+          "username": "AirisTendouX2K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059294283736523020",
+    "in_reply_to_user_id": "2049825426441433090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059290179102515463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AirisTendouX2K 一直以來辛苦妳了⋯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2059290179102515463",
+        "created_at": "2026-05-26T15:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059294283736523020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2049825426441433090",
+              "start": 0,
+              "username": "AirisTendouX2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059294283736523020",
+        "in_reply_to_user_id": "2049825426441433090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059290179102515463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AirisTendouX2K 一直以來辛苦妳了⋯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049825426441433090",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2059290179102515463",
+        "created_at": "2026-05-26T15:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059290179102515463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059290179102515463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我一直喜欢看百合作品，我好希望自己是女孩子。以前我认为药物不能成为真正的自己，所以我把真正的自己藏起来了。我有一个很要好的朋友，我精神状态一直不好，在学校经常给他打电话（一个班只有两台座机），一个人独自霸占很长时间。我性格孤僻，在学校只对计算机感兴趣。因此同学们很不满，他们排挤欺负我，往我床上丢垃圾，学习好的骂我“生鱼片”（自残）、“玉米症”。我很崩溃，每天只剩下和朋友打电话能提起兴趣。每天我感觉要死了，老师对我不耐烦，同学欺负我。初三压力好大，我感觉什么也记不住了。我的朋友也是百合豚，我曾问过他：如果我们俩都是女孩子，他会喜欢我吗？他说：“喜欢啊”。我很看重这句话。他后来初三上学期跑到技校读书了，我真的很崩溃，我们隔得很远。状态越来越差，我近乎要崩溃了，好想跳楼，但想到活着才有机会见到他，我就后悔了。本来我学习不差，可以上普通高中，但我真的好想见他，也不想读初中了，于是我来找他了。我以为我们在同一个学校会好过一些。其实是单相思。他越来越疏远我，有了更好的朋友，他说他记不得说过的事情了，说是我记错了。其实他一直是顺直男，看百合不代表他真的接受同性恋。我更偏向泛型恋，我喜欢的男生只有他一个，其他都是女生。因为我只是喜欢他身上的特征。他有了新的朋友后开始不了解我的价值观，我可能是个做题家吧？我很讨厌中专的教学方式，还是喜欢普通教育模式。我只是为了能和他多在一起。我喜欢游戏开发，之前向他描述游戏蓝图，他很感兴趣。到了这边后，他明明说要当我们的编剧和建模，文章一篇没写出来，建模以前以自己没有电脑推脱，现在有了电脑，却说不着急，没必要。开始说我们做不好游戏，以前他说初中没时间，可是中专有的是时间。以前他是重度抑郁症，我们曾约好一起死（一起跳楼），现在提起他却说是我单相思，他压根没有答应，说我记错了。我有段时间真的很怀疑自己，后来翻聊天记录，确确实实是他提出来的。我觉得几年前的聊天记录好恶心，但我还是要验证这件事，那是我最痛苦的时间。即便如此，我也不愿意再和他提出来，我没记错。本来双相情感障碍是在可控范围内了，前段时间又开始犯病了。受到打击后我开始怀疑自己的性别。其实我一直希望自己是女生，从小学到中学性别填表我一直都很别扭，我以前不了解跨性别群体。我和周边顺性别的人一起管她们叫人妖，把内心这样的情绪埋藏得很深，也要对娘炮、变性人（其实应该尊重一点跨性别）无情嘲讽。顺性别的人根本没有多少人了解我们这些群体，很多人也许也是跟风成为顺性别，没有意识到自己。我私下挺喜欢《搞基日常》这部作品，这是伪娘作品，后来了解了《别当欧尼酱了》，我也很喜欢。周边其他二次元也喜欢，但他们并不是从跨的角度出发，只是单纯觉得真寻可爱。一个多月前，朋友很多疏远的行为，很大程度上促成了我当药娘的想法。在此之前我的想法是：吃药也不能成为真正的女孩子，即便现在也很清楚。但是这会让我好过一点。真正开始HRT之后我才真正理解了这个群体，我很后悔以前的行为。有的人会说现在的跨年龄都越来越小了，这是事实，很多人也许并不清楚自己想要什么。现在的我呢？我不知道，这是否是我想要的，我希望知道数年后的自己会不会后悔。以后可能会后悔，但是我现在活着就很痛苦，我还有以后吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直喜欢看百合作品，我好希望自己是女孩子。以前我认为药物不能成为真正的自己，所以我把真正的自己藏起来了。我有一个很要好的朋友，我精神状态一直不好，在学校经常给他打电话（一个班只有两台座机），一个人独自霸占很长时间。我性格孤僻，在学校只对计算机感兴趣。因此同学们很不满，他们排挤欺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 153,
+          "like_count": 5642,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1131
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T12:17:28.000Z",
+        "description": "不支持od，但尊重od。未成年人|编译日期2011.1.9|，无证含糖|2026.5.1|mtf🏳️‍⚧️，以前是粉红，现在没力气力(疑似每个长大后的小粉红必经之路)。\n喜欢“蝙蝠”？\n🦇不!这是咱的文件名后缀。\n随性回复，请不要骂我，如果我骂你了，4/29/2026的我向你对不起 ＞人＜",
+        "id": "2049825426441433090",
+        "name": "airis_batN🍥",
+        "pinned_tweet_id": "2059290179102515463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049825544964046848/B2XUWWeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 95,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 101
+        },
+        "username": "AirisTendouX2K",
+        "verified": true
+      }
+    ]
+  }
+}

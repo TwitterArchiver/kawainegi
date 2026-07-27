@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2066187475626979772",
+    "created_at": "2026-06-14T15:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066187475626979772"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066187475626979772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果要成為北韓或中國住民一段時間，請問有什麼建議之VPN軟體的使用？囊中羞澀的關係應該沒辦法一直使用漫遊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2066187475626979772",
+        "created_at": "2026-06-14T15:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066187475626979772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066187475626979772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果要成為北韓或中國住民一段時間，請問有什麼建議之VPN軟體的使用？囊中羞澀的關係應該沒辦法一直使用漫遊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "偽中国人・精神的なネコミミ宇宙人\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 158,
+          "like_count": 6596,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1311
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077077803657502720"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2077077816919925054",
+    "created_at": "2026-07-14T17:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T18:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077077816919925054"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X9yD0aV8Ne",
+          "end": 38,
+          "expanded_url": "https://x.com/kawainegi/status/2077077816919925054/photo/1",
+          "media_key": "3_2077077803657502720",
+          "start": 15,
+          "url": "https://t.co/X9yD0aV8Ne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077077816919925054",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神秘的藍白粉色美甲🏳️‍⚧️ https://t.co/X9yD0aV8Ne"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077077803657502720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNDQfHaoAA9Vs9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077077803657502720"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2077077816919925054",
+        "created_at": "2026-07-14T17:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077077816919925054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X9yD0aV8Ne",
+              "end": 38,
+              "expanded_url": "https://x.com/kawainegi/status/2077077816919925054/photo/1",
+              "media_key": "3_2077077803657502720",
+              "start": 15,
+              "url": "https://t.co/X9yD0aV8Ne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077077816919925054",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神秘的藍白粉色美甲🏳️‍⚧️ https://t.co/X9yD0aV8Ne"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "是一隻不可愛的小跨妹",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 157,
+          "like_count": 6570,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1327
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

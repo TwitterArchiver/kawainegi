@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2044325303208779912",
+    "created_at": "2026-04-15T15:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T16:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044438060725862850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1162626313896771584",
+          "start": 0,
+          "username": "Takaotakashi66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044438060725862850",
+    "in_reply_to_user_id": "1162626313896771584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044436900224893191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Takaotakashi66 こんにちは\nどうしたんっすか"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2044325303208779912",
+        "created_at": "2026-04-15T15:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044438060725862850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1162626313896771584",
+              "start": 0,
+              "username": "Takaotakashi66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044438060725862850",
+        "in_reply_to_user_id": "1162626313896771584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044436900224893191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Takaotakashi66 こんにちは\nどうしたんっすか"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1162626313896771584",
+        "conversation_id": "2044325303208779912",
+        "created_at": "2026-04-15T15:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044436900224893191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2006749860863815682",
+              "start": 0,
+              "username": "kawainegi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044436900224893191",
+        "in_reply_to_user_id": "2006749860863815682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044325303208779912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawainegi こんにちは"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 75,
+          "like_count": 1814,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 269
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-17T07:25:02.000Z",
+        "description": "こんにちは",
+        "id": "1162626313896771584",
+        "name": "シュバム",
+        "pinned_tweet_id": "1698599162969821328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685908417142206464/PKSKVC5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 663,
+          "like_count": 629,
+          "listed_count": 1,
+          "media_count": 664,
+          "tweet_count": 2259
+        },
+        "username": "Takaotakashi66",
+        "verified": false
+      }
+    ]
+  }
+}

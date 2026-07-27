@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2048312817586229411",
+    "created_at": "2026-04-26T10:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048351733181792563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1546153784820129792",
+          "start": 0,
+          "username": "zheguangyouchai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048351733181792563",
+    "in_reply_to_user_id": "1546153784820129792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048312817586229411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zheguangyouchai 很驚艷 不過重點會比較偏於後製處理嗎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048312813974962176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0RpuHbwAADf0d.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048312812800471040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0RppvacAAf_U9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048312812301348864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0Rpn4acAA_q1g.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2048312813257728000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0RprcboAA3nk_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2048312817586229411",
+        "created_at": "2026-04-26T10:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048351733181792563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1546153784820129792",
+              "start": 0,
+              "username": "zheguangyouchai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048351733181792563",
+        "in_reply_to_user_id": "1546153784820129792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048312817586229411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zheguangyouchai 很驚艷 不過重點會比較偏於後製處理嗎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048312813974962176",
+            "3_2048312812800471040",
+            "3_2048312812301348864",
+            "3_2048312813257728000"
+          ]
+        },
+        "author_id": "1546153784820129792",
+        "conversation_id": "2048312817586229411",
+        "created_at": "2026-04-26T08:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048312817586229411"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "iPhone13mini摄影"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k8PnQuEVO3",
+              "end": 56,
+              "expanded_url": "https://x.com/zheguangyouchai/status/2048312817586229411/photo/1",
+              "media_key": "3_2048312813974962176",
+              "start": 33,
+              "url": "https://t.co/k8PnQuEVO3"
+            },
+            {
+              "display_url": "pic.x.com/k8PnQuEVO3",
+              "end": 56,
+              "expanded_url": "https://x.com/zheguangyouchai/status/2048312817586229411/photo/1",
+              "media_key": "3_2048312812800471040",
+              "start": 33,
+              "url": "https://t.co/k8PnQuEVO3"
+            },
+            {
+              "display_url": "pic.x.com/k8PnQuEVO3",
+              "end": 56,
+              "expanded_url": "https://x.com/zheguangyouchai/status/2048312817586229411/photo/1",
+              "media_key": "3_2048312812301348864",
+              "start": 33,
+              "url": "https://t.co/k8PnQuEVO3"
+            },
+            {
+              "display_url": "pic.x.com/k8PnQuEVO3",
+              "end": 56,
+              "expanded_url": "https://x.com/zheguangyouchai/status/2048312817586229411/photo/1",
+              "media_key": "3_2048312813257728000",
+              "start": 33,
+              "url": "https://t.co/k8PnQuEVO3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048312817586229411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 900,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#iPhone13mini摄影\n画质和宽容度比想象中的要好很多。 https://t.co/k8PnQuEVO3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 118,
+          "like_count": 2645,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 498
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T15:26:20.000Z",
+        "description": "Politics🚫 AI🚫\n摄影师。\n不授权将我的作品用于AI训练/创作。不要在其他平台提及我和我的照片，否则拉黑，谢谢。",
+        "id": "1546153784820129792",
+        "name": "折光邮差",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043202722309267457/x1DaEYkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10747,
+          "following_count": 183,
+          "like_count": 8831,
+          "listed_count": 59,
+          "media_count": 1488,
+          "tweet_count": 4296
+        },
+        "username": "zheguangyouchai",
+        "verified": true
+      }
+    ]
+  }
+}

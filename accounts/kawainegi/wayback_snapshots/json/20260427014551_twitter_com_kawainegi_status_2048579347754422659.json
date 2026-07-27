@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048339877381709824"
+      ],
+      "media_source_tweet_id": [
+        "2048339879357304913"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2048579347754422659",
+    "created_at": "2026-04-27T01:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T02:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048579347754422659"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 13,
+          "tag": "春猿火美術部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1084393885600600064",
+          "start": 3,
+          "username": "UG_0616"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0eR40GN6ZC",
+          "end": 44,
+          "expanded_url": "https://x.com/UG_0616/status/2048339879357304913/photo/1",
+          "media_key": "3_2048339877381709824",
+          "start": 21,
+          "url": "https://t.co/0eR40GN6ZC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048579347754422659",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048339879357304913",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UG_0616: #春猿火美術部 https://t.co/0eR40GN6ZC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2048339877381709824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0qRBKaoAAG9bz.jpg",
+        "width": 789
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048339877381709824"
+          ],
+          "media_source_tweet_id": [
+            "2048339879357304913"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2048579347754422659",
+        "created_at": "2026-04-27T01:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048579347754422659"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "春猿火美術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1084393885600600064",
+              "start": 3,
+              "username": "UG_0616"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0eR40GN6ZC",
+              "end": 44,
+              "expanded_url": "https://x.com/UG_0616/status/2048339879357304913/photo/1",
+              "media_key": "3_2048339877381709824",
+              "start": 21,
+              "url": "https://t.co/0eR40GN6ZC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048579347754422659",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048339879357304913",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UG_0616: #春猿火美術部 https://t.co/0eR40GN6ZC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048339877381709824"
+          ]
+        },
+        "author_id": "1084393885600600064",
+        "conversation_id": "2048339879357304913",
+        "created_at": "2026-04-26T09:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048339879357304913"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "春猿火美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0eR40GN6ZC",
+              "end": 31,
+              "expanded_url": "https://x.com/UG_0616/status/2048339879357304913/photo/1",
+              "media_key": "3_2048339877381709824",
+              "start": 8,
+              "url": "https://t.co/0eR40GN6ZC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048339879357304913",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 7222,
+          "like_count": 833,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "#春猿火美術部 https://t.co/0eR40GN6ZC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 122,
+          "like_count": 2745,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 522
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-13T10:17:04.000Z",
+        "description": "一般通過テセラクター\n\nEverything starts from here.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/UG_0616",
+                "end": 23,
+                "expanded_url": "https://x.com/UG_0616",
+                "start": 0,
+                "url": "https://t.co/tCO9GOxxOK"
+              }
+            ]
+          }
+        },
+        "id": "1084393885600600064",
+        "location": "無断転載、AI🚫",
+        "name": "UG",
+        "pinned_tweet_id": "1966793185616949376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957446771891912704/ChRdzC3A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 865,
+          "like_count": 17715,
+          "listed_count": 21,
+          "media_count": 1077,
+          "tweet_count": 7618
+        },
+        "url": "https://t.co/tCO9GOxxOK",
+        "username": "UG_0616",
+        "verified": false
+      }
+    ]
+  }
+}

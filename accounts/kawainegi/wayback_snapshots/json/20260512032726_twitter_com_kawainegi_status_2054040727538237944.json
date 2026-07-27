@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054040695472873472"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2054040727538237944",
+    "created_at": "2026-05-12T03:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T04:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054040727538237944"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b6WS52Zz7x",
+          "end": 29,
+          "expanded_url": "https://x.com/kawainegi/status/2054040727538237944/photo/1",
+          "media_key": "3_2054040695472873472",
+          "start": 6,
+          "url": "https://t.co/b6WS52Zz7x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054040727538237944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "陰キャの子 https://t.co/b6WS52Zz7x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2054040695472873472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFrITfbYAAn7rX.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054040695472873472"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2054040727538237944",
+        "created_at": "2026-05-12T03:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054040727538237944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b6WS52Zz7x",
+              "end": 29,
+              "expanded_url": "https://x.com/kawainegi/status/2054040727538237944/photo/1",
+              "media_key": "3_2054040695472873472",
+              "start": 6,
+              "url": "https://t.co/b6WS52Zz7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054040727538237944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "陰キャの子 https://t.co/b6WS52Zz7x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "変なモノ書き\nフォロー感謝\n生きてたらフォロバするかも",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 138,
+          "like_count": 4428,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 820
+        },
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

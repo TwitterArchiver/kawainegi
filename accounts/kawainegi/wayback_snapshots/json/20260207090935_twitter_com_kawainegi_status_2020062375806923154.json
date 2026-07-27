@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2019765651959697485",
+    "created_at": "2026-02-07T09:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T10:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020062375806923154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008821263373156353",
+          "start": 0,
+          "username": "pa__ni01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020062375806923154",
+    "in_reply_to_user_id": "2008821263373156353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019765651959697485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pa__ni01 僕を連れて行ってくれたらいいのにな"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2019765651959697485",
+        "created_at": "2026-02-07T09:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T10:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020062375806923154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008821263373156353",
+              "start": 0,
+              "username": "pa__ni01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020062375806923154",
+        "in_reply_to_user_id": "2008821263373156353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019765651959697485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pa__ni01 僕を連れて行ってくれたらいいのにな"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008821263373156353",
+        "conversation_id": "2019765651959697485",
+        "created_at": "2026-02-06T13:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T14:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019765651959697485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019765651959697485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11688,
+          "like_count": 581,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "自殺したい。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "病み垢|10代後半",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T08:41:31.000Z",
+        "description": "フォロワーさん愛す！お前が好きだから！ｻﾌﾞ@pa__ni02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "pa__ni02"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/vcqtufig3182y1…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/vcqtufig3182y19?t=ATOklK&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Aa4Zc0rXsP"
+              }
+            ]
+          }
+        },
+        "id": "2008821263373156353",
+        "location": "高一",
+        "name": "ぱニ",
+        "pinned_tweet_id": "2019378650412642703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014327907494318080/Htw35Hpx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 233,
+          "like_count": 1952,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/Aa4Zc0rXsP",
+        "username": "pa__ni01",
+        "verified": false
+      }
+    ]
+  }
+}
