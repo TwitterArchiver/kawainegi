@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2079647571430264983",
+    "created_at": "2026-07-21T19:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T20:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079647571430264983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2297155944",
+          "start": 3,
+          "username": "anvixox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079647571430264983",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6871
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079434589580521661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anvixox: 2021: I should have killed myself last year  \n2022: I should have killed myself last year  \n2023: I should have killed myself…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2079647571430264983",
+        "created_at": "2026-07-21T19:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079647571430264983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2297155944",
+              "start": 3,
+              "username": "anvixox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079647571430264983",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6871
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079434589580521661",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anvixox: 2021: I should have killed myself last year  \n2022: I should have killed myself last year  \n2023: I should have killed myself…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2297155944",
+        "conversation_id": "2079434589580521661",
+        "created_at": "2026-07-21T05:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079434589580521661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079434589580521661",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 609,
+          "impression_count": 278941,
+          "like_count": 22502,
+          "quote_count": 156,
+          "reply_count": 85,
+          "retweet_count": 6871
+        },
+        "reply_settings": "everyone",
+        "text": "2021: I should have killed myself last year  \n2022: I should have killed myself last year  \n2023: I should have killed myself last year  \n2024: I should have killed myself last year  \n2025: I should have killed myself last year  \n2026: I should have killed myself last year"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 166,
+          "like_count": 6805,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1402
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-18T03:12:17.000Z",
+        "description": "idk just tweeting | turn on notis for a follow back",
+        "id": "2297155944",
+        "name": "Anvi🍒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892921529412763648/x3oTpEao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79539,
+          "following_count": 5722,
+          "like_count": 58397,
+          "listed_count": 173,
+          "media_count": 2667,
+          "tweet_count": 4564
+        },
+        "url": "",
+        "username": "anvixox",
+        "verified": true
+      }
+    ]
+  }
+}
