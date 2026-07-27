@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-27T21:18:57",
+  "last_updated": "2026-07-27T21:19:34",
   "html": {
     "https://web.archive.org/web/20251125125438if_/https://twitter.com/Kawainegi/status/1993302308105736372": {
       "status": "done",
@@ -10823,9 +10823,9 @@
       "referenced_by": [
         "20260416133939_twitter_com_kawainegi_status_2044772714385449096.json"
       ],
-      "last_updated": "2026-07-27T16:07:01",
+      "last_updated": "2026-07-27T21:19:16",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260416133939/https://video.twimg.com/ext_tw_video/2044756075975708672/pu/vid/avc1/720x1280/j0EG8sVJ5N2C0w3A.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/F9Yh-UCboAAL-wm.mp4": {
       "status": "done",
@@ -10846,9 +10846,9 @@
       "referenced_by": [
         "20260511121819_twitter_com_kawainegi_status_2053811942469591110.json"
       ],
-      "last_updated": "2026-07-27T16:07:01",
+      "last_updated": "2026-07-27T21:19:19",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260511121819/https://video.twimg.com/amplify_video/2053547544685531136/vid/avc1/720x960/gTDWWOjUpEj9_7kH.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2053706324090015744/vid/avc1/720x1280/1DHaXjwQ0LqNA5jq.mp4": {
       "status": "done",
@@ -10869,27 +10869,27 @@
       "referenced_by": [
         "20260519030411_twitter_com_kawainegi_status_2056571592050901123.json"
       ],
-      "last_updated": "2026-07-27T16:07:01",
+      "last_updated": "2026-07-27T21:19:22",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260519030411/https://video.twimg.com/amplify_video/2056571478502707200/vid/avc1/720x1280/nIC-tCFXcWGvjy_G.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2056573056269844480/vid/avc1/720x1280/Bm21jFO9ha8Hjl4-.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260519031027_twitter_com_kawainegi_status_2056573167234322771.json"
       ],
-      "last_updated": "2026-07-27T16:07:02",
+      "last_updated": "2026-07-27T21:19:25",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260519031027/https://video.twimg.com/amplify_video/2056573056269844480/vid/avc1/720x1280/Bm21jFO9ha8Hjl4-.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2057087049895645184/pu/vid/avc1/720x1280/bfQqEofeEPs0ikh2.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260520133236_twitter_com_kawainegi_status_2057092124483661982.json"
       ],
-      "last_updated": "2026-07-27T16:07:02",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260520133236/https://video.twimg.com/ext_tw_video/2057087049895645184/pu/vid/avc1/720x1280/bfQqEofeEPs0ikh2.mp4?tag=12",
-      "miss_count": 1
+      "last_updated": "2026-07-27T21:19:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260520133236if_/https://video.twimg.com/ext_tw_video/2057087049895645184/pu/vid/avc1/720x1280/bfQqEofeEPs0ikh2.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f51cd1d8620>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/1932308109034414080/pu/vid/avc1/448x960/-RcycyVR8d1XiBAM.mp4?tag=12": {
       "status": "done",
@@ -10899,13 +10899,13 @@
       "last_updated": "2026-07-27T16:07:00"
     },
     "https://video.twimg.com/amplify_video/2059557540418207744/vid/avc1/1280x720/M0hJL-OElsfmIZAH.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260527085046_twitter_com_kawainegi_status_2059557915384746270.json"
       ],
-      "last_updated": "2026-07-27T16:07:02",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260527085046/https://video.twimg.com/amplify_video/2059557540418207744/vid/avc1/1280x720/M0hJL-OElsfmIZAH.mp4",
-      "miss_count": 1
+      "last_updated": "2026-07-27T21:19:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260527085046im_/https://video.twimg.com/amplify_video/2059557540418207744/vid/avc1/1280x720/M0hJL-OElsfmIZAH.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f51cd1da810>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2059868984925892608/vid/avc1/1280x720/9keeeVuBaG9qnZOb.mp4": {
       "status": "done",
@@ -30236,7 +30236,7 @@
       "last_updated": "2026-07-27T16:07:30"
     },
     "20260520133236_twitter_com_kawainegi_status_2057092124483661982.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -30247,7 +30247,7 @@
           "https://pbs.twimg.com/profile_images/2050583838754025472/N2MYQSUI_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-27T16:07:46"
+      "last_updated": "2026-07-27T21:19:30"
     },
     "20260520142504_twitter_com_kawainegi_status_2057105328895127618.json": {
       "status": "done",
@@ -32308,7 +32308,7 @@
       "last_updated": "2026-07-27T16:07:48"
     },
     "20260527085046_twitter_com_kawainegi_status_2059557915384746270.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -32318,7 +32318,7 @@
           "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-27T16:07:30"
+      "last_updated": "2026-07-27T21:19:34"
     },
     "20260527093707_twitter_com_kawainegi_status_2059569578112590249.json": {
       "status": "done",
