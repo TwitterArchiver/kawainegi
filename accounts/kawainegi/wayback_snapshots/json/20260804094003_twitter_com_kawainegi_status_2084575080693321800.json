@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084575067598716928"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2084575080693321800",
+    "created_at": "2026-08-04T09:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084575080693321800"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dFqS4hjeBS",
+          "end": 30,
+          "expanded_url": "https://x.com/kawainegi/status/2084575080693321800/photo/1",
+          "media_key": "3_2084575067598716928",
+          "start": 7,
+          "url": "https://t.co/dFqS4hjeBS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084575080693321800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "70回目☺️ https://t.co/dFqS4hjeBS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2084575067598716928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3l-rvbgAA0U41.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084575067598716928"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2084575080693321800",
+        "created_at": "2026-08-04T09:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084575080693321800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dFqS4hjeBS",
+              "end": 30,
+              "expanded_url": "https://x.com/kawainegi/status/2084575080693321800/photo/1",
+              "media_key": "3_2084575067598716928",
+              "start": 7,
+              "url": "https://t.co/dFqS4hjeBS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084575080693321800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "70回目☺️ https://t.co/dFqS4hjeBS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "余命日記を書いてます",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 192,
+          "like_count": 8158,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1613
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

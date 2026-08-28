@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083814452177309696"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2083715949497348141",
+    "created_at": "2026-08-02T07:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083814486809743369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1320354023451496450",
+          "start": 0,
+          "username": "PinkCatLoveSky"
+        },
+        {
+          "end": 24,
+          "id": "1955980103688790017",
+          "start": 16,
+          "username": "aaarjkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pbPCBHSjam",
+          "end": 53,
+          "expanded_url": "https://x.com/kawainegi/status/2083814486809743369/photo/1",
+          "media_key": "3_2083814452177309696",
+          "start": 30,
+          "url": "https://t.co/pbPCBHSjam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083814486809743369",
+    "in_reply_to_user_id": "1320354023451496450",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083790182822908388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PinkCatLoveSky @aaarjkk 我也不少 https://t.co/pbPCBHSjam"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2083814452177309696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsyNCfakAA8ETM.jpg",
+        "width": 2268
+      },
+      {
+        "height": 3392,
+        "media_key": "3_2083790173318635520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOscH0sbYAAaZ5q.jpg",
+        "width": 2544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083814452177309696"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2083715949497348141",
+        "created_at": "2026-08-02T07:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083814486809743369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            },
+            {
+              "end": 24,
+              "id": "1955980103688790017",
+              "start": 16,
+              "username": "aaarjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pbPCBHSjam",
+              "end": 53,
+              "expanded_url": "https://x.com/kawainegi/status/2083814486809743369/photo/1",
+              "media_key": "3_2083814452177309696",
+              "start": 30,
+              "url": "https://t.co/pbPCBHSjam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083814486809743369",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083790182822908388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky @aaarjkk 我也不少 https://t.co/pbPCBHSjam"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083790173318635520"
+          ]
+        },
+        "author_id": "1320354023451496450",
+        "conversation_id": "2083715949497348141",
+        "created_at": "2026-08-02T05:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083790182822908388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4malyoLcop",
+              "end": 37,
+              "expanded_url": "https://x.com/PinkCatLoveSky/status/2083790182822908388/photo/1",
+              "media_key": "3_2083790173318635520",
+              "start": 14,
+              "url": "https://t.co/4malyoLcop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083790182822908388",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083715949497348141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 我也不少 https://t.co/4malyoLcop"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "余命日記を書いてます",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 188,
+          "like_count": 7955,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1582
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx (貓) /友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2083298589447709131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 2118,
+          "like_count": 66055,
+          "listed_count": 2,
+          "media_count": 293,
+          "tweet_count": 4442
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "pinned_tweet_id": "2082779447519015416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1171,
+          "following_count": 1141,
+          "like_count": 26577,
+          "listed_count": 5,
+          "media_count": 602,
+          "tweet_count": 3601
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

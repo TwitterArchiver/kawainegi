@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082106171805286400"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2082106211219152908",
+    "created_at": "2026-07-28T14:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082106211219152908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HP1vaxnbQp",
+          "end": 31,
+          "expanded_url": "https://x.com/kawainegi/status/2082106211219152908/photo/1",
+          "media_key": "3_2082106171805286400",
+          "start": 8,
+          "url": "https://t.co/HP1vaxnbQp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082106211219152908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "對貓娘說晚安吧 https://t.co/HP1vaxnbQp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3738,
+        "media_key": "3_2082106171805286400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUgiCMaQAAJNBD.jpg",
+        "width": 2803
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082106171805286400"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2082106211219152908",
+        "created_at": "2026-07-28T14:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082106211219152908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HP1vaxnbQp",
+              "end": 31,
+              "expanded_url": "https://x.com/kawainegi/status/2082106211219152908/photo/1",
+              "media_key": "3_2082106171805286400",
+              "start": 8,
+              "url": "https://t.co/HP1vaxnbQp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082106211219152908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "對貓娘說晚安吧 https://t.co/HP1vaxnbQp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 173,
+          "like_count": 7397,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1485
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

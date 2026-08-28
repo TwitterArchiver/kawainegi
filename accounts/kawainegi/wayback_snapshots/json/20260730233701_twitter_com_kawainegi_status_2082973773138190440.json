@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2082973773138190440",
+    "created_at": "2026-07-30T23:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T00:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082973773138190440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kawainegi/stat…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/kawainegi/status/2082972477270143450",
+          "start": 44,
+          "url": "https://t.co/29XWDqh3Mo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082973773138190440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082972477270143450",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "死去的記憶開始攻擊我\n好後悔阿\n因為這樣害我喉結有長出來一點\n還被搾了兩百三十多次😭😭 https://t.co/29XWDqh3Mo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2082972425621557248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOg0YpIbUAAw7Wl.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2082973773138190440",
+        "created_at": "2026-07-30T23:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T00:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082973773138190440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawainegi/stat…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/kawainegi/status/2082972477270143450",
+              "start": 44,
+              "url": "https://t.co/29XWDqh3Mo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082973773138190440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082972477270143450",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "死去的記憶開始攻擊我\n好後悔阿\n因為這樣害我喉結有長出來一點\n還被搾了兩百三十多次😭😭 https://t.co/29XWDqh3Mo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082972425621557248"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2082972477270143450",
+        "created_at": "2026-07-30T23:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T00:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082972477270143450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J0Ks7iHzG8",
+              "end": 87,
+              "expanded_url": "https://x.com/kawainegi/status/2082972477270143450/photo/1",
+              "media_key": "3_2082972425621557248",
+              "start": 64,
+              "url": "https://t.co/J0Ks7iHzG8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082972477270143450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在櫃子里發現了三年前藏的色譜龍\n藥娘出櫃了藥卻還在深櫃著😭😭\n\n沒吃完的原因是因為交往了前女友的關係\n停用之後就忘在那裏了⋯⋯ https://t.co/J0Ks7iHzG8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "余命日記を書いてます",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 184,
+          "like_count": 7695,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1539
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

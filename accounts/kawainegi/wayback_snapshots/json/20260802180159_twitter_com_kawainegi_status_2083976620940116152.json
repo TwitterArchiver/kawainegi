@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083976599687532544"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2083976620940116152",
+    "created_at": "2026-08-02T18:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T19:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083976620940116152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GIhPlXWe6N",
+          "end": 31,
+          "expanded_url": "https://x.com/kawainegi/status/2083976620940116152/photo/1",
+          "media_key": "3_2083976599687532544",
+          "start": 8,
+          "url": "https://t.co/GIhPlXWe6N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083976620940116152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "帶妹妹吃宵夜） https://t.co/GIhPlXWe6N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2083976599687532544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvFrRCaEAA3JMk.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083976599687532544"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083976620940116152",
+        "created_at": "2026-08-02T18:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083976620940116152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GIhPlXWe6N",
+              "end": 31,
+              "expanded_url": "https://x.com/kawainegi/status/2083976620940116152/photo/1",
+              "media_key": "3_2083976599687532544",
+              "start": 8,
+              "url": "https://t.co/GIhPlXWe6N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083976620940116152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帶妹妹吃宵夜） https://t.co/GIhPlXWe6N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "余命日記を書いてます",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 189,
+          "like_count": 7986,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1587
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2082722422290350319",
+    "created_at": "2026-07-30T06:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T07:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082722422290350319"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/alimataoue4535…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/alimataoue45353/status/2082713362723729638",
+          "start": 12,
+          "url": "https://t.co/9poun1Npjg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082722422290350319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082713362723729638",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的互追怎麼都這麼萌🥹 https://t.co/9poun1Npjg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2082713352317583360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdIwl3aQAA9XP5.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2082722422290350319",
+        "created_at": "2026-07-30T06:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082722422290350319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alimataoue4535…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/alimataoue45353/status/2082713362723729638",
+              "start": 12,
+              "url": "https://t.co/9poun1Npjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082722422290350319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082713362723729638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的互追怎麼都這麼萌🥹 https://t.co/9poun1Npjg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082713352317583360"
+          ]
+        },
+        "author_id": "2025449560580259844",
+        "conversation_id": "2082713362723729638",
+        "created_at": "2026-07-30T06:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082713362723729638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ERAic7c0YM",
+              "end": 25,
+              "expanded_url": "https://x.com/AlimataOue45353/status/2082713362723729638/photo/1",
+              "media_key": "3_2082713352317583360",
+              "start": 2,
+              "url": "https://t.co/ERAic7c0YM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082713362723729638",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 198,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵 https://t.co/ERAic7c0YM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "余命日記を書いてます",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 184,
+          "like_count": 7623,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1518
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T05:56:52.000Z",
+        "description": "xyn🍥，hrt🍥2025.10.29，17，162",
+        "id": "2025449560580259844",
+        "name": "叶🍥",
+        "pinned_tweet_id": "2070822500813152316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077362587168354304/0b-zC7-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 491,
+          "like_count": 4702,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "AlimataOue45353",
+        "verified": false
+      }
+    ]
+  }
+}

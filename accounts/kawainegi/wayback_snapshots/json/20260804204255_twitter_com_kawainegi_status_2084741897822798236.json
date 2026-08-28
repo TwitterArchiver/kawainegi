@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2084441610738343977",
+    "created_at": "2026-08-04T20:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T21:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084741897822798236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053079331216441344",
+          "start": 0,
+          "username": "renrendesuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084741897822798236",
+    "in_reply_to_user_id": "2053079331216441344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084441610738343977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@renrendesuki 說不定這就是國家想要的結果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2084441610738343977",
+        "created_at": "2026-08-04T20:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T21:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084741897822798236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053079331216441344",
+              "start": 0,
+              "username": "renrendesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084741897822798236",
+        "in_reply_to_user_id": "2053079331216441344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084441610738343977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renrendesuki 說不定這就是國家想要的結果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053079331216441344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2084441610738343977",
+        "created_at": "2026-08-04T00:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084441610738343977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084441610738343977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 457,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我覺得國家禁od的藥真的太傻逼了。他媽的不去關注青少年心理健康 不去解決這個社會壓力大的問題 不去解決校園霸凌的問題 不去解決原生家庭的問題 他媽來禁這個藥，，我講真的有很多人在學校被霸凌 十幾歲就被父母拋棄才選擇用od這種方式緩解痛苦。你他媽把藥禁了 這些人全他媽去自殺了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "余命日記を書いてます",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 193,
+          "like_count": 8364,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1646
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T11:48:40.000Z",
+        "description": "你好呀！！這裡是戀戀！！！希望有人能跟我互fo呀wwww！！！",
+        "id": "2053079331216441344",
+        "name": "戀戀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080278765780033536/CFpN5f8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 137,
+          "like_count": 2792,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 675
+        },
+        "url": "",
+        "username": "renrendesuki",
+        "verified": false
+      }
+    ]
+  }
+}

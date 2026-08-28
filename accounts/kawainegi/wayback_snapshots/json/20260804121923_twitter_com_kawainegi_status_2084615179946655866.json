@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2084587405626187932",
+    "created_at": "2026-08-04T12:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084615179946655866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070544483977232389",
+          "start": 0,
+          "username": "AkanoQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084615179946655866",
+    "in_reply_to_user_id": "2070544483977232389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084587405626187932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkanoQWQ 可以陪妳一起去喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1982,
+        "media_key": "3_2084587396633690112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3xMU-bgAAMbfd.jpg",
+        "width": 1216
+      },
+      {
+        "height": 1399,
+        "media_key": "3_2084587401205440512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3xMmAa4AARp3r.jpg",
+        "width": 1215
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2084587405626187932",
+        "created_at": "2026-08-04T12:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084615179946655866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070544483977232389",
+              "start": 0,
+              "username": "AkanoQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084615179946655866",
+        "in_reply_to_user_id": "2070544483977232389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084587405626187932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkanoQWQ 可以陪妳一起去喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084587396633690112",
+            "3_2084587401205440512"
+          ]
+        },
+        "author_id": "2070544483977232389",
+        "conversation_id": "2084587405626187932",
+        "created_at": "2026-08-04T10:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084587405626187932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zxTDn5M6y3",
+              "end": 102,
+              "expanded_url": "https://x.com/AkanoQWQ/status/2084587405626187932/photo/1",
+              "media_key": "3_2084587396633690112",
+              "start": 79,
+              "url": "https://t.co/zxTDn5M6y3"
+            },
+            {
+              "display_url": "pic.x.com/zxTDn5M6y3",
+              "end": 102,
+              "expanded_url": "https://x.com/AkanoQWQ/status/2084587405626187932/photo/1",
+              "media_key": "3_2084587401205440512",
+              "start": 79,
+              "url": "https://t.co/zxTDn5M6y3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084587405626187932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "试试能不能赢……其实有些等不及了呢（）\n但是我害怕遇到很pass的妹妹会自卑🥺心理斗争了好久最终还是决定勇敢一点吧……总不能说diy的理由是不好意思是吧（） https://t.co/zxTDn5M6y3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "余命日記を書いてます",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 192,
+          "like_count": 8173,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1617
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-26T16:28:13.000Z",
+        "description": "退役OIer | 现役RMer | Counter-Strike | 超级萌豚（百合控!） | sim racing | 可爱是最高赞美！| 希望成为友善与温暖的人 | 🇨🇳简繁中文/🇬🇧ENG(installing…)",
+        "id": "2070544483977232389",
+        "location": "Hong Kong",
+        "name": "Akano",
+        "pinned_tweet_id": "2077057751046558030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070544928502153218/ZFgKKGdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 287,
+          "like_count": 1562,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 605
+        },
+        "url": "",
+        "username": "AkanoQWQ",
+        "verified": true
+      }
+    ]
+  }
+}

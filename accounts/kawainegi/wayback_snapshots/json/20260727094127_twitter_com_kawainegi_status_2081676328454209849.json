@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2081662875299622952",
+    "created_at": "2026-07-27T09:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081676328454209849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1845674780416208897",
+          "start": 0,
+          "username": "liulingyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081676328454209849",
+    "in_reply_to_user_id": "1845674780416208897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081662875299622952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liulingyo 好勇敢😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081662844236677120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOONU-TbQAA4jmw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081662844253409280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOONU-XakAAmz1y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2081662875299622952",
+        "created_at": "2026-07-27T09:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081676328454209849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1845674780416208897",
+              "start": 0,
+              "username": "liulingyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081676328454209849",
+        "in_reply_to_user_id": "1845674780416208897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081662875299622952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liulingyo 好勇敢😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081662844236677120",
+            "3_2081662844253409280"
+          ]
+        },
+        "author_id": "1845674780416208897",
+        "conversation_id": "2081662875299622952",
+        "created_at": "2026-07-27T08:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081662875299622952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0nMOQ6BfkK",
+              "end": 80,
+              "expanded_url": "https://x.com/liulingyo/status/2081662875299622952/photo/1",
+              "media_key": "3_2081662844236677120",
+              "start": 57,
+              "url": "https://t.co/0nMOQ6BfkK"
+            },
+            {
+              "display_url": "pic.x.com/0nMOQ6BfkK",
+              "end": 80,
+              "expanded_url": "https://x.com/liulingyo/status/2081662875299622952/photo/1",
+              "media_key": "3_2081662844253409280",
+              "start": 57,
+              "url": "https://t.co/0nMOQ6BfkK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081662875299622952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 908,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于拔尿管了 5天的头终于洗了😭下面还是有撕裂痛 为什么推特实况图会这么糊 只能发非实况了 （忽略手臂上的肌肉） https://t.co/0nMOQ6BfkK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 175,
+          "like_count": 7247,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1466
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T03:55:43.000Z",
+        "description": "已切蛋mtf/19/1.75m/55kg/size38/已炸柜/hrt🍥2024.10/抖：00000eeo/cp：@GanYuluo 🎀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 58,
+                "username": "GanYuluo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transnav.org/#",
+                "end": 23,
+                "expanded_url": "https://www.transnav.org/#",
+                "start": 0,
+                "url": "https://t.co/i1HGsDLtNo"
+              }
+            ]
+          }
+        },
+        "id": "1845674780416208897",
+        "location": "📍浙",
+        "name": "悠悠ちゃん🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075245168471814433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076546801872859136/vABM-TJk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3380,
+          "following_count": 1064,
+          "like_count": 4296,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 1138
+        },
+        "url": "https://t.co/i1HGsDLtNo",
+        "username": "liulingyo",
+        "verified": false
+      }
+    ]
+  }
+}

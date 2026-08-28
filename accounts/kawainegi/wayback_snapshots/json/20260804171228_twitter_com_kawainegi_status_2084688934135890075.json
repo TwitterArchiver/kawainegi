@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2084203033173630986",
+    "created_at": "2026-08-04T17:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T18:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084688934135890075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1986475217422839808",
+          "start": 0,
+          "username": "Ouoneko2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084688934135890075",
+    "in_reply_to_user_id": "1986475217422839808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084203033173630986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ouoneko2 國女婊子能不能不要當二次元阿，玩二次元圈能不能標註一下自己是沒素質或者純噁爛人屬性，不然讓人滑到這種全新買不起還敢大小聲的夠噁心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2084203033173630986",
+        "created_at": "2026-08-04T17:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084688934135890075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1986475217422839808",
+              "start": 0,
+              "username": "Ouoneko2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084688934135890075",
+        "in_reply_to_user_id": "1986475217422839808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084203033173630986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ouoneko2 國女婊子能不能不要當二次元阿，玩二次元圈能不能標註一下自己是沒素質或者純噁爛人屬性，不然讓人滑到這種全新買不起還敢大小聲的夠噁心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986475217422839808",
+        "conversation_id": "2084203033173630986",
+        "created_at": "2026-08-03T09:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084203033173630986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084203033173630986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 35409,
+          "like_count": 222,
+          "quote_count": 13,
+          "reply_count": 36,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "男娘出完cos能不能别挂闲鱼 挂闲鱼能不能标明一下自己是男的或者不卖给女生 刷闲鱼刷到个男娘出衣服好恶心😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "余命日記を書いてます",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 191,
+          "like_count": 8253,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1630
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T16:49:15.000Z",
+        "description": "备用小号@OuoNeko3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "OuoNeko3"
+              }
+            ]
+          }
+        },
+        "id": "1986475217422839808",
+        "location": "🚪20 纯绿",
+        "name": "neko",
+        "pinned_tweet_id": "2080995801548161212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031406249066246149/Lsm27JI8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 3,
+          "like_count": 683,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 740
+        },
+        "url": "",
+        "username": "Ouoneko2",
+        "verified": false
+      }
+    ]
+  }
+}

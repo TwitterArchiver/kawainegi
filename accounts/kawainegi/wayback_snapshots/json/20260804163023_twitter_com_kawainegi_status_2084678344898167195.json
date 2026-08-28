@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2084647551844995256",
+    "created_at": "2026-08-04T16:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084678344898167195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1940740272314585088",
+          "start": 0,
+          "username": "_wavetap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084678344898167195",
+    "in_reply_to_user_id": "1940740272314585088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084647551844995256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_wavetap 這樣的女生超帥但是又有可愛的感覺欸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3088,
+        "media_key": "3_2084646837445971968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4nQPQb0AAJnH7.jpg",
+        "width": 2316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2084647551844995256",
+        "created_at": "2026-08-04T16:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084678344898167195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1940740272314585088",
+              "start": 0,
+              "username": "_wavetap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084678344898167195",
+        "in_reply_to_user_id": "1940740272314585088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084647551844995256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_wavetap 這樣的女生超帥但是又有可愛的感覺欸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084646837445971968"
+          ]
+        },
+        "author_id": "1940740272314585088",
+        "conversation_id": "2084647551844995256",
+        "created_at": "2026-08-04T14:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084647551844995256"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tG5OfXD4gV",
+              "end": 143,
+              "expanded_url": "https://x.com/_wavetap/status/2084647551844995256/photo/1",
+              "media_key": "3_2084646837445971968",
+              "start": 120,
+              "url": "https://t.co/tG5OfXD4gV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084647551844995256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#mtf\n咕姆...總感覺咱hrt了好像也不會更好，別人覺得有差是因為別人開始了才認真打扮化妝，咱已經會化妝了，我感覺說自己也是到自己的極限了喵，沒辦法再往上拉了。總感覺好像不管怎樣沒什麼好期待的，沒辦法再更好了，對自己也沒什麼嚮往了喵。 https://t.co/tG5OfXD4gV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "余命日記を書いてます",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 192,
+          "like_count": 8233,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1625
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T11:52:06.000Z",
+        "description": "一個沒啥人在乎的MTF\n一點都不pass 也沒朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@_wavetap?xmt=…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@_wavetap?xmt=AQF0dv5rm71SwkAt-dDdTnyMFlK9EA720vdoCk2PeN50Ao",
+                "start": 0,
+                "url": "https://t.co/yhMt5Ay8Pp"
+              }
+            ]
+          }
+        },
+        "id": "1940740272314585088",
+        "name": "十三喵🏳️‍⚧️",
+        "pinned_tweet_id": "2065616665984000102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078108293860573184/XcnwTaYG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 106,
+          "like_count": 388,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 120
+        },
+        "url": "https://t.co/yhMt5Ay8Pp",
+        "username": "_wavetap",
+        "verified": false
+      }
+    ]
+  }
+}

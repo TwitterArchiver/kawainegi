@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2083711358416339100",
+    "created_at": "2026-08-02T00:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T01:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083711358416339100"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kawainegi/stat…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/kawainegi/status/2083709713364185432",
+          "start": 50,
+          "url": "https://t.co/yCfEwVacQW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083711358416339100",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083709713364185432",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "目の数え方がずっと迷ってる。\n多分前髪のせいで片目しか見えないボクにゃ目のことなんて見かねたからさ https://t.co/yCfEwVacQW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2420,
+        "media_key": "3_2083709702949806080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrS71NboAA1QVw.jpg",
+        "width": 1668
+      },
+      {
+        "height": 2420,
+        "media_key": "3_2083709702937141248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrS71KaYAA2qZh.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2083711358416339100",
+        "created_at": "2026-08-02T00:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T01:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083711358416339100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawainegi/stat…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/kawainegi/status/2083709713364185432",
+              "start": 50,
+              "url": "https://t.co/yCfEwVacQW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083711358416339100",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083709713364185432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目の数え方がずっと迷ってる。\n多分前髪のせいで片目しか見えないボクにゃ目のことなんて見かねたからさ https://t.co/yCfEwVacQW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083709702949806080",
+            "3_2083709702937141248"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083709713364185432",
+        "created_at": "2026-08-02T00:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T01:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083709713364185432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AaYx3qYPFN",
+              "end": 145,
+              "expanded_url": "https://x.com/kawainegi/status/2083709713364185432/photo/1",
+              "media_key": "3_2083709702949806080",
+              "start": 122,
+              "url": "https://t.co/AaYx3qYPFN"
+            },
+            {
+              "display_url": "pic.x.com/AaYx3qYPFN",
+              "end": 145,
+              "expanded_url": "https://x.com/kawainegi/status/2083709713364185432/photo/1",
+              "media_key": "3_2083709702937141248",
+              "start": 122,
+              "url": "https://t.co/AaYx3qYPFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083709713364185432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "20手目、白石を置いたら黒の地がゼロになった。何故にゃ？\n\n21手目、黒がパスする。22手目、ボクもパスする、そして黒の地が20目戻った。何故にゃ？？\n\n2目半負けたそれは何故にゃ？？？\n棋譜が動いてないのにゃ\n\n初心者のボクにゃわかんねぇや https://t.co/AaYx3qYPFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "余命日記を書いてます",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 188,
+          "like_count": 7913,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1574
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084054486990077952"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2084054535937655110",
+    "created_at": "2026-08-02T23:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T00:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084054535937655110"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kL9Rqvy13q",
+          "end": 34,
+          "expanded_url": "https://x.com/kawainegi/status/2084054535937655110/photo/1",
+          "media_key": "3_2084054486990077952",
+          "start": 11,
+          "url": "https://t.co/kL9Rqvy13q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084054535937655110",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "貓睡了( ；´Д｀) https://t.co/kL9Rqvy13q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2084054486990077952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOwMg52aQAAxGVj.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084054486990077952"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2084054535937655110",
+        "created_at": "2026-08-02T23:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T00:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084054535937655110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kL9Rqvy13q",
+              "end": 34,
+              "expanded_url": "https://x.com/kawainegi/status/2084054535937655110/photo/1",
+              "media_key": "3_2084054486990077952",
+              "start": 11,
+              "url": "https://t.co/kL9Rqvy13q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084054535937655110",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "貓睡了( ；´Д｀) https://t.co/kL9Rqvy13q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "余命日記を書いてます",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 189,
+          "like_count": 7995,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1591
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

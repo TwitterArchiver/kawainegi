@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2084533818594361630",
+    "created_at": "2026-08-04T16:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084681069127974979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1468153903384756230",
+          "start": 0,
+          "username": "sionn100percent"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084681069127974979",
+    "in_reply_to_user_id": "1468153903384756230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084533818594361630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sionn100percent 祝這個婊子被八十八個國男強○喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084533799711563776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3Ack4aYAAhQx1.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084533799711584256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3Ack4asAA8k5W.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2084533818594361630",
+        "created_at": "2026-08-04T16:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084681069127974979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1468153903384756230",
+              "start": 0,
+              "username": "sionn100percent"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084681069127974979",
+        "in_reply_to_user_id": "1468153903384756230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084533818594361630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sionn100percent 祝這個婊子被八十八個國男強○喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084533799711563776",
+            "3_2084533799711584256"
+          ]
+        },
+        "author_id": "1468153903384756230",
+        "conversation_id": "2084533818594361630",
+        "created_at": "2026-08-04T06:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084533818594361630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W81toKCbxX",
+              "end": 150,
+              "expanded_url": "https://x.com/sionn100percent/status/2084533818594361630/photo/1",
+              "media_key": "3_2084533799711563776",
+              "start": 127,
+              "url": "https://t.co/W81toKCbxX"
+            },
+            {
+              "display_url": "pic.x.com/W81toKCbxX",
+              "end": 150,
+              "expanded_url": "https://x.com/sionn100percent/status/2084533818594361630/photo/1",
+              "media_key": "3_2084533799711584256",
+              "start": 127,
+              "url": "https://t.co/W81toKCbxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084533818594361630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2117,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个臭女人嫌弃男生穿过的衣服，她说不管你干不干净，是男生穿过的就是恶心，这就是她的态度，典型的千金大小姐思维，以为自己是最干净的那个人，别人都很恶心，你特么什么人啊，以为自己是女皇帝呢？你以后别结婚好吧？你单一辈子，你是心理恶心，心里脏，你是最脏的那个 https://t.co/W81toKCbxX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "余命日記を書いてます",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 192,
+          "like_count": 8238,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1626
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T09:42:39.000Z",
+        "description": "小恶魔｜Little devil｜蓝V必回｜femboy｜ENname：LunaRuri｜EN CN JP｜Hot takes｜Commentary｜Humor｜Entertainment｜Verified users follow back｜Submissions welcome",
+        "id": "1468153903384756230",
+        "location": "小恶魔版，小天使不敢说的话我来说",
+        "name": "月璃_LunaRuri_V2🏳️‍⚧️😈",
+        "pinned_tweet_id": "2063477186338992267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084451204726484992/gz5_UFla_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 487,
+          "like_count": 798,
+          "listed_count": 10,
+          "media_count": 139,
+          "tweet_count": 4209
+        },
+        "url": "",
+        "username": "sionn100percent",
+        "verified": false
+      }
+    ]
+  }
+}

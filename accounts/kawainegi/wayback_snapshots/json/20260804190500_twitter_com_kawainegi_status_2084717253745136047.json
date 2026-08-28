@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084625637399199744"
+      ],
+      "media_source_tweet_id": [
+        "2084625641274794016"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2084717253745136047",
+    "created_at": "2026-08-04T19:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T20:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084717253745136047"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 19,
+          "tag": "appledash"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1962352194927349760",
+          "start": 3,
+          "username": "MEGg_fav"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6PbGOyFzIc",
+          "end": 53,
+          "expanded_url": "https://x.com/MEGg_fav/status/2084625641274794016/photo/1",
+          "media_key": "3_2084625637399199744",
+          "start": 30,
+          "url": "https://t.co/6PbGOyFzIc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084717253745136047",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 700
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084625641274794016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MEGg_fav: 噛み癖  #appledash https://t.co/6PbGOyFzIc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 985,
+        "media_key": "3_2084625637399199744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4T-O7aAAADQIX.jpg",
+        "width": 1456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084625637399199744"
+          ]
+        },
+        "author_id": "1962352194927349760",
+        "conversation_id": "2084625641274794016",
+        "created_at": "2026-08-04T13:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084625641274794016"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 5,
+              "tag": "appledash"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6PbGOyFzIc",
+              "end": 39,
+              "expanded_url": "https://x.com/MEGg_fav/status/2084625641274794016/photo/1",
+              "media_key": "3_2084625637399199744",
+              "start": 16,
+              "url": "https://t.co/6PbGOyFzIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084625641274794016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 763,
+          "impression_count": 56432,
+          "like_count": 8169,
+          "quote_count": 18,
+          "reply_count": 2,
+          "retweet_count": 700
+        },
+        "reply_settings": "everyone",
+        "text": "噛み癖  #appledash https://t.co/6PbGOyFzIc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084625637399199744"
+          ],
+          "media_source_tweet_id": [
+            "2084625641274794016"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2084717253745136047",
+        "created_at": "2026-08-04T19:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T20:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084717253745136047"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 19,
+              "tag": "appledash"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1962352194927349760",
+              "start": 3,
+              "username": "MEGg_fav"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6PbGOyFzIc",
+              "end": 53,
+              "expanded_url": "https://x.com/MEGg_fav/status/2084625641274794016/photo/1",
+              "media_key": "3_2084625637399199744",
+              "start": 30,
+              "url": "https://t.co/6PbGOyFzIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084717253745136047",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 700
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084625641274794016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MEGg_fav: 噛み癖  #appledash https://t.co/6PbGOyFzIc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "余命日記を書いてます",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 193,
+          "like_count": 8288,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1641
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T03:10:08.000Z",
+        "description": "🌈🍎🌈🍎🌈🍎🌈🍎\n↑↑↑\n😭😭😭🙌🙌🙌🙌🙌\n\n2026.07〜",
+        "id": "1962352194927349760",
+        "location": "自己満",
+        "name": "MEG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083204506750504961/hFeF7E8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 17,
+          "like_count": 520,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "MEGg_fav",
+        "verified": false
+      }
+    ]
+  }
+}

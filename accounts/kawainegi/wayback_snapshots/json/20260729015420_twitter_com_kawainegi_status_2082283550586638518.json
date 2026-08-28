@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2081745511212601481",
+    "created_at": "2026-07-29T01:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T02:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082283550586638518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1934844797598199808",
+          "start": 0,
+          "username": "zurill33206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082283550586638518",
+    "in_reply_to_user_id": "1934844797598199808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082265899113812000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zurill33206 對 傻眼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2081745511212601481",
+        "created_at": "2026-07-29T01:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082283550586638518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1934844797598199808",
+              "start": 0,
+              "username": "zurill33206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082283550586638518",
+        "in_reply_to_user_id": "1934844797598199808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082265899113812000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zurill33206 對 傻眼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934844797598199808",
+        "conversation_id": "2081745511212601481",
+        "created_at": "2026-07-29T00:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082265899113812000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2006749860863815682",
+              "start": 0,
+              "username": "kawainegi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082265899113812000",
+        "in_reply_to_user_id": "2006749860863815682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081803651304325360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawainegi 竟然這麼差嗎😀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "余命日記を書いてます",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 174,
+          "like_count": 7465,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1491
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T05:25:40.000Z",
+        "description": "喜欢ACG的臭私宅，想要变成一位善良贴心的大姐姐",
+        "id": "1934844797598199808",
+        "name": "zurill🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021120269985906688/NLLm09IE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 12,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "zurill33206",
+        "verified": false
+      }
+    ]
+  }
+}

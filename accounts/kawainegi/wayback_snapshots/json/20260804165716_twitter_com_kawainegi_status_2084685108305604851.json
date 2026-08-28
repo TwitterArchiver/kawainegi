@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2084505076937474429",
+    "created_at": "2026-08-04T16:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084685108305604851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2081060977236230145",
+          "start": 0,
+          "username": "chenqweqwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084685108305604851",
+    "in_reply_to_user_id": "2081060977236230145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084505076937474429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenqweqwe 男人女人都沒有錯只是這個婊子比較賤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 541,
+        "media_key": "3_2084505067332497408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2mUIba8AAoguV.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2084505076937474429",
+        "created_at": "2026-08-04T16:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084685108305604851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2081060977236230145",
+              "start": 0,
+              "username": "chenqweqwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084685108305604851",
+        "in_reply_to_user_id": "2081060977236230145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084505076937474429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenqweqwe 男人女人都沒有錯只是這個婊子比較賤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084505067332497408"
+          ]
+        },
+        "author_id": "2081060977236230145",
+        "conversation_id": "2084505076937474429",
+        "created_at": "2026-08-04T05:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084505076937474429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sqSWn4IIgC",
+              "end": 69,
+              "expanded_url": "https://x.com/chenqweqwe/status/2084505076937474429/photo/1",
+              "media_key": "3_2084505067332497408",
+              "start": 46,
+              "url": "https://t.co/sqSWn4IIgC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084505076937474429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 464,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女人出完cos能不能别挂闲鱼，挂闲鱼能不能标明一下自己是女的，刷闲鱼刷到个女人出衣服好恶心 https://t.co/sqSWn4IIgC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "余命日記を書いてます",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 191,
+          "like_count": 8247,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1629
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-25T16:57:20.000Z",
+        "description": "OK啊这边是@忱qwe的扩列条\n全网同名忱qweB站可以加呀\nv扩q扩私我喵\n同好扩列互补喵。\n推特互fo加@chenqweqwe\n绘画｜xnn｜myt不混｜反日右翼｜三国杀｜INFP｜🐱无｜同好无🚪神秘lsp自己给噢看你诚意｜09 169 50kg｜b站up｜不od\n从头开始养号互fo互补喵\n经常挂一下照片呢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "chenqweqwe"
+              }
+            ]
+          }
+        },
+        "id": "2081060977236230145",
+        "location": "香港",
+        "name": "忱qwe",
+        "pinned_tweet_id": "2084197770525593737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081061600358776832/EQmw9-u0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 113,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 149
+        },
+        "url": "",
+        "username": "chenqweqwe",
+        "verified": false
+      }
+    ]
+  }
+}

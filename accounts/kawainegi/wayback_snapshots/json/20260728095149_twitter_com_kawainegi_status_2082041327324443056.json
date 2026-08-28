@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082040700405964800"
+      ]
+    },
+    "author_id": "2006749860863815682",
+    "conversation_id": "2082041327324443056",
+    "created_at": "2026-07-28T09:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082041327324443056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BbJrdfjxoB",
+          "end": 34,
+          "expanded_url": "https://x.com/kawainegi/status/2082041327324443056/video/1",
+          "media_key": "13_2082040700405964800",
+          "start": 11,
+          "url": "https://t.co/BbJrdfjxoB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082041327324443056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小藥娘把兄弟抱起來了 https://t.co/BbJrdfjxoB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21971,
+        "height": 720,
+        "media_key": "13_2082040700405964800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082040700405964800/img/MOIW1Gr45uimpa6n.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082040700405964800/vid/avc1/480x270/RLnUDVNFNn4WVBAT.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082040700405964800/vid/avc1/640x360/SNC1jLSYRBeWwCxu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082040700405964800/vid/avc1/1280x720/Oi8Y2d-6aYB-04Te.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082040700405964800/pl/6pSQZOdofYg4aov0.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082040700405964800"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2082041327324443056",
+        "created_at": "2026-07-28T09:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082041327324443056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BbJrdfjxoB",
+              "end": 34,
+              "expanded_url": "https://x.com/kawainegi/status/2082041327324443056/video/1",
+              "media_key": "13_2082040700405964800",
+              "start": 11,
+              "url": "https://t.co/BbJrdfjxoB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082041327324443056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小藥娘把兄弟抱起來了 https://t.co/BbJrdfjxoB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 174,
+          "like_count": 7351,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1480
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

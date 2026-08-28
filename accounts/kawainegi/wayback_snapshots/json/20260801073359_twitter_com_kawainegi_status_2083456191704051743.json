@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2083087404915892441",
+    "created_at": "2026-08-01T07:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T08:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083456191704051743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1942038222886031360",
+          "start": 0,
+          "username": "yuchuance1963"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083456191704051743",
+    "in_reply_to_user_id": "1942038222886031360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083365451896430930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuchuance1963 原因 是什麼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2083087404915892441",
+        "created_at": "2026-08-01T07:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083456191704051743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1942038222886031360",
+              "start": 0,
+              "username": "yuchuance1963"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083456191704051743",
+        "in_reply_to_user_id": "1942038222886031360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083365451896430930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuchuance1963 原因 是什麼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942038222886031360",
+        "conversation_id": "2083087404915892441",
+        "created_at": "2026-08-01T01:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083365451896430930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2006749860863815682",
+              "start": 0,
+              "username": "kawainegi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083365451896430930",
+        "in_reply_to_user_id": "2006749860863815682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083087404915892441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawainegi 那你能做到吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "余命日記を書いてます",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 186,
+          "like_count": 7824,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1566
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T01:49:50.000Z",
+        "description": "我叫余传策，是一个对中共不满、想说点真话的老人，艰难翻墙讲述反共故事，最爱最亲的孙子 @Kiyoshiaufzju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiyoshiaufzju"
+              }
+            ]
+          }
+        },
+        "id": "1942038222886031360",
+        "name": "余传策（湖北白纸运动）",
+        "pinned_tweet_id": "2081939629771743409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082497645780905984/8uy55vn-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 72,
+          "like_count": 303,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "yuchuance1963",
+        "verified": false
+      }
+    ]
+  }
+}

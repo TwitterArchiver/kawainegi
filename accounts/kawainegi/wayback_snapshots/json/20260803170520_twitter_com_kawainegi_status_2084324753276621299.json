@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2006749860863815682",
+    "conversation_id": "2084231178907685138",
+    "created_at": "2026-08-03T17:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084324753276621299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1350698971996381191",
+          "start": 0,
+          "username": "ashinakei1203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084324753276621299",
+    "in_reply_to_user_id": "1350698971996381191",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084231178907685138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashinakei1203 Pass程度被承認了😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006749860863815682",
+        "conversation_id": "2084231178907685138",
+        "created_at": "2026-08-03T17:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084324753276621299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1350698971996381191",
+              "start": 0,
+              "username": "ashinakei1203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084324753276621299",
+        "in_reply_to_user_id": "1350698971996381191",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084231178907685138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashinakei1203 Pass程度被承認了😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1350698971996381191",
+        "conversation_id": "2084231178907685138",
+        "created_at": "2026-08-03T10:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084231178907685138"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084231178907685138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1483,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天第一次去600号和医生聊我的性别认同，医生说可是你看着就是很女生啊？\n/。。。。。。这是对一个来这个门诊本来就gd的孩子能说的嘛，gd更严重了😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "余命日記を書いてます",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 191,
+          "like_count": 8113,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1603
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-17T06:58:33.000Z",
+        "description": "他/他们/⭐ftmtx???/demiboy/可能是个跨男娘流动中◐⩊◑⭐\n♐泛性恋/喜欢画点画，打点游戏，术力口，摇滚/\n目标28年年初px/减到95斤/努力学会爱自己吧",
+        "id": "1350698971996381191",
+        "name": "asn顺🏳‍⚧",
+        "pinned_tweet_id": "2082869888000110993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080674355571470336/CROcXLZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 67,
+          "like_count": 12434,
+          "listed_count": 6,
+          "media_count": 31,
+          "tweet_count": 3246
+        },
+        "url": "",
+        "username": "ashinakei1203",
+        "verified": false
+      }
+    ]
+  }
+}
