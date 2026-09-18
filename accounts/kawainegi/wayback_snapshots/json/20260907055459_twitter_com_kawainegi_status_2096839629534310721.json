@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2096443288681328641",
+    "conversation_id": "2096839629534310721",
+    "created_at": "2026-09-07T05:54:59.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T06:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096839629534310721"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2096839629534310721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在這個自己很不喜歡，又不知道怎麼離開的世界裡到底還要撐過多少天呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096443288681328641",
+        "conversation_id": "2096839629534310721",
+        "created_at": "2026-09-07T05:54:59.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T06:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096839629534310721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096839629534310721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在這個自己很不喜歡，又不知道怎麼離開的世界裡到底還要撐過多少天呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T03:41:14.000Z",
+        "description": "",
+        "id": "2096443288681328641",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096839629534310721",
+        "name": "川井ネギ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096443288681328641/1788666280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096443800868831233/rn0S9cfn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
